@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+
+    <TextView
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="22sp"
+        android:id="@+id/tv"
+        android:layout_gravity="center_horizontal|left"
+        android:textColor="#ffffff" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="New RadioButton"
+            android:id="@+id/radioButton"
+            android:background="@drawable/buttoncolor"
+            android:textSize="26sp"
+
+            android:textColor="#ffffff"
+            android:buttonTint="#ffffff" />
+
+        <RadioButton
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="New RadioButton"
+            android:background="@drawable/buttoncolor"
+            android:textSize="26sp"
+            android:id="@+id/radioButton2"
+            android:buttonTint="#ffffff"
+            android:textColor="#ffffff" />
+
+        <RadioButton
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="New RadioButton"
+            android:background="@drawable/buttoncolor"
+            android:textSize="26sp"
+            android:id="@+id/radioButton3"
+            android:buttonTint="#ffffff"
+            android:textColor="#ffffff" />
+
+        <RadioButton
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="New RadioButton"
+            android:background="@drawable/buttoncolor"
+            android:textSize="26sp"
+            android:id="@+id/radioButton4"
+            android:buttonTint="#ffffff"
+            android:textColor="#ffffff" />
+    </RadioGroup>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="26sp"
+        android:text="Sljedeće pitanje"
+        android:background="@drawable/buttoncolor"
+        android:id="@+id/btnnext"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
