@@ -20,8 +20,7 @@ public class Kategorija {
         return ime;
     }
 
-    public int getTmbImageId(Context context)
-    {
+    public int getTmbImageId(Context context) {
         return context.getResources().getIdentifier("img"+ID, "drawable", "com.example.b312967.quizapp");
     }
 

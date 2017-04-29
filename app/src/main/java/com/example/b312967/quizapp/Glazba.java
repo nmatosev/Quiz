@@ -12,8 +12,7 @@ public class Glazba {
     private String OPTD;
 
     private String ANSWER;
-    public Glazba()
-    {
+    public Glazba() {
         ID=0;
         QUESTION="";
         OPTA="";
@@ -22,8 +21,7 @@ public class Glazba {
         OPTD="";
         ANSWER="";
     }
-    public Glazba(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD,
-                  String aNSWER) {
+    public Glazba(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD, String aNSWER) {
 
         QUESTION = qUESTION;
         OPTA = oPTA;

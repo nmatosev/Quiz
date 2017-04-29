@@ -14,18 +14,17 @@ public class ResultActivity extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.result);
-//get rating bar object
+        //get rating bar object
         RatingBar bar=(RatingBar)findViewById(R.id.ratingBar);
-//get text view
+        //get text view
         TextView t=(TextView)findViewById(R.id.tvresult);
-//get score
+        //get score
         Bundle b = getIntent().getExtras();
         int score= b.getInt("score");
         Log.d("rezultat", "" + score);
-//display score
+        //display score
         bar.setRating(score);
-        switch (score)
-        {
+        switch (score) {
             case 0:
                 t.setText("nula");
                 break;

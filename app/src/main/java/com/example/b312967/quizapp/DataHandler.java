@@ -92,7 +92,6 @@ public class DataHandler extends SQLiteOpenHelper {
         db.execSQL(CREATE_TABLE_IT);
         Log.d("oncreate sqlite", "");
 
-
         ///////////////ONCREATE =====> ADDQUESTIONS_KATEGORIJA(STVARANJE OBJEKTA) ==========> ADDQUESTIONKATEGORIJA (UNOS U BAZU)
         addQuestionsPovijest();
         addQuestionsSport();
@@ -102,13 +101,11 @@ public class DataHandler extends SQLiteOpenHelper {
         addQuestionsGlazba();
         addQuestionsIT();
 
-//db.close();
+        //db.close();
     }
 
     //GETERI SETERI, stvaraj nove objekte koji se spremaju u tablice
-    private void addQuestionsPovijest()
-    {
-
+    private void addQuestionsPovijest() {
         List<String> questionlist = new ArrayList<String>(); // lista pitanja i odgovora
         //List<Povijest> povijestList;  // lista objekata povijest
         Log.w("test", "testbeforeparse");
@@ -169,16 +166,13 @@ public class DataHandler extends SQLiteOpenHelper {
         this.addQuestionPovijest(q18);
         Povijest q19=new Povijest("Čiji teritorij nije u potpunosti okupiralo Rimsko carstvo? ","Njemačke","Španjolske","Grčke","Francuske","Njemačke");
         this.addQuestionPovijest(q19);
-
-
-
     }
 
     public List<String> ParseFile(String filename) // filename triba bit tipa "raw/ime.text" u res/raw folderu
     {
-        Log.w("asd", "test");
+        Log.w("LOG", "test");
         InputStream in = this.getClass().getClassLoader().getResourceAsStream(filename);
-        Log.w("asd", "test2");
+        Log.w("LOG", "test2");
         BufferedReader reader = new BufferedReader(new InputStreamReader(in));
 
         List<String> list = new ArrayList<String>(); // lista stringova
@@ -186,19 +180,13 @@ public class DataHandler extends SQLiteOpenHelper {
         //String[] separated;  // array u kojem ce prvi clan bit pitanje, sljedeca 4 odgovori
 
         try {
-            while ((str = reader.readLine()) != null)
-            {
+            while ((str = reader.readLine()) != null) {
                 Log.w("asd", str);
                 list.add(str);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        /*for (int i=0; i<list.size(); i++)
-        {
-            separated = list.get(i).split("|");
-        }*/
 
         return list;
     }
@@ -239,22 +227,14 @@ public class DataHandler extends SQLiteOpenHelper {
         this.addQuestionSport(q13);
         Sport q14=new Sport("Koji tim igra na Allianz areni?","Hertha","Nurnberg","Bayern","Werder","Bayern");
         this.addQuestionSport(q14);
-
     }
-
-
-
-    private void addQuestionsZemljopis()
-    {
+    private void addQuestionsZemljopis() {
         Zemljopis q1=new Zemljopis("Koji je glavni grad Brazila?","Rio de Janeiro","Brazilia","Sao Paulo","Recife","Brazilia");
         this.addQuestionZemljopis(q1);
-
         Zemljopis q2=new Zemljopis("Glavni grad Portugala je:", "Lisabon", "Coimbra","Porto", "Braga", "Lisabon");
         this.addQuestionZemljopis(q2);
-
         Zemljopis q3=new Zemljopis("Glavni grad Ukrajine je:","Kijev","Volgograd", "Riga","Helsinki","Kijev");
         this.addQuestionZemljopis(q3);
-
         Zemljopis q4=new Zemljopis("Površinom najveća zemlja Europe je:",    "Francuska","Njemačka", "Ukrajina", "Španjolska","Ukrajina");
         this.addQuestionZemljopis(q4);
         Zemljopis q5=new Zemljopis("Koja od ovih država leži na ekvatoru?","Čile","Meksiko","Argentina","Brazil","Brazil");
@@ -267,7 +247,6 @@ public class DataHandler extends SQLiteOpenHelper {
         this.addQuestionZemljopis(q8);
         Zemljopis q9=new Zemljopis("Glavni grad Bjelorusije je:","Riga","Donjeck","Kazan","Minsk","Minsk");
         this.addQuestionZemljopis(q9);
-
     }
 
     private void addQuestionsZnanost()
@@ -292,8 +271,7 @@ public class DataHandler extends SQLiteOpenHelper {
         Znanost q3=new Znanost("Koliko kuteva ima heksagon","3", "4","5","6","6");
         this.addQuestionZnanost(q3);
 
-        Znanost q4=new Znanost("Kako se zove najduža stranica pravokutnog " +
-                "trokuta?",    "Kateta", "Hipotenuza", "Tangenta","Normala","Hipotenuza");
+        Znanost q4=new Znanost("Kako se zove najduža stranica pravokutnog trokuta?",   "Kateta", "Hipotenuza", "Tangenta","Normala","Hipotenuza");
         this.addQuestionZnanost(q4);
         Znanost q5=new Znanost("Kvadratni korijen iz 2 iznosi:","1.4343","1.4521","1.4565","1.4142","1.4142");
         this.addQuestionZnanost(q5);
@@ -331,7 +309,6 @@ public class DataHandler extends SQLiteOpenHelper {
         this.addQuestionFilm(q10);
         Film q11=new Film("Koji automobil vozi 007 u filmu Tomorrow Never Dies?","BMW","Aston Martin","Jaguar","Mercedes","BMW");
         this.addQuestionFilm(q11);
-
     }
 
     private void addQuestionsGlazba()
@@ -392,14 +369,13 @@ public class DataHandler extends SQLiteOpenHelper {
         this.addQuestionIT(q13);
         IT q14=new IT("Koji se programski jezik najčešće koristi za umjetnu inteligenciju?","Java","C","Prolog","Ruby","Prolog");
         this.addQuestionIT(q14);
-
     }
 
 
     //POZIVA SE KAD SE PROMIJENI VERZIJA DB, ZATIM SE OPET POZIVA ONCREATE I RADI PONOVNO PUNJENJE TABLICA
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldV, int newV) {
-// Drop older table if existed
+    // Drop older table if existed
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_POVIJEST);
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_SPORT);
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_ZEMLJOPIS);
@@ -407,14 +383,11 @@ public class DataHandler extends SQLiteOpenHelper {
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_FILM);
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_GLAZBA);
         db.execSQL("DROP TABLE IF EXISTS " + TABLE_IT);
-// Create tables again
+        // Create tables again
         onCreate(db);
     }
 
-    ///////////////////////////////////////////////////////////////////////////////
     ///////////////////////DODAVANJE NOVIH PITANJA U BAZU PODATAKA/////////////////////////////////
-    //////////////////////////////////////////////////////////////////////////////
-
 
     ///////////////////////DODAJ PITANJE U POVIJEST TABLICU////////////////////////
     public void addQuestionPovijest(Povijest quest) {//STAVLJAJ U TABLICU NOVE RETKE
@@ -432,8 +405,6 @@ public class DataHandler extends SQLiteOpenHelper {
         //db.insert(TABLE_POVIJEST,null, values);
         Log.d("dodano novo", "");
         //db.close();
-
-
     }
 
     public void addQuestionSport(Sport quest) {//STAVLJAJ U TABLICU NOVE RETKE
@@ -447,9 +418,7 @@ public class DataHandler extends SQLiteOpenHelper {
         values.put(KEY_OPTD, quest.getOPTD());
 // Inserting Row
         dbase.insert(TABLE_SPORT, null, values);
-
     }
-
 
     ////////////////////////DODAJ PITANJE U ZEMLJOPIS TABLICU
     public void addQuestionZemljopis(Zemljopis quest) {//STAVLJAJ U TABLICU NOVE RETKE
@@ -463,7 +432,6 @@ public class DataHandler extends SQLiteOpenHelper {
         values.put(KEY_OPTD, quest.getOPTD());
 // Inserting Row
         dbase.insert(TABLE_ZEMLJOPIS, null, values);
-
 
     }
 
@@ -507,10 +475,8 @@ public class DataHandler extends SQLiteOpenHelper {
         values.put(KEY_OPTB, quest.getOPTB());
         values.put(KEY_OPTC, quest.getOPTC());
         values.put(KEY_OPTD, quest.getOPTD());
-// Inserting Row
+        // Inserting Row
         dbase.insert(TABLE_GLAZBA, null, values);
-
-
     }
 
     public void addQuestionIT(IT quest) {//STAVLJAJ U TABLICU NOVE RETKE
@@ -532,7 +498,6 @@ public class DataHandler extends SQLiteOpenHelper {
 
     ////////////////////////////////////////////////////////////////////////////
     //////////////////////////SELECT UPITI/////////////////////////////////////
-    ///////////////////////////////////////////////////////////////////////////
 
     ////////////////////SELECT ALL QUERY IZ TABLICE POVIJEST
     public List<Povijest> getAllQuestionsPovijest() {
@@ -541,7 +506,7 @@ public class DataHandler extends SQLiteOpenHelper {
         String selectQuery = "SELECT  * FROM " + TABLE_POVIJEST;
         dbase=this.getReadableDatabase();
         Cursor cursor = dbase.rawQuery(selectQuery, null);
-/////////////STVORI LISTU, PROŠETAJ SA WHILE KROZ TABLICU,NAPUNI LISTU OBJEKTIMA IZ TABLICE,VRATI LISTU
+//STVORI LISTU, PROŠETAJ SA WHILE KROZ TABLICU,NAPUNI LISTU OBJEKTIMA IZ TABLICE,VRATI LISTU
         if (cursor.moveToFirst()) {
             do {
                 Povijest quest = new Povijest();
@@ -585,7 +550,6 @@ public class DataHandler extends SQLiteOpenHelper {
     /////////////////////////////////////////SELECT ALL QUERY ZEMLJOPIS
     public List<Zemljopis> getAllQuestionsZemljopis() {
         List<Zemljopis> quesList = new ArrayList<Zemljopis>();
-
         String selectQuery = "SELECT  * FROM " + TABLE_ZEMLJOPIS;
         dbase=this.getReadableDatabase();
         Cursor cursor = dbase.rawQuery(selectQuery, null);
@@ -602,7 +566,6 @@ public class DataHandler extends SQLiteOpenHelper {
                 quesList.add(quest);
             } while (cursor.moveToNext());
         }
-// return quest list
         return quesList;
     }
 
@@ -625,7 +588,6 @@ public class DataHandler extends SQLiteOpenHelper {
                 quesList.add(quest);
             } while (cursor.moveToNext());
         }
-// return quest list
         return quesList;
     }
 
@@ -648,7 +610,6 @@ public class DataHandler extends SQLiteOpenHelper {
                 quesList.add(quest);
             } while (cursor.moveToNext());
         }
-// return quest list
         return quesList;
     }
 
@@ -671,7 +632,6 @@ public class DataHandler extends SQLiteOpenHelper {
                 quesList.add(quest);
             } while (cursor.moveToNext());
         }
-// return quest list
         return quesList;
     }
 
@@ -694,7 +654,6 @@ public class DataHandler extends SQLiteOpenHelper {
                 quesList.add(quest);
             } while (cursor.moveToNext());
         }
-// return quest list
         return quesList;
     }
 

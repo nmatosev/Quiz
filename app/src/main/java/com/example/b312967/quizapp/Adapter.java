@@ -14,7 +14,6 @@ import android.widget.TextView;
  */
 public class Adapter extends BaseAdapter{
 
-
     private Context mContext;
     private LayoutInflater mInflater;
 
@@ -47,7 +46,6 @@ public class Adapter extends BaseAdapter{
         final ImageView imageTmb = (ImageView) convertView.findViewById(R.id.image_tmb);
         final Kategorija kategorija = DataStorage.listViewData.get(position);
         Log.d("Scroll", String.valueOf(position));
-
         ime.setText(kategorija.getIme());
         imageTmb.setImageResource(kategorija.getTmbImageId(mContext));
 

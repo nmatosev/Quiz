@@ -25,18 +25,13 @@ public class MainActivity extends AppCompatActivity {
         DataStorage.fillData();
         myListView.setAdapter(new Adapter(getApplicationContext()));
 
-        Log.i("tag", "aplikacijaaaaaaa");
         myListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-                                              public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                                                  Intent intent = new Intent(view.getContext(), QuizActivity.class);
-
-                                                  intent.putExtra("pozicija", String.valueOf(i));
-                                                  startActivity(intent);
-                                              }
-                                          }
-        );
-
-
+              public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                  Intent intent = new Intent(view.getContext(), QuizActivity.class);
+                  intent.putExtra("pozicija", String.valueOf(i));
+                  startActivity(intent);
+              }
+        });
     }
 
     @Override

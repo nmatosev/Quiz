@@ -12,8 +12,7 @@ public class Povijest {
     private String OPTD;
 
     private String ANSWER;
-    public Povijest()
-    {
+    public Povijest() {
         ID=0;
         QUESTION="";
         OPTA="";

@@ -88,36 +88,25 @@ public class QuizActivity extends Activity {
         Bundle extras = getIntent().getExtras();
         String value =extras.getString("pozicija");
         final Integer pozicija=Integer.valueOf(value);//kastaj extra iz maina u int
-        Log.d("pozicijaaa", pozicija + "");
-
-
+        Log.d("position", pozicija + "");
 
         setQuestionView(pozicija);
 
-
         butNext.setOnClickListener(new View.OnClickListener() {
-
-
-
-
             @Override
             public void onClick(View v) {
-
                 RadioGroup grp=(RadioGroup)findViewById(R.id.radioGroup1);
                 RadioButton answer=(RadioButton)findViewById(grp.getCheckedRadioButtonId());
 
             try {
-
                 Log.d("odgovor", " " + answer.getText());
                 if (pozicija == 0) {
-
                     if (currentQPovijest.getANSWER().equals(answer.getText())) {
                         score++;
                         Log.d("score", "" + score);
                         Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
                     }
                     if (brojac_pitanja < 5) {
-
                         Log.d("lista", " " + list1);
                         Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
                         currentQPovijest = quesListPovijest.get(list1.get(id1));
@@ -161,8 +150,6 @@ public class QuizActivity extends Activity {
                         Log.d("score", "Your score" + score);
                     }
                     if (brojac_pitanja < 5) {
-
-
                         Log.d("lista", " " + list1);
                         Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
                         currentQZemljopis = quesListZemljopis.get(list1.get(id1));
@@ -271,64 +258,57 @@ public class QuizActivity extends Activity {
                 Toast.makeText(getApplicationContext(),"Odgovor nije označen!",Toast.LENGTH_SHORT).show();
             }
 
-
-
-
             }
         });
-
-
     }
 
-    private void setQuestionView(int pozicija)
-    {
+    private void setQuestionView(int pozicija) {
+        for(int i=0;i<7;i++){
+            if(pozicija==i){
+                txtQuestion.setText(currentQPovijest.getQUESTION());
+                rda.setText(currentQPovijest.getOPTA());
+                rdb.setText(currentQPovijest.getOPTB());
+                rdc.setText(currentQPovijest.getOPTC());
+                rdd.setText(currentQPovijest.getOPTD());
+                brojac_pitanja++;
+            }
+        }
         if(pozicija == 0) {
-
             txtQuestion.setText(currentQPovijest.getQUESTION());
             rda.setText(currentQPovijest.getOPTA());
             rdb.setText(currentQPovijest.getOPTB());
             rdc.setText(currentQPovijest.getOPTC());
             rdd.setText(currentQPovijest.getOPTD());
-
-
             brojac_pitanja++;
-
         }
-        else if (pozicija == 1)
-        {
+        else if (pozicija == 1) {
             txtQuestion.setText(currentQSport.getQUESTION());
             rda.setText(currentQSport.getOPTA());
             rdb.setText(currentQSport.getOPTB());
             rdc.setText(currentQSport.getOPTC());
             rdd.setText(currentQSport.getOPTD());
             brojac_pitanja++;
-
         }
 
-        else if (pozicija == 2)
-        {
+        else if (pozicija == 2) {
             txtQuestion.setText(currentQZemljopis.getQUESTION());
             rda.setText(currentQZemljopis.getOPTA());
             rdb.setText(currentQZemljopis.getOPTB());
             rdc.setText(currentQZemljopis.getOPTC());
             rdd.setText(currentQZemljopis.getOPTD());
             brojac_pitanja++;
-
         }
 
-        else if (pozicija == 3)
-        {
+        else if (pozicija == 3) {
             txtQuestion.setText(currentQZnanost.getQUESTION());
             rda.setText(currentQZnanost.getOPTA());
             rdb.setText(currentQZnanost.getOPTB());
             rdc.setText(currentQZnanost.getOPTC());
             rdd.setText(currentQZnanost.getOPTD());
             brojac_pitanja++;
-
         }
 
-        else if (pozicija == 4)
-        {
+        else if (pozicija == 4) {
             txtQuestion.setText(currentQFilm.getQUESTION());
             rda.setText(currentQFilm.getOPTA());
             rdb.setText(currentQFilm.getOPTB());
@@ -337,21 +317,15 @@ public class QuizActivity extends Activity {
             brojac_pitanja++;
 
         }
-
-        else if (pozicija == 5)
-        {
+        else if (pozicija == 5) {
             txtQuestion.setText(currentQGlazba.getQUESTION());
             rda.setText(currentQGlazba.getOPTA());
             rdb.setText(currentQGlazba.getOPTB());
             rdc.setText(currentQGlazba.getOPTC());
             rdd.setText(currentQGlazba.getOPTD());
             brojac_pitanja++;
-
         }
-
-        else if (pozicija == 6)
-        {
-
+        else if (pozicija == 6) {
             txtQuestion.setText(currentQIT.getQUESTION());
             rda.setText(currentQIT.getOPTA());
             rdb.setText(currentQIT.getOPTB());
@@ -360,10 +334,6 @@ public class QuizActivity extends Activity {
             brojac_pitanja++;
 
         }
-
-
-
-
     }
 }
 

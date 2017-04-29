@@ -12,8 +12,7 @@ public class Film {
     private String OPTD;
 
     private String ANSWER;
-    public Film()
-    {
+    public Film() {
         ID=0;
         QUESTION="";
         OPTA="";
@@ -22,8 +21,7 @@ public class Film {
         OPTD="";
         ANSWER="";
     }
-    public Film(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD,
-                String aNSWER) {
+    public Film(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD, String aNSWER) {
 
         QUESTION = qUESTION;
         OPTA = oPTA;

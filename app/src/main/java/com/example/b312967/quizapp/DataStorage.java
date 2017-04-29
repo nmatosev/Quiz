@@ -8,16 +8,13 @@ import java.util.HashMap;
 public class DataStorage {
     private static String[] imena = {"Povijest", "Sport", "Zemljopis", "Znanost", "Film", "Glazba", "IT"};
 
-
     public static HashMap<Integer, Kategorija> listViewData = new HashMap<Integer,
             Kategorija>();
 
     public static void fillData() {
-            for(int i = 0; i <imena.length; i++){
-
-                Kategorija akategorija = new Kategorija(i , imena[i]);
-                listViewData.put(i, akategorija);
-            }
-
+        for(int i = 0; i <imena.length; i++){
+            Kategorija akategorija = new Kategorija(i , imena[i]);
+            listViewData.put(i, akategorija);
+        }
     }
 }

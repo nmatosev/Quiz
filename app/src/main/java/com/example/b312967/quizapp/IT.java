@@ -12,8 +12,7 @@ public class IT {
     private String OPTD;
 
     private String ANSWER;
-    public IT()
-    {
+    public IT() {
         ID=0;
         QUESTION="";
         OPTA="";
@@ -22,8 +21,7 @@ public class IT {
         OPTD="";
         ANSWER="";
     }
-    public IT(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD,
-              String aNSWER) {
+    public IT(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD, String aNSWER) {
 
         QUESTION = qUESTION;
         OPTA = oPTA;
