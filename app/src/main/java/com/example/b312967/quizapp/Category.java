@@ -36,6 +36,9 @@ public class Category {
         {
             return ID;
         }
+        public String getCATEGORY() {
+        return CATEGORY;
+    }
         public String getQUESTION() {
             return QUESTION;
         }
@@ -75,6 +78,9 @@ public class Category {
         }
         public void setANSWER(String aNSWER) {
             ANSWER = aNSWER;
+        }
+        public void setCATEGORY(String cATEGORY) {
+            CATEGORY = cATEGORY;
         }
 
 }

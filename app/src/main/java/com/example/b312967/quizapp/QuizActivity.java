@@ -22,7 +22,7 @@ import java.util.Random;
  */
 public class QuizActivity extends Activity {
 
-
+    List<Category> quesList;
     List<Povijest> quesListPovijest;
     List<Sport> quesListSport;
     List<Zemljopis> quesListZemljopis;
@@ -42,41 +42,65 @@ public class QuizActivity extends Activity {
     Film currentQFilm;
     Glazba currentQGlazba;
     IT currentQIT;
-
+    Category currentQ;
 
     TextView txtQuestion;
     RadioButton rda, rdb, rdc, rdd;
-    Button btna,btnb,btnc,btnd;
     Button butNext;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_quiz);
 
-        final ArrayList<Integer> list1 = new ArrayList<Integer>();
+        final ArrayList<Integer> integerArrayList = new ArrayList<Integer>();
         for (int i=0; i<5; i++) {
-            list1.add(new Integer(i));
+            integerArrayList.add(new Integer(i));
         }
-        Collections.shuffle(list1);
+        Collections.shuffle(integerArrayList);
         int random=0;
 
-        DataHandler db=new DataHandler(this);
+        DataHandler dataHandler = new DataHandler();
+        dataHandler.addQuestions();
         /////////////////////////////////////////PRAZNE LISTE KOJE SE PUNE POMOCU SELECT UPITA u datahandleru
-        quesListPovijest=db.getAllQuestionsPovijest();  ////"SELECT  * FROM " + TABLE_POVIJEST;
-        quesListSport=db.getAllQuestionsSport();
-        quesListZemljopis=db.getAllQuestionsZemljopis();
-        quesListZnanost=db.getAllQuestionsZnanost();
-        quesListFilm=db.getAllQuestionsFilm();
-        quesListGlazba=db.getAllQuestionsGlazba();
-        quesListIT=db.getAllQuestionsIT();
+        quesList = dataHandler.getAllQuestions();
+        Log.d("quesList",quesList.toString());
+        for (Category c : quesList) {
+            if(c.getCATEGORY().equals("history")){
+                currentQPovijest = (Povijest) c;
+                quesListPovijest.add(currentQPovijest);
+            }
+            else if(c.getCATEGORY().equals("geography")){
+                currentQZemljopis = (Zemljopis) c;
+                quesListPovijest.add(currentQPovijest);
 
-        currentQPovijest=quesListPovijest.get(list1.get(random + 4));
-        currentQSport = quesListSport.get(list1.get(random + 4));
-        currentQZemljopis = quesListZemljopis.get(list1.get(random + 4) );
-        currentQZnanost = quesListZnanost.get(list1.get(random + 4) );
-        currentQFilm = quesListFilm.get(list1.get(random + 4) );
-        currentQGlazba = quesListGlazba.get(list1.get(random + 4) );
-        currentQIT = quesListIT.get(list1.get(random + 4) );
+            }
+            else if(c.getCATEGORY().equals("science")){
+                currentQZnanost = (Znanost) c;
+                quesListPovijest.add(currentQPovijest);
+
+            }
+            else if(c.getCATEGORY().equals("music")){
+                currentQGlazba = (Glazba) c;
+                quesListPovijest.add(currentQPovijest);
+
+            }
+            else if(c.getCATEGORY().equals("movie")){
+                currentQFilm = (Film) c;
+                quesListPovijest.add(currentQPovijest);
+
+            }
+            else if(c.getCATEGORY().equals("sport")){
+                currentQSport = (Sport) c;
+                quesListPovijest.add(currentQPovijest);
+
+            }
+
+        }
+
+
+
+
+        currentQ=quesList.get(integerArrayList.get(random + 4));
 
         txtQuestion=(TextView)findViewById(R.id.tv);
         rda=(RadioButton)findViewById(R.id.radioButton);
@@ -100,16 +124,17 @@ public class QuizActivity extends Activity {
 
             try {
                 Log.d("odgovor", " " + answer.getText());
+
                 if (pozicija == 0) {
-                    if (currentQPovijest.getANSWER().equals(answer.getText())) {
+                    if (currentQ.getANSWER().equals(answer.getText())) {
                         score++;
                         Log.d("score", "" + score);
                         Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
                     }
                     if (brojac_pitanja < 5) {
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQPovijest = quesListPovijest.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQ = quesList.get(integerArrayList.get(id1));
                         id1++;
                         setQuestionView(pozicija);
                     } else {
@@ -129,9 +154,9 @@ public class QuizActivity extends Activity {
                     }
                     if (brojac_pitanja < 5) {
 
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQSport = quesListSport.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQSport = quesListSport.get(integerArrayList.get(id1));
                         id1++;
 
                         setQuestionView(pozicija);
@@ -150,9 +175,9 @@ public class QuizActivity extends Activity {
                         Log.d("score", "Your score" + score);
                     }
                     if (brojac_pitanja < 5) {
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQZemljopis = quesListZemljopis.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQZemljopis = quesListZemljopis.get(integerArrayList.get(id1));
                         id1++;
                         setQuestionView(pozicija);
                     } else {
@@ -170,9 +195,9 @@ public class QuizActivity extends Activity {
                         Log.d("score", "Your score" + score);
                     }
                     if (brojac_pitanja < 5) {
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQZnanost = quesListZnanost.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQZnanost = quesListZnanost.get(integerArrayList.get(id1));
                         id1++;
                         setQuestionView(pozicija);
                     } else {
@@ -191,9 +216,9 @@ public class QuizActivity extends Activity {
                         Log.d("score", "Your score" + score);
                     }
                     if (brojac_pitanja < 5) {
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQFilm = quesListFilm.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQFilm = quesListFilm.get(integerArrayList.get(id1));
                         id1++;
                         setQuestionView(pozicija);
                     } else {
@@ -212,9 +237,9 @@ public class QuizActivity extends Activity {
                         Log.d("score", "Your score" + score);
                     }
                     if (brojac_pitanja < 5) {
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQGlazba = quesListGlazba.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQGlazba = quesListGlazba.get(integerArrayList.get(id1));
                         id1++;
                         setQuestionView(pozicija);
                     } else {
@@ -228,17 +253,14 @@ public class QuizActivity extends Activity {
                     }
                 } else if (pozicija == 6) {
 
-
                     if (currentQIT.getANSWER().equals(answer.getText())) {
                         score++;
                         Log.d("score", " " + score);
                     }
                     if (brojac_pitanja < 5) {
-
-
-                        Log.d("lista", " " + list1);
-                        Log.d("ID TRENUTNOG PITANJA", " " + list1.get(id1));
-                        currentQIT = quesListIT.get(list1.get(id1));
+                        Log.d("lista", " " + integerArrayList);
+                        Log.d("ID TRENUTNOG PITANJA", " " + integerArrayList.get(id1));
+                        currentQIT = quesListIT.get(integerArrayList.get(id1));
                         id1++;
                         setQuestionView(pozicija);
                     } else {
@@ -253,8 +275,7 @@ public class QuizActivity extends Activity {
                 }
 
             }
-            catch (NullPointerException e)
-            {
+            catch (NullPointerException e) {
                 Toast.makeText(getApplicationContext(),"Odgovor nije označen!",Toast.LENGTH_SHORT).show();
             }
 
@@ -265,74 +286,13 @@ public class QuizActivity extends Activity {
     private void setQuestionView(int pozicija) {
         for(int i=0;i<7;i++){
             if(pozicija==i){
-                txtQuestion.setText(currentQPovijest.getQUESTION());
-                rda.setText(currentQPovijest.getOPTA());
-                rdb.setText(currentQPovijest.getOPTB());
-                rdc.setText(currentQPovijest.getOPTC());
-                rdd.setText(currentQPovijest.getOPTD());
+                txtQuestion.setText(currentQ.getQUESTION());
+                rda.setText(currentQ.getOPTA());
+                rdb.setText(currentQ.getOPTB());
+                rdc.setText(currentQ.getOPTC());
+                rdd.setText(currentQ.getOPTD());
                 brojac_pitanja++;
             }
-        }
-        if(pozicija == 0) {
-            txtQuestion.setText(currentQPovijest.getQUESTION());
-            rda.setText(currentQPovijest.getOPTA());
-            rdb.setText(currentQPovijest.getOPTB());
-            rdc.setText(currentQPovijest.getOPTC());
-            rdd.setText(currentQPovijest.getOPTD());
-            brojac_pitanja++;
-        }
-        else if (pozicija == 1) {
-            txtQuestion.setText(currentQSport.getQUESTION());
-            rda.setText(currentQSport.getOPTA());
-            rdb.setText(currentQSport.getOPTB());
-            rdc.setText(currentQSport.getOPTC());
-            rdd.setText(currentQSport.getOPTD());
-            brojac_pitanja++;
-        }
-
-        else if (pozicija == 2) {
-            txtQuestion.setText(currentQZemljopis.getQUESTION());
-            rda.setText(currentQZemljopis.getOPTA());
-            rdb.setText(currentQZemljopis.getOPTB());
-            rdc.setText(currentQZemljopis.getOPTC());
-            rdd.setText(currentQZemljopis.getOPTD());
-            brojac_pitanja++;
-        }
-
-        else if (pozicija == 3) {
-            txtQuestion.setText(currentQZnanost.getQUESTION());
-            rda.setText(currentQZnanost.getOPTA());
-            rdb.setText(currentQZnanost.getOPTB());
-            rdc.setText(currentQZnanost.getOPTC());
-            rdd.setText(currentQZnanost.getOPTD());
-            brojac_pitanja++;
-        }
-
-        else if (pozicija == 4) {
-            txtQuestion.setText(currentQFilm.getQUESTION());
-            rda.setText(currentQFilm.getOPTA());
-            rdb.setText(currentQFilm.getOPTB());
-            rdc.setText(currentQFilm.getOPTC());
-            rdd.setText(currentQFilm.getOPTD());
-            brojac_pitanja++;
-
-        }
-        else if (pozicija == 5) {
-            txtQuestion.setText(currentQGlazba.getQUESTION());
-            rda.setText(currentQGlazba.getOPTA());
-            rdb.setText(currentQGlazba.getOPTB());
-            rdc.setText(currentQGlazba.getOPTC());
-            rdd.setText(currentQGlazba.getOPTD());
-            brojac_pitanja++;
-        }
-        else if (pozicija == 6) {
-            txtQuestion.setText(currentQIT.getQUESTION());
-            rda.setText(currentQIT.getOPTA());
-            rdb.setText(currentQIT.getOPTB());
-            rdc.setText(currentQIT.getOPTC());
-            rdd.setText(currentQIT.getOPTD());
-            brojac_pitanja++;
-
         }
     }
 }

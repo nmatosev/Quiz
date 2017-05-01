@@ -1,0 +1,25 @@
+Koji je planet najtopliji?,Jupiter,Venera,Mars,Saturn,Venera,science
+Koja je SI mjerna jedinica za otpor?,Amper,Om,Volt,Watt,Om,science
+Koliko zakona termodinamike postoji?,2,3,4,5,3,science
+Koji je planet veličinom najbliži Zemlji?,Merkur,Mars,Uran,Venera,Venera,science
+Koji je znanstvenik uzviknuo "Eureka!"?,Arhimed,Pitagora,Tales,Empedoklo,Arhimed,science
+Kojim dijelom tijela se bavi nefrologija?,Plućima,Bubrezima,Štitnjačom,Srcem,Plućima,science
+Pozitron je antičestica:,Neutrona,Protona,Elektrona,Neurona,Elektrona,science
+Zakon akcije i reakcije još se naziva i Newtonov:,1. zakon, 2.zakon, 3. zakon, 4. zakon, 3. zakon,science
+Kako se naziva pravac koji krivulju dodiruje u samo jednoj točki?,Hipotenuza,Simetrala,Promjer,Tangenta,Tangenta,science
+Koja je hrana najčešći uzrok salmonele?,Piletina,Jaja,Sladoled,Riba,Piletina,science
+Tko je autor pjesama Ashes to Ashes i Space Oddity?,Elvis Presley,David Bowie,Michael Jackson,Billy Idol,David Bowie,music
+Tko je osnivac benda Led Zeppelin?,Paul Mccartney,Mick Jagger,Jimmy Page,Jim Morrison,Jimmy Page,music
+Kako se zove skladatelj klasicne glazbe Vivaldi?,Enio,Antonio,Hans,Mario,Antonio,music
+Tko je autor najprodavanijeg albuma svih vremena?,Eminem,AC/DC,Rihanna,Michael Jackson,Michael Jackson,music
+Kada su nastali Beatlesi?,1955.,1960.,1967.,1973.,1960.,music
+Po stihovima "Sweet Home Alabama" poznat je koji bend?,Pink Floyd,Rolling Stones,Lynyrd Skynyrd,ZZ Top,Lynyrd Skynyrd,music
+Koje godine je umro rapper poznat kao 2Pac?,1992.,1994.,1996.,1998.,1996.,music
+Kada je rodjen Johann Sebastian Bach?,1585.,1685.,1785.,1885.,1685.,music
+Po kojem je instrumentu poznat Frederic Chopin?,Violina,Truba,Klavir,Kontrabas,Klavir,music
+Kako se zove glavni vokal grupe Rolling Stones?,Mick Jagger,Keith Richards,Roger Waters,Brian Johnson,Mick Jagger,music
+Koje godine je počela kriza poznata pod nazivom "Velika depresija"?,1926,1929,1931,1932,1929,history
+Kad je počeo prvi svjetski rat?,1914.,1873.,1899.,1945.,1914.,history
+Koje godine je otkrivena Amerika?,1491.,1492.,1493.,1495.,1492.,history
+Kad su održane zimske olimpijske igre u Sarajevu?,1980.,1984.,1986.,1988.,1984.,history
+Koje godine je osnovan NK Hajduk?,1910.,1911.,1912,1913.,1911.,history

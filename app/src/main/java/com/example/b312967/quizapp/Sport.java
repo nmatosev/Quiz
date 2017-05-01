@@ -3,7 +3,7 @@ package com.example.b312967.quizapp;
 /**
  * Created by b312967 on 23.12.2015..
  */
-public class Sport {
+public class Sport extends Category{
     private int ID;
     private String QUESTION;
     private String OPTA;
