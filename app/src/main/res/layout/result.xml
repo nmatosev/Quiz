@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000">
 
@@ -9,12 +10,21 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Large Text"
+        android:textSize="35sp"
         android:id="@+id/tvresult"
-        android:layout_marginLeft="10dp"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="50dp"
         android:textColor="#ffffff" />
 
-    <RatingBar
-        android:layout_width="wrap_content"
+    <Button
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/ratingBar" />
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:text="Povratak u glavni meni"
+        android:background="@drawable/buttoncolor"
+        android:id="@+id/returnButton"
+        android:layout_gravity="center_horizontal" />
 </LinearLayout>

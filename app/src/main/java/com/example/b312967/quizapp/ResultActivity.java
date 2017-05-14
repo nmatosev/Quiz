@@ -1,8 +1,12 @@
 package com.example.b312967.quizapp;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
@@ -14,34 +18,40 @@ public class ResultActivity extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.result);
-        //get rating bar object
-        RatingBar bar=(RatingBar)findViewById(R.id.ratingBar);
         //get text view
         TextView t=(TextView)findViewById(R.id.tvresult);
+        Button returnButton = (Button)findViewById(R.id.returnButton);
         //get score
         Bundle b = getIntent().getExtras();
         int score= b.getInt("score");
         Log.d("rezultat", "" + score);
         //display score
-        bar.setRating(score);
+        //t.setText("Točno je odgovoreno na "+score+ " od 5 pitanja");
         switch (score) {
             case 0:
-                t.setText("nula");
+                t.setText("Bijedniče, svaki odgovor ti je kriv!");
                 break;
             case 1:
-                t.setText("1/5");
+                t.setText("Prejadnih 1 od 5 točnih!");
                 break;
             case 2:
-                t.setText("2/5");
+                t.setText("Bijedan si! Samo 2 od 5!");
                 break;
             case 3:
-                t.setText("3/5");
+                t.setText("Slučajno si naboja 3 od 5!");
                 break;
-            case 4:t.setText("4/5");
+            case 4:t.setText("Točno je odgovoreno na 4 od 5 pitanja!");
                 break;
-            case 5:t.setText("5/5");
+            case 5:t.setText("Točno je odgovoreno na svih 5 pitanja. P.S. Svejedno si bijednik :)");
                 break;
         }
+        returnButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(view.getContext(), MainActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
 }

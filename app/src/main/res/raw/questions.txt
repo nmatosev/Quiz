@@ -1,6 +1,7 @@
 Koji je planet najtopliji?,Jupiter,Venera,Mars,Saturn,Venera,science
 Koja je SI mjerna jedinica za otpor?,Amper,Om,Volt,Watt,Om,science
 Koliko zakona termodinamike postoji?,2,3,4,5,3,science
+Uz kojeg psihologa vezujemo id ego i super ego?,Sigmunda Freuda,Ivana Pavlova,Jana Piageta,Erika Eriksona,Sigmunda Freuda,science
 Koji je planet veličinom najbliži Zemlji?,Merkur,Mars,Uran,Venera,Venera,science
 Koji je znanstvenik uzviknuo "Eureka!"?,Arhimed,Pitagora,Tales,Empedoklo,Arhimed,science
 Kojim dijelom tijela se bavi nefrologija?,Plućima,Bubrezima,Štitnjačom,Srcem,Plućima,science
@@ -18,8 +19,66 @@ Koje godine je umro rapper poznat kao 2Pac?,1992.,1994.,1996.,1998.,1996.,music
 Kada je rodjen Johann Sebastian Bach?,1585.,1685.,1785.,1885.,1685.,music
 Po kojem je instrumentu poznat Frederic Chopin?,Violina,Truba,Klavir,Kontrabas,Klavir,music
 Kako se zove glavni vokal grupe Rolling Stones?,Mick Jagger,Keith Richards,Roger Waters,Brian Johnson,Mick Jagger,music
+Kako se zvala izdavačka kuća koju su osnovali Beatlesi?,Mango,Orange,Peach,Apple,Apple,music
 Koje godine je počela kriza poznata pod nazivom "Velika depresija"?,1926,1929,1931,1932,1929,history
 Kad je počeo prvi svjetski rat?,1914.,1873.,1899.,1945.,1914.,history
+Kad je počeo drugi svjetski rat?,1938.,1939.,1942.,1945.,1939.,history
+Kad je završio drugi svjetski rat?,1918.,1945.,1946.,1947.,1945.,history
 Koje godine je otkrivena Amerika?,1491.,1492.,1493.,1495.,1492.,history
+Iza kojeg se akronima krije sporazum SAD-a i SSSR-a o redukciji nuklearnog arsenala?,SALT,FAQ,UNIMARC,CARDS,SALT,history
+Pod kojim je još imenom poznat Fordov T model?,Thin Lizzy,Thin Betty,Thin Ann,Thin Jane,Thin Lizzy,history
+Kamikaza u prijevodu znači?,Bozji plamen,Božji vjetar,Božji glasnik,Božji ratnik,Božji vjetar,history
+Tko je 1836. patentirao revolver?,Samuel Colt,Horace Smith,John Browning,Daniel Weeson,Samuel Colt,history
+U kojem gradu su održane ljetne olimpijske igre 2000.?,Canberra,Sydney,Melbourne,Brisbane,Sydney,history
+Kalmarska unija je akt o ujedinjenju kojih zemalja?,iberskih,skandinavskih,apeniniskih,levantskih,skandinavskih,history
+Kako se naziva zastava Velike Britanije?,Bull Run,John Bull,Old Glory,Union Jack,Union Jack,history
 Kad su održane zimske olimpijske igre u Sarajevu?,1980.,1984.,1986.,1988.,1984.,history
 Koje godine je osnovan NK Hajduk?,1910.,1911.,1912,1913.,1911.,history
+Koju su povijesnu ličnost svjetski moćnici zvali Uncle Joe?,Molotova,Tita,Staljina,Churcilla,Staljina,history
+Na kojem se kontinentu nalaze Himalaje?,Azija,Europa,Afrika,Australija,Azija,geography
+Koje more ne oplakuje obale Italije?,Jadransko,Alboransko,Ligursko,Tirensko,Alboransko,geography
+Koji je glavni grad Pijemonta?,Torino,Milano,Napulj,Padova,Torino,geography
+Na kojem se kontinentu nalaze Alpe?,Azija,Europa,Afrika,Australija,Europa,geography
+Na kojem se kontinentu nalaze Apenini?,Azija,Europa,Afrika,Australija,Europa,geography
+Koje je najdublje jezero na svijetu?,Kaspijsko,Como,Bajkalsko,Balaton,Bajkalsko,geography
+Koji je glavni grad Madagaskara?,Antananarivo,Santiago,Bogota,Kinshasa,Antananarivo,geography
+Abesinija je zastarjeli naziv za:,Saudijsku Arabiju,Siciliju,Libiju,Etiopiju,Etiopiju,geography
+Koji je glavni grad Burkine Fasso?,Bujumbura,Antananarivo,Dodoma,Ouagadougou,Ouagadougou,geography
+Koji je službeni jezik u Surinamu?,portugalski,nizozemski,engleski,kečuanski,nizozemski,geography
+Kako se zvalo ujedinjeno područje španjolskih kolonija a obuhvaćalo je današnje Kolumbije Venezuele Ekvadora i Paname?,Nova Barcelona,Nova Cartagena,Nova Terra ,Nova Granada,Nova Granada,geography
+Kojoj državi pripada Autonomna pokrajina Groenland?,Norveškoj,Danskoj,Kanadi,Islandu,Danskoj,geography
+Koji od navedenih zemljopisnih pojmova nije samostalna država?,Kirgistan,Uzbekistan,Kurdistan,Turkmenistan,Kurdistan,geography
+Što nije britanski zavisni teritorij?,Bermudi,Guam,Kajmansko otočje,Gibraltar,Guam,geography
+Koja od navedenih zemalja prema društveno - političkom uređenju nije kraljevina?,Belgija,Danska,Finska,Norveška,Finska,geography
+Latinska četvrt nalazi se:,Rimu,Milanu,Parizu,Londonu,Parizu,geography
+Koji se grad od  1624. do 1878. zvao Christiania?,Jeruzalem,Warszawa,Napulj,Oslo,Oslo,geography
+Koji grad je Parizu služio kao kažnjenička kolonija?,Libreville,Bamako,Cayenne,Brazzavile,Cayenne,history
+Koje su oružje prvi put u povijesti ratovanja upotrijebili Britanci 1916. u bitci na Sommi?,bacač plamena,mitraljez,tenk,iperit,tenk,history
+Tko je bio na čelu tajne organizacije Ujedinjenje ili smrt?,Milan Nedić,Ilija Garašanin,Svetozar Pribičević,Dragutin Dimitrijević Apis,Dragutin Dimitrijević Apis,history
+Kako se zvao maršal-vrhovni zapovjednik savezničkih trupa 1918. u Francuskoj?,A.Maginot,Joseph Joffre,Ferdinand Foch,Philippe Petain,Ferdinand Foch,history
+Kako glasi pravo ime slavnog Crvenog Baruna - ubojitog njemačkog pilota iz I sv. rata?,W. Kapp,M. A. von Richtchofen,J. von Ribbentrop,E. Hartmann,M. A. von Richtchofen,history
+Koja je država zabila 104 gola u svoje prve 4 utakmice na Olimpijskim igrama 1924?,Čehoslovačka,Švedska,SAD,Kanada,Kanada,sport
+Od kojeg je tenisača Goran Ivanišević izgubio 2 puta u finalu Wimbledona?,Patrick Rafter,Andre Agassi,Pete Sampras,Boris Becker,Pete Sampras,sport
+Uz jugoslavensko i američko koje još državljanstvo ima Monika Seleš?,Slovačko,Češko,Poljsko,Mađarsko,Mađarsko,sport
+Koliko puta zaredom je Bjorn Borg osvojio Wimbledon?,3,4,5,6,5,sport
+Koliko NBA naslova je osvojio Michael Jordan?,3,4,5,6,7,6,sport
+U kojem je još španjolskom klubu osim Real Madrida igrao Davor Šuker?,Valencia,Atletico Madrid,Sevilla,Cadiz,Sevilla,sport
+Kako se zove stadion nogometnog kluba Real Madrid?,Santiago Bernabeu,San Mames,Ruiz de Lopera,Vincente Calderon,Santiago Bernabeu,sport
+Kako se zove stadion nogometnog kluba Atletico Madrid?,San Mames,Camp Nou,Vincente Calderon,Ruiz de Lopera,Vincente Calderon,sport
+Koja je duljina maratonske utrke?,39 600 m,42 195 m,45 712 m,45 720 m,42 195 m,sport
+Po kojem se istaknutom športskom djelatniku naziva najveće hrvatsko odlikovanje za zasluge u športu?,Matiji Ljubeku,Franji Bučaru,Mati Parlovu,Žarku Dolinaru,Franji Bučaru,sport
+Koje godine su braća Wright izvela prvi let zrakoplovom?,1912.,1895.,1900.,1903.,1903.,history
+Pionir proizvodnje automobila pomoću pokretne trake bio je:,Henry Ford,Gottlieb Deimler,Carl Friedrich Benz,Louis Renault,Henry Ford,history
+Kako se zove znanstvenik koji je dešifrirao egipatske hijeroglife?,C. Levi – Strauss,J-F. Champollion,B. Disraeli,H. C. Rawlinson,J-F. Champollion,history
+Tko je Tursku 1844. nazvao bolesnikom na Bosporu?,Pio VII,Nikola I,Victoria,Metternich,Nikola I,history
+Tko je bio  predsjednik SAD-a nakon G. Washingtona?,T. Jefferson,J. Adams,J. Monroe,A. Jackson,J. Adams,history
+Tko je bio predsjednik SAD-a kada je Panamski kanal otvoren za promet?,W. Wilson,T. Roosevelt,W. McKinley,W. Harding,W. Wilson,history
+Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?,Karl Landesteiner,Severo Ochoa,Alphonse Laveran,Ivan Petrović Pavlov,Karl Landesteiner,science
+Kako se prezivala debela Berta?,Flick,Krupp,Bruckmann,Schacht,Krupp,history
+Koji je iredentist i talijanski književnik 1919. predvodio ulazak talijanskih trupa u Rijeku?,G.D'Annunzio,T.Marinetti,G.Carducci,G.Ungaretti,G.D'Annunzio,history
+Koji se datum smatra završetkom I svjetskog rata?,7. srpnja 1918.,8. kolovoza 1918.,9. rujna 1918.,11. studenog 1918.,11. studenog 1918.,history
+
+
+
+
+
