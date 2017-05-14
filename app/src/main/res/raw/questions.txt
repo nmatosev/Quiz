@@ -77,6 +77,40 @@ Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?,Karl Landesteiner,Seve
 Kako se prezivala debela Berta?,Flick,Krupp,Bruckmann,Schacht,Krupp,history
 Koji je iredentist i talijanski književnik 1919. predvodio ulazak talijanskih trupa u Rijeku?,G.D'Annunzio,T.Marinetti,G.Carducci,G.Ungaretti,G.D'Annunzio,history
 Koji se datum smatra završetkom I svjetskog rata?,7. srpnja 1918.,8. kolovoza 1918.,9. rujna 1918.,11. studenog 1918.,11. studenog 1918.,history
+Jedinica za mjerenje jačine magnetnog polja je:,tesla,weber,ohm,vat,tesla,science
+Znanost koja istražuje geografske prilike razdoblja u geološkoj prošlosti Zemlje je…,Geomorfologija,Paleogeografija,Glaciologija,Biogeografija,Paleogeografija,science
+Čvor je mjerna jedinica za brzinu i iznosi…,1.2 km/h,1.314 km/h,1.852 km/h,1.956 km/h,1.852 km/h,science
+Jedna funta - jedinica za mjerenje mase je približno…,0.23 kg,0.45 kg,0.75 kg,1.25 kg,0.45 kg,science
+Negativno nabijena čestica koja se može sastojati od jednog ili više atoma zove se…,anion,ion,kation,neutrin,anion,science
+Jedan jard, jedinica za mjerenje duljine je približno…,0.6 m,0.7 m,0.8 m,0.9 m,0.9 m,science
+Linije kojima se predočava okomita raspodjela slanoće u moru zovu se…:,izolinije,izobare,halobate,izohaline,halobate,science
+Apsolutna nula je po celzijevoj skali…,  0 stupnjeva,-100 stupnjeva,-200 stupnjeva,-273,15 stupnjeva,-273,15 stupnjeva,science
+Zasluga za otkriće tranzistora pripala je Williamu Shockleyu…,1933.,1937.,1942.,1947.,1947.,science
+SI izvedena mjerna jedinica za aktivnost radioaktivnoga izvora (radioaktivnost) je…,Kulon,Grej,Farad,Bekerel,Bekerel,science
+U kojoj državi je rođen fizičar Albert Einstein?,Austrija,SAD,Njemačka,Danska,Njemačka,science
+Jedna stopa - jedinica za mjerenje duljine je približno…,0.3 m,0.4 m,0.5 m,0.6 m,0.3 m,science
+Mjerna jedinica za svjetlosni tok u Međunarodnom sustavu jedinica je…,lumen,grej,kulon,luks,lumen,science
+Polarni dan ili ponoćno sunce na samim polarnim krugovima traje približno...,41 dan,90 dana,122 dana,186 dana,186 dana,science
+Ako jedno tijelo djeluje silom na drugo tada i to drugo tijelo djeluje silom na ono prvo je...,Zakon inercije,Temeljni zakon gibanja,Zakon akcije i reakcije,Zakon očuvanja,Zakon akcije i reakcije,science
+Koji postotak mase Sunčevog solarnog sustava otpada na Sunce?,91%,84%,73%,99%,99%,science
+Rak koštane srži je…,limfom,osteosarkom,leukemija,melanom,leukemija,science
+Težak gubitak apetita čiji su razlozi emocionalne prirode naziva se…,anoreksija,bulimija,makrofilija,satirijaza,anoreksija,science
+Ljudski hormon rasta je…,testosteron,inzulin,somatotropin,adrenalin,somatotropin,science
+Kružnica koja spaja sve točke iste zemljopisne širine na površini Zemlje zove se…,ortodroma,meridijan,paralela,izohipsa,paralela,science
+Koji broj nije prosti broj?,17,27,53,5,27,science
+Uobičajen izraz za poremećaj prepoznavanja boja je...,astigmatizam,miopija,ambliopija,daltonizam,daltonizam,science
+Kraljevska kobra naraste do maksimalno…,2.2 m,4 m,5.7 m,8.3 m,5.7 m,science
+Jedna unca, jedinica za mjerenje mase je približno…,11 g,28 g,56 g,71 g,28 g,science
+Supernova je...,prasak stare zvijezde,sudar dvaju zvijezda,mlada zvijezda,sjajna galaktika,prasak stare zvijezde,science
+Osnova matematičkog infinitezimalnog računa su integrali i…,kompleksni brojevi,logaritmi,interpolacije,derivacije,derivacije,science
+U heksadecimalnom sustavu koriste se znamenke 0-9 te slova A do…,C,D,E,F,F,science
+Binarni broj 100 je dekadni broj…,2,4,8,16,4,science
+Prema rimskom brojevnom sustavu 1000 se piše kao…,C,D,M,X,M,science
+Linija koja spaja dva nesusjedna kuta mnogokuta zove se…,ortodroma,simetrala,visina,dijagonala,dijagonala,science
+Dekadni broj 10 se u binarnom sustavu zapisuje kao...,1000,1100,1010,1001,1010,science
+Statistički pojam koji određuje sredinu distribucije je…,varijanca,klasa,nultočka,medijan,medijan,science
+U matematici skup prirodnih brojeva označava se slovom…,N,Z,P,Q,N,science
+
 
 
 
