@@ -296,7 +296,7 @@ public class QuizActivity extends Activity {
         return glazba;
     }
     private void showToastCorrect(){
-        Toast.makeText(getApplicationContext(), "Točan odgovor bijedo!", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
     }
     private void showToastIncorrect(){
         Toast.makeText(getApplicationContext(), "Netočan odgovor!", Toast.LENGTH_SHORT).show();

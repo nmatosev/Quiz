@@ -26,25 +26,8 @@ public class ResultActivity extends Activity{
         int score= b.getInt("score");
         Log.d("rezultat", "" + score);
         //display score
-        //t.setText("Točno je odgovoreno na "+score+ " od 5 pitanja");
-        switch (score) {
-            case 0:
-                t.setText("Bijedniče, svaki odgovor ti je kriv!");
-                break;
-            case 1:
-                t.setText("Prejadnih 1 od 5 točnih!");
-                break;
-            case 2:
-                t.setText("Bijedan si! Samo 2 od 5!");
-                break;
-            case 3:
-                t.setText("Slučajno si naboja 3 od 5!");
-                break;
-            case 4:t.setText("Točno je odgovoreno na 4 od 5 pitanja!");
-                break;
-            case 5:t.setText("Točno je odgovoreno na svih 5 pitanja. P.S. Svejedno si bijednik :)");
-                break;
-        }
+        t.setText("Točno je odgovoreno na "+score+ " od 5 pitanja");
+
         returnButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
