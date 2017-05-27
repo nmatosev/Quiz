@@ -1,4 +1,4 @@
-Koji je planet najtopliji?,Jupiter,Venera,Mars,Saturn,Venera,science
+﻿Koji je planet najtopliji?,Jupiter,Venera,Mars,Saturn,Venera,science
 Koja je SI mjerna jedinica za otpor?,Amper,Om,Volt,Watt,Om,science
 Koliko zakona termodinamike postoji?,2,3,4,5,3,science
 Uz kojeg psihologa vezujemo id ego i super ego?,Sigmunda Freuda,Ivana Pavlova,Jana Piageta,Erika Eriksona,Sigmunda Freuda,science
@@ -9,21 +9,18 @@ Pozitron je antičestica:,Neutrona,Protona,Elektrona,Neurona,Elektrona,science
 Zakon akcije i reakcije još se naziva i Newtonov:,1. zakon, 2.zakon, 3. zakon, 4. zakon, 3. zakon,science
 Kako se naziva pravac koji krivulju dodiruje u samo jednoj točki?,Hipotenuza,Simetrala,Promjer,Tangenta,Tangenta,science
 Koja je hrana najčešći uzrok salmonele?,Piletina,Jaja,Sladoled,Riba,Piletina,science
-Tko je autor pjesama Ashes to Ashes i Space Oddity?,Elvis Presley,David Bowie,Michael Jackson,Billy Idol,David Bowie,music
-Tko je osnivac benda Led Zeppelin?,Paul Mccartney,Mick Jagger,Jimmy Page,Jim Morrison,Jimmy Page,music
-Kako se zove skladatelj klasicne glazbe Vivaldi?,Enio,Antonio,Hans,Mario,Antonio,music
-Tko je autor najprodavanijeg albuma svih vremena?,Eminem,AC/DC,Rihanna,Michael Jackson,Michael Jackson,music
-Kada su nastali Beatlesi?,1955.,1960.,1967.,1973.,1960.,music
-Po stihovima "Sweet Home Alabama" poznat je koji bend?,Pink Floyd,Rolling Stones,Lynyrd Skynyrd,ZZ Top,Lynyrd Skynyrd,music
-Koje godine je umro rapper poznat kao 2Pac?,1992.,1994.,1996.,1998.,1996.,music
-Kada je rodjen Johann Sebastian Bach?,1585.,1685.,1785.,1885.,1685.,music
-Po kojem je instrumentu poznat Frederic Chopin?,Violina,Truba,Klavir,Kontrabas,Klavir,music
-Kako se zove glavni vokal grupe Rolling Stones?,Mick Jagger,Keith Richards,Roger Waters,Brian Johnson,Mick Jagger,music
-Kako se zvala izdavačka kuća koju su osnovali Beatlesi?,Mango,Orange,Peach,Apple,Apple,music
+Tko je autor pjesama Ashes to Ashes i Space Oddity?,Elvis Presley,David Bowie,Michael Jackson,Billy Idol,David Bowie,art
+Tko je osnivac benda Led Zeppelin?,Paul Mccartney,Mick Jagger,Jimmy Page,Jim Morrison,Jimmy Page,art
+Kako se zove skladatelj klasicne glazbe Vivaldi?,Enio,Antonio,Hans,Mario,Antonio,art
+Tko je autor najprodavanijeg albuma svih vremena?,Eminem,AC/DC,Rihanna,Michael Jackson,Michael Jackson,art
+Kada su nastali Beatlesi?,1955.,1960.,1967.,1973.,1960.,art
+Po stihovima "Sweet Home Alabama" poznat je koji bend?,Pink Floyd,Rolling Stones,Lynyrd Skynyrd,ZZ Top,Lynyrd Skynyrd,art
+Koje godine je umro rapper poznat kao 2Pac?,1992.,1994.,1996.,1998.,1996.,art
+Kada je rodjen Johann Sebastian Bach?,1585.,1685.,1785.,1885.,1685.,art
+Po kojem je instrumentu poznat Frederic Chopin?,Violina,Truba,Klavir,Kontrabas,Klavir,art
+Kako se zove glavni vokal grupe Rolling Stones?,Mick Jagger,Keith Richards,Roger Waters,Brian Johnson,Mick Jagger,art
+Kako se zvala izdavačka kuća koju su osnovali Beatlesi?,Mango,Orange,Peach,Apple,Apple,art
 Koje godine je počela kriza poznata pod nazivom "Velika depresija"?,1926,1929,1931,1932,1929,history
-Kad je počeo prvi svjetski rat?,1914.,1873.,1899.,1945.,1914.,history
-Kad je počeo drugi svjetski rat?,1938.,1939.,1942.,1945.,1939.,history
-Kad je završio drugi svjetski rat?,1918.,1945.,1946.,1947.,1945.,history
 Koje godine je otkrivena Amerika?,1491.,1492.,1493.,1495.,1492.,history
 Iza kojeg se akronima krije sporazum SAD-a i SSSR-a o redukciji nuklearnog arsenala?,SALT,FAQ,UNIMARC,CARDS,SALT,history
 Pod kojim je još imenom poznat Fordov T model?,Thin Lizzy,Thin Betty,Thin Ann,Thin Jane,Thin Lizzy,history
@@ -110,6 +107,29 @@ Linija koja spaja dva nesusjedna kuta mnogokuta zove se…,ortodroma,simetrala,v
 Dekadni broj 10 se u binarnom sustavu zapisuje kao...,1000,1100,1010,1001,1010,science
 Statistički pojam koji određuje sredinu distribucije je…,varijanca,klasa,nultočka,medijan,medijan,science
 U matematici skup prirodnih brojeva označava se slovom…,N,Z,P,Q,N,science
+Koji je arheolog 1911. otkrio Machu Picchu - izgubljeni grad Inka skriven u peruanskim Andama?,H.Bingham,H.Carter,H. Schliemann,A.Evans,H.Bingham,history
+Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?,Karl Landesteiner,Severo Ochoa,Alphonse Laveran,Ivan Petrović Pavlov,Karl Landesteiner,science
+Što su karijatide?,Posude,Kipovi,Oružje,Oruđe,Kipovi,history
+Nika je grčka božica...,plodnosti,rata,pobjede,ljepote,pobjede,history
+Prijap je grčki bog...,plodnosti,rata,pobjede,ljubavi,plodnosti,history
+Grčka kraljica podzemnog svijeta je...,Cerera,Afrodita,Hera,Perzefona,Perzefona,history
+Koji od ovih gradova se nalazi u Turskoj?,Batman,Robin,Loki,Spiderman,Batman,geography
+Gruzija ima izlaz na koje od ovih mora?,Crno,Azovsko,Crveno,Baltičko,Crno,geography
+S kojom ovih zemalja Kina ne dijeli granicu?,Afganistan,Mongolija,Kazahstan,Iran,Iran,geography
+Najduži od ovih tunela je...,Učka,Mala Kapela,Sv. Rok,Sv. Ilija,Mala Kapela,geography
+Najduži tunel na svijetu nalazi se u...Švedskoj,Norveškoj,Austriji,Švicarskoj,Švicarskoj,geography
+Kako je umrla Marija Antoaneta?,Na giljotini,Otrovana je,Vješanjem,Prirodnom smrću,Na giljotini,history
+Na kojem otoku je umro Napoleon Bonaparte?,Korzici,Sv. Helena,Sardinija,Sicilija,Sv. Helena,history
+Koja od ovih rijeka ne protječe kroz Karlovac?,Una,Dobra,Mrežnica,Zrmanja,Zrmanja,geography
+Franjo Josip je u doba turbulentnih promjena preuzeo krunu od kojeg monarha?,Ferdinand,Josip II,Konrad II,Wilhelm III,Ferdinand,history
+Portret Doriana Graya djelo je kojeg od ovih pisaca?,Edgar Alan Poe,Oscar Wilde,Mark Twain,Charles Dickenson,Oscar Wilde,art
+Kroz koji od ovih glavnih gradova Dunav ne protječe?,Bratislava,Beč,Budimpešta,Bukurešt,Bukurešt,geography
+Glavni atenski trg zove se...,fraza,sintagma,frazem,simbol,sintagma,geography
+Koja je država prva na svijetu imala ženu na čelu vlade?,Pakistan,Šri Lanka,Bangladeš,Indija,Šri Lanka,geography
+Tko je naslikao golu Maju?,Goya,Dali,Rafael,Tizian,Goya,art
+Vrt zemaljske naslade naslikao je...,Tizian,Paul Klee,Hieronymus Bosch,Salvador Dali,Hieronymus Bosch,art
+Koliko olimpijskih zlata ima Nadia Comaneci?,2,4,5,7,sport
+
 
 
 

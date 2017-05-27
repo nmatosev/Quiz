@@ -25,12 +25,12 @@ public class QuizActivity extends Activity {
     List<Sport> quesListSport = new ArrayList<Sport>();
     List<Zemljopis> quesListZemljopis =new ArrayList<Zemljopis>();
     List<Znanost> quesListZnanost  = new ArrayList<Znanost>();
-    List<Glazba> quesListGlazba = new ArrayList<Glazba>();
+    List<Umjetnost> quesListUmjetnost = new ArrayList<Umjetnost>();
     ArrayList<Integer> randomListHistory = new ArrayList<Integer>();
     ArrayList<Integer> randomListGeography = new ArrayList<Integer>();
     ArrayList<Integer> randomListSport = new ArrayList<Integer>();
     ArrayList<Integer> randomListScience = new ArrayList<Integer>();
-    ArrayList<Integer> randomListMusic = new ArrayList<Integer>();
+    ArrayList<Integer> randomListArt = new ArrayList<Integer>();
 
     int score=0;
     int brojacPitanja = 1;
@@ -40,7 +40,7 @@ public class QuizActivity extends Activity {
     Sport currentQSport;
     Zemljopis currentQZemljopis;
     Znanost currentQZnanost;
-    Glazba currentQGlazba;
+    Umjetnost currentQUmjetnost;
 
     TextView txtQuestion;
     RadioButton rda, rdb, rdc, rdd;
@@ -52,9 +52,7 @@ public class QuizActivity extends Activity {
 
         DataHandler dataHandler = new DataHandler();
         dataHandler.addQuestions();
-        /////////////////////////////////////////PRAZNE LISTE KOJE SE PUNE POMOCU SELECT UPITA u datahandleru
         quesList = dataHandler.getAllQuestions();
-        Log.d("quesList",quesList.toString());
         //SORT ALL QUESTIONS PER CATEGORY
         for (Category c : quesList) {
             if(c.getCATEGORY().equals("history")){
@@ -69,9 +67,9 @@ public class QuizActivity extends Activity {
                 currentQSport = sportList(c);
                 quesListSport.add(currentQSport);
             }
-            else if(c.getCATEGORY().equals("music")){
-                currentQGlazba = musicList(c);
-                quesListGlazba.add(currentQGlazba);
+            else if(c.getCATEGORY().equals("art")){
+                currentQUmjetnost = artList(c);
+                quesListUmjetnost.add(currentQUmjetnost);
             }
             else if(c.getCATEGORY().equals("science")){
                 currentQZnanost = scienceList (c);
@@ -91,15 +89,14 @@ public class QuizActivity extends Activity {
         for(int i = 0; i<quesListZnanost.size(); i++){
             randomListScience.add(i);
         }
-        for(int i = 0; i<quesListGlazba.size(); i++){
-            randomListMusic.add(i);
+        for(int i = 0; i<quesListUmjetnost.size(); i++){
+            randomListArt.add(i);
         }
         Collections.shuffle(randomListHistory);//[3,2,4,5,1,6]
         Collections.shuffle(randomListGeography);
         Collections.shuffle(randomListSport);
         Collections.shuffle(randomListScience);
-        Collections.shuffle(randomListMusic);
-
+        Collections.shuffle(randomListArt);
 
         txtQuestion=(TextView)findViewById(R.id.tv);
         rda=(RadioButton)findViewById(R.id.radioButton);
@@ -111,8 +108,7 @@ public class QuizActivity extends Activity {
         Bundle extras = getIntent().getExtras();
         String value =extras.getString("pozicija");
         final Integer pozicija=Integer.valueOf(value);//kastaj extra iz maina u int
-        Log.d("position", pozicija + "");
-
+        //Log.d("position", pozicija + "");
         setQuestionView(pozicija,0);
 
         butNext.setOnClickListener(new View.OnClickListener() {
@@ -130,15 +126,12 @@ public class QuizActivity extends Activity {
                     else{
                         showToastIncorrect();
                     }
-                    Log.d("Provjera ",  answer.getText() +" i " + currentQPovijest.getANSWER() + " brojac " + brojacPitanja + " score " + score);
 
                     if (brojacPitanja < 5) {
-                        Log.d("Random lista", randomListHistory + "ID TRENUTNOG PITANJA " + randomListHistory.get(brojElementa));
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
                         Bundle b = new Bundle();
-                        Log.d("quiz finished", "");
                         b.putInt("score", score); //Your score
                         intent.putExtras(b); //Put your score to your next Intent
                         startActivity(intent);
@@ -182,7 +175,6 @@ public class QuizActivity extends Activity {
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
                         Bundle b = new Bundle();
-                        Log.d("quiz finished", "" + "");
                         b.putInt("score", score); //Your score
                         intent.putExtras(b); //Put your score to your next Intent
                         startActivity(intent);
@@ -199,7 +191,6 @@ public class QuizActivity extends Activity {
                         showToastIncorrect();
                     }
                     if (brojacPitanja < 5) {
-                        Log.d("Random lista", randomListScience + "ID TRENUTNOG PITANJA " + randomListScience.get(brojElementa) + " brojac pitanja " + brojacPitanja + " br el " + brojElementa);
                         currentQZnanost = quesListZnanost.get(randomListScience.get(brojElementa));
                         setQuestionView(pozicija,brojElementa);
                     } else {
@@ -213,7 +204,7 @@ public class QuizActivity extends Activity {
                     brojElementa += 1;
                     brojacPitanja++;
                 } else if (pozicija == 4) {
-                    if (currentQGlazba.getANSWER().equals(answer.getText())) {
+                    if (currentQUmjetnost.getANSWER().equals(answer.getText())) {
                         score++;
                         showToastCorrect();
                     }
@@ -221,14 +212,11 @@ public class QuizActivity extends Activity {
                         showToastIncorrect();
                     }
                     if (brojacPitanja < 5) {
-                        Log.d("lista", " " + randomListMusic);
-                        Log.d("ID TRENUTNOG PITANJA", " " + randomListMusic.get(brojElementa));
-                        currentQGlazba = quesListGlazba.get(randomListMusic.get(brojElementa));
+                        currentQUmjetnost = quesListUmjetnost.get(randomListArt.get(brojElementa));
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
                         Bundle b = new Bundle();
-                        Log.d("quiz finished", "" + "");
                         b.putInt("score", score); //Your score
                         intent.putExtras(b); //Put your score to your next Intent
                         startActivity(intent);
@@ -285,15 +273,15 @@ public class QuizActivity extends Activity {
         znanost.setQUESTION(c.getQUESTION());
         return znanost;
     }
-    private Glazba musicList(Category c){
-        Glazba glazba = new Glazba();
-        glazba.setANSWER(c.getANSWER());
-        glazba.setOPTA(c.getOPTA());
-        glazba.setOPTB(c.getOPTB());
-        glazba.setOPTC(c.getOPTC());
-        glazba.setOPTD(c.getOPTD());
-        glazba.setQUESTION(c.getQUESTION());
-        return glazba;
+    private Umjetnost artList(Category c){
+        Umjetnost umjetnost = new Umjetnost();
+        umjetnost.setANSWER(c.getANSWER());
+        umjetnost.setOPTA(c.getOPTA());
+        umjetnost.setOPTB(c.getOPTB());
+        umjetnost.setOPTC(c.getOPTC());
+        umjetnost.setOPTD(c.getOPTD());
+        umjetnost.setQUESTION(c.getQUESTION());
+        return umjetnost;
     }
     private void showToastCorrect(){
         Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
@@ -336,12 +324,12 @@ public class QuizActivity extends Activity {
             rdd.setText(currentQZnanost.getOPTD());
         }
         if(pozicija==4){
-            currentQGlazba = quesListGlazba.get(randomListMusic.get(brojElementa));
-            txtQuestion.setText(currentQGlazba.getQUESTION());
-            rda.setText(currentQGlazba.getOPTA());
-            rdb.setText(currentQGlazba.getOPTB());
-            rdc.setText(currentQGlazba.getOPTC());
-            rdd.setText(currentQGlazba.getOPTD());
+            currentQUmjetnost = quesListUmjetnost.get(randomListArt.get(brojElementa));
+            txtQuestion.setText(currentQUmjetnost.getQUESTION());
+            rda.setText(currentQUmjetnost.getOPTA());
+            rdb.setText(currentQUmjetnost.getOPTB());
+            rdc.setText(currentQUmjetnost.getOPTC());
+            rdd.setText(currentQUmjetnost.getOPTD());
         }
     }
 }
