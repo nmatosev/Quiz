@@ -18,7 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".QuizActivity"></activity>
+        <activity android:name=".QuizActivity"
+            android:configChanges="orientation"
+            android:screenOrientation="portrait">
+        </activity>
         <activity android:name=".ResultActivity"></activity>
     </application>
 

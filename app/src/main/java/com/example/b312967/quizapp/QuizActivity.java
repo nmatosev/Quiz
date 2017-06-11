@@ -128,6 +128,7 @@ public class QuizActivity extends Activity {
                     }
 
                     if (brojacPitanja < 5) {
+                        grp.clearCheck();
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
@@ -150,6 +151,7 @@ public class QuizActivity extends Activity {
                     }
                     if (brojacPitanja < 5) {
                         currentQSport = quesListSport.get(randomListSport.get(brojElementa));
+                        grp.clearCheck();
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
@@ -171,6 +173,7 @@ public class QuizActivity extends Activity {
                     }
                     if (brojacPitanja < 5) {
                         currentQZemljopis = quesListZemljopis.get(randomListGeography.get(brojElementa));
+                        grp.clearCheck();
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
@@ -192,6 +195,7 @@ public class QuizActivity extends Activity {
                     }
                     if (brojacPitanja < 5) {
                         currentQZnanost = quesListZnanost.get(randomListScience.get(brojElementa));
+                        grp.clearCheck();
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
@@ -213,6 +217,7 @@ public class QuizActivity extends Activity {
                     }
                     if (brojacPitanja < 5) {
                         currentQUmjetnost = quesListUmjetnost.get(randomListArt.get(brojElementa));
+                        grp.clearCheck();
                         setQuestionView(pozicija,brojElementa);
                     } else {
                         Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
