@@ -6,4 +6,4 @@ Android quiz application that tests your knowledge from the following categories
   - Sport
   - Art
 
-![20170527_152242](https://cloud.githubusercontent.com/assets/18063880/26521726/86a79d64-42ef-11e7-8472-9d689b84ce7c.png)
+![quiz](https://user-images.githubusercontent.com/18063880/27174435-7531c1e6-51bc-11e7-8510-449185bcc0d6.PNG)
