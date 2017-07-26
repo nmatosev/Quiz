@@ -1,261 +1,364 @@
-﻿Koji je planet najtopliji?,Jupiter,Venera,Mars,Saturn,Venera,science
-Koja je SI mjerna jedinica za otpor?,Amper,Om,Volt,Watt,Om,science
-Koliko zakona termodinamike postoji?,2,3,4,5,3,science
-Uz kojeg psihologa vezujemo id ego i super ego?,Sigmunda Freuda,Ivana Pavlova,Jana Piageta,Erika Eriksona,Sigmunda Freuda,science
-Koji je planet veličinom najbliži Zemlji?,Merkur,Mars,Uran,Venera,Venera,science
-Koji je znanstvenik uzviknuo "Eureka!"?,Arhimed,Pitagora,Tales,Empedoklo,Arhimed,science
-Kojim dijelom tijela se bavi nefrologija?,Plućima,Bubrezima,Štitnjačom,Srcem,Plućima,science
-Pozitron je antičestica:,Neutrona,Protona,Elektrona,Neurona,Elektrona,science
-Zakon akcije i reakcije još se naziva i Newtonov:,1. zakon, 2.zakon, 3. zakon, 4. zakon, 3. zakon,science
-Kako se naziva pravac koji krivulju dodiruje u samo jednoj točki?,Hipotenuza,Simetrala,Promjer,Tangenta,Tangenta,science
-Koja je hrana najčešći uzrok salmonele?,Piletina,Jaja,Sladoled,Riba,Piletina,science
-Tko je autor pjesama Ashes to Ashes i Space Oddity?,Elvis Presley,David Bowie,Michael Jackson,Billy Idol,David Bowie,art
-Tko je osnivac benda Led Zeppelin?,Paul Mccartney,Mick Jagger,Jimmy Page,Jim Morrison,Jimmy Page,art
-Kako se zove skladatelj klasicne glazbe Vivaldi?,Enio,Antonio,Hans,Mario,Antonio,art
-Tko je autor najprodavanijeg albuma svih vremena?,Eminem,AC/DC,Rihanna,Michael Jackson,Michael Jackson,art
-Kada su nastali Beatlesi?,1955.,1960.,1967.,1973.,1960.,art
-Po stihovima "Sweet Home Alabama" poznat je koji bend?,Pink Floyd,Rolling Stones,Lynyrd Skynyrd,ZZ Top,Lynyrd Skynyrd,art
-Koje godine je ubijen rapper poznat kao 2Pac?,1992.,1994.,1996.,1998.,1996.,art
-Kada je rodjen Johann Sebastian Bach?,1585.,1685.,1785.,1885.,1685.,art
-Po kojem je instrumentu poznat Frederic Chopin?,Violina,Truba,Klavir,Kontrabas,Klavir,art
-Kako se zove glavni vokal grupe Rolling Stones?,Mick Jagger,Keith Richards,Roger Waters,Brian Johnson,Mick Jagger,art
-Kako se zvala izdavačka kuća koju su osnovali Beatlesi?,Mango,Orange,Peach,Apple,Apple,art
-Koje godine je počela kriza poznata pod nazivom "Velika depresija"?,1926,1929,1931,1932,1929,history
-Koje godine je otkrivena Amerika?,1491.,1492.,1493.,1495.,1492.,history
-Iza kojeg se akronima krije sporazum SAD-a i SSSR-a o redukciji nuklearnog arsenala?,SALT,FAQ,UNIMARC,CARDS,SALT,history
-Pod kojim je još imenom poznat Fordov T model?,Thin Lizzy,Thin Betty,Thin Ann,Thin Jane,Thin Lizzy,history
-Kamikaza u prijevodu znači?,Božji plamen,Božji vjetar,Božji glasnik,Božji ratnik,Božji vjetar,history
-Tko je 1836. patentirao revolver?,Samuel Colt,Horace Smith,John Browning,Daniel Weeson,Samuel Colt,history
-U kojem gradu su održane ljetne olimpijske igre 2000.?,Canberra,Sydney,Melbourne,Brisbane,Sydney,history
-Kalmarska unija je akt o ujedinjenju kojih zemalja?,iberskih,skandinavskih,apeniniskih,levantskih,skandinavskih,history
-Kako se naziva zastava Velike Britanije?,Bull Run,John Bull,Old Glory,Union Jack,Union Jack,history
-Kad su održane zimske olimpijske igre u Sarajevu?,1980.,1984.,1986.,1988.,1984.,history
-Koje godine je osnovan NK Hajduk?,1910.,1911.,1912,1913.,1911.,history
-Koju su povijesnu ličnost svjetski moćnici zvali Uncle Joe?,Molotova,Tita,Staljina,Churcilla,Staljina,history
-Na kojem se kontinentu nalaze Himalaje?,Azija,Europa,Afrika,Australija,Azija,geography
-Koje more ne oplakuje obale Italije?,Jadransko,Alboransko,Ligursko,Tirensko,Alboransko,geography
-Koji je glavni grad Pijemonta?,Torino,Milano,Napulj,Padova,Torino,geography
-Na kojem se kontinentu nalaze Apenini?,Azija,Europa,Afrika,Australija,Europa,geography
-Koje je najdublje jezero na svijetu?,Kaspijsko,Como,Bajkalsko,Balaton,Bajkalsko,geography
-Koji je glavni grad Madagaskara?,Antananarivo,Santiago,Bogota,Kinshasa,Antananarivo,geography
-Abesinija je zastarjeli naziv za:,Saudijsku Arabiju,Siciliju,Libiju,Etiopiju,Etiopiju,geography
-Koji je glavni grad Burkine Fasso?,Bujumbura,Antananarivo,Dodoma,Ouagadougou,Ouagadougou,geography
-Koji je službeni jezik u Surinamu?,portugalski,nizozemski,engleski,kečuanski,nizozemski,geography
-Kako se zvalo ujedinjeno područje španjolskih kolonija a obuhvaćalo je današnje Kolumbije Venezuele Ekvadora i Paname?,Nova Barcelona,Nova Cartagena,Nova Terra ,Nova Granada,Nova Granada,geography
-Kojoj državi pripada Autonomna pokrajina Groenland?,Norveškoj,Danskoj,Kanadi,Islandu,Danskoj,geography
-Koji od navedenih zemljopisnih pojmova nije samostalna država?,Kirgistan,Uzbekistan,Kurdistan,Turkmenistan,Kurdistan,geography
-Što nije britanski zavisni teritorij?,Bermudi,Guam,Kajmansko otočje,Gibraltar,Guam,geography
-Koja od navedenih zemalja prema društveno-političkom uređenju nije kraljevina?,Belgija,Danska,Finska,Norveška,Finska,geography
-Latinska četvrt nalazi se:,Rimu,Milanu,Parizu,Londonu,Parizu,geography
-Koji se grad od  1624. do 1878. zvao Christiania?,Jeruzalem,Warszawa,Napulj,Oslo,Oslo,geography
-Koji grad je Parizu služio kao kažnjenička kolonija?,Libreville,Bamako,Cayenne,Brazzavile,Cayenne,history
-Koje su oružje prvi put u povijesti ratovanja upotrijebili Britanci 1916. u bitci na Sommi?,bacač plamena,mitraljez,tenk,iperit,tenk,history
-Tko je bio na čelu tajne organizacije Ujedinjenje ili smrt?,Milan Nedić,Ilija Garašanin,Svetozar Pribičević,Dragutin Dimitrijević Apis,Dragutin Dimitrijević Apis,history
-Kako se zvao maršal-vrhovni zapovjednik savezničkih trupa 1918. u Francuskoj?,A.Maginot,Joseph Joffre,Ferdinand Foch,Philippe Petain,Ferdinand Foch,history
-Kako glasi pravo ime slavnog Crvenog Baruna - ubojitog njemačkog pilota iz I sv. rata?,W. Kapp,M. A. von Richtchofen,J. von Ribbentrop,E. Hartmann,M. A. von Richtchofen,history
-Koja je država zabila 104 gola u svoje prve 4 utakmice na Olimpijskim igrama 1924?,Čehoslovačka,Švedska,SAD,Kanada,Kanada,sport
-Od kojeg je tenisača Goran Ivanišević izgubio 2 puta u finalu Wimbledona?,Patrick Rafter,Andre Agassi,Pete Sampras,Boris Becker,Pete Sampras,sport
-Uz jugoslavensko i američko koje još državljanstvo ima Monika Seleš?,Slovačko,Češko,Poljsko,Mađarsko,Mađarsko,sport
-Koliko puta zaredom je Bjorn Borg osvojio Wimbledon?,3,4,5,6,5,sport
-Koliko NBA naslova je osvojio Michael Jordan?,3,4,5,6,7,6,sport
-U kojem je još španjolskom klubu osim Real Madrida igrao Davor Šuker?,Valencia,Atletico Madrid,Sevilla,Cadiz,Sevilla,sport
-Kako se zove stadion nogometnog kluba Real Madrid?,Santiago Bernabeu,San Mames,Ruiz de Lopera,Vincente Calderon,Santiago Bernabeu,sport
-Kako se zove stadion nogometnog kluba Atletico Madrid?,San Mames,Camp Nou,Vincente Calderon,Ruiz de Lopera,Vincente Calderon,sport
-Koja je duljina maratonske utrke?,39 600 m,42 195 m,45 712 m,45 720 m,42 195 m,sport
-Po kojem se istaknutom športskom djelatniku naziva najveće hrvatsko odlikovanje za zasluge u športu?,Matiji Ljubeku,Franji Bučaru,Mati Parlovu,Žarku Dolinaru,Franji Bučaru,sport
-Koje godine su braća Wright izvela prvi let zrakoplovom?,1912.,1895.,1900.,1903.,1903.,history
-Pionir proizvodnje automobila pomoću pokretne trake bio je:,Henry Ford,Gottlieb Deimler,Carl Friedrich Benz,Louis Renault,Henry Ford,history
-Kako se zove znanstvenik koji je dešifrirao egipatske hijeroglife?,C. Levi – Strauss,J-F. Champollion,B. Disraeli,H. C. Rawlinson,J-F. Champollion,history
-Tko je Tursku 1844. nazvao bolesnikom na Bosporu?,Pio VII,Nikola I,Victoria,Metternich,Nikola I,history
-Tko je bio  predsjednik SAD-a nakon G. Washingtona?,T. Jefferson,J. Adams,J. Monroe,A. Jackson,J. Adams,history
-Tko je bio predsjednik SAD-a kada je Panamski kanal otvoren za promet?,W. Wilson,T. Roosevelt,W. McKinley,W. Harding,W. Wilson,history
-Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?,Karl Landesteiner,Severo Ochoa,Alphonse Laveran,Ivan Petrović Pavlov,Karl Landesteiner,science
-Kako se prezivala debela Berta?,Flick,Krupp,Bruckmann,Schacht,Krupp,history
-Koji je iredentist i talijanski književnik 1919. predvodio ulazak talijanskih trupa u Rijeku?,G.D'Annunzio,T.Marinetti,G.Carducci,G.Ungaretti,G.D'Annunzio,history
-Koji se datum smatra završetkom I svjetskog rata?,7. srpnja 1918.,8. kolovoza 1918.,9. rujna 1918.,11. studenog 1918.,11. studenog 1918.,history
-Jedinica za mjerenje jačine magnetnog polja je:,tesla,weber,ohm,vat,tesla,science
-Znanost koja istražuje geografske prilike razdoblja u geološkoj prošlosti Zemlje je…,Geomorfologija,Paleogeografija,Glaciologija,Biogeografija,Paleogeografija,science
-Čvor je mjerna jedinica za brzinu i iznosi…,1.2 km/h,1.314 km/h,1.852 km/h,1.956 km/h,1.852 km/h,science
-Jedna funta - jedinica za mjerenje mase je približno…,0.23 kg,0.45 kg,0.75 kg,1.25 kg,0.45 kg,science
-Negativno nabijena čestica koja se može sastojati od jednog ili više atoma zove se…,anion,ion,kation,neutrin,anion,science
-Jedan jard, jedinica za mjerenje duljine je približno…,0.6 m,0.7 m,0.8 m,0.9 m,0.9 m,science
-Linije kojima se predočava okomita raspodjela slanoće u moru zovu se…:,izolinije,izobare,halobate,izohaline,halobate,science
-Apsolutna nula je po celzijevoj skali…,  0 stupnjeva,-100 stupnjeva,-200 stupnjeva,-273,15 stupnjeva,-273,15 stupnjeva,science
-Zasluga za otkriće tranzistora pripala je Williamu Shockleyu…,1933.,1937.,1942.,1947.,1947.,science
-SI izvedena mjerna jedinica za aktivnost radioaktivnoga izvora (radioaktivnost) je…,Kulon,Grej,Farad,Bekerel,Bekerel,science
-U kojoj državi je rođen fizičar Albert Einstein?,Austrija,SAD,Njemačka,Danska,Njemačka,science
-Jedna stopa - jedinica za mjerenje duljine je približno…,0.3 m,0.4 m,0.5 m,0.6 m,0.3 m,science
-Mjerna jedinica za svjetlosni tok u Međunarodnom sustavu jedinica je…,lumen,grej,kulon,luks,lumen,science
-Polarni dan ili ponoćno sunce na samim polarnim krugovima traje približno...,41 dan,90 dana,122 dana,186 dana,186 dana,science
-Ako jedno tijelo djeluje silom na drugo tada i to drugo tijelo djeluje silom na ono prvo je...,Zakon inercije,Temeljni zakon gibanja,Zakon akcije i reakcije,Zakon očuvanja,Zakon akcije i reakcije,science
-Koji postotak mase Sunčevog solarnog sustava otpada na Sunce?,91%,84%,73%,99%,99%,science
-Rak koštane srži je…,limfom,osteosarkom,leukemija,melanom,leukemija,science
-Težak gubitak apetita čiji su razlozi emocionalne prirode naziva se…,anoreksija,bulimija,makrofilija,satirijaza,anoreksija,science
-Ljudski hormon rasta je…,testosteron,inzulin,somatotropin,adrenalin,somatotropin,science
-Kružnica koja spaja sve točke iste zemljopisne širine na površini Zemlje zove se…,ortodroma,meridijan,paralela,izohipsa,paralela,science
-Koji broj nije prosti broj?,17,27,53,5,27,science
-Uobičajen izraz za poremećaj prepoznavanja boja je...,astigmatizam,miopija,ambliopija,daltonizam,daltonizam,science
-Kraljevska kobra naraste do maksimalno…,2.2 m,4 m,5.7 m,8.3 m,5.7 m,science
-Jedna unca, jedinica za mjerenje mase je približno…,11 g,28 g,56 g,71 g,28 g,science
-Supernova je...,prasak stare zvijezde,sudar dvaju zvijezda,mlada zvijezda,sjajna galaktika,prasak stare zvijezde,science
-Osnova matematičkog infinitezimalnog računa su integrali i…,kompleksni brojevi,logaritmi,interpolacije,derivacije,derivacije,science
-U heksadecimalnom sustavu koriste se znamenke 0-9 te slova A do…,C,D,E,F,F,science
-Binarni broj 100 je dekadni broj…,2,4,8,16,4,science
-Prema rimskom brojevnom sustavu 1000 se piše kao…,C,D,M,X,M,science
-Linija koja spaja dva nesusjedna kuta mnogokuta zove se…,ortodroma,simetrala,visina,dijagonala,dijagonala,science
-Dekadni broj 10 se u binarnom sustavu zapisuje kao...,1000,1100,1010,1001,1010,science
-Statistički pojam koji određuje sredinu distribucije je…,varijanca,klasa,nultočka,medijan,medijan,science
-U matematici skup prirodnih brojeva označava se slovom…,N,Z,P,Q,N,science
-Koji je arheolog 1911. otkrio Machu Picchu - izgubljeni grad Inka skriven u peruanskim Andama?,H.Bingham,H.Carter,H. Schliemann,A.Evans,H.Bingham,history
-Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?,Karl Landesteiner,Severo Ochoa,Alphonse Laveran,Ivan Petrović Pavlov,Karl Landesteiner,science
-Što su karijatide?,Posude,Kipovi,Oružje,Oruđe,Kipovi,history
-Nika je grčka božica...,plodnosti,rata,pobjede,ljepote,pobjede,history
-Prijap je grčki bog...,plodnosti,rata,pobjede,ljubavi,plodnosti,history
-Grčka kraljica podzemnog svijeta je...,Cerera,Afrodita,Hera,Perzefona,Perzefona,history
-Koji od ovih gradova se nalazi u Turskoj?,Batman,Robin,Loki,Spiderman,Batman,geography
-Gruzija ima izlaz na koje od ovih mora?,Crno,Azovsko,Crveno,Baltičko,Crno,geography
-S kojom ovih zemalja Kina ne dijeli granicu?,Afganistan,Mongolija,Kazahstan,Iran,Iran,geography
-Najduži od ovih tunela je...,Učka,Mala Kapela,Sv. Rok,Sv. Ilija,Mala Kapela,geography
-Najduži tunel na svijetu nalazi se u...Švedskoj,Norveškoj,Austriji,Švicarskoj,Švicarskoj,geography
-Kako je umrla Marija Antoaneta?,Na giljotini,Otrovana je,Vješanjem,Prirodnom smrću,Na giljotini,history
-Na kojem otoku je umro Napoleon Bonaparte?,Korzici,Sv. Helena,Sardinija,Sicilija,Sv. Helena,history
-Koja od ovih rijeka ne protječe kroz Karlovac?,Una,Dobra,Mrežnica,Zrmanja,Zrmanja,geography
-Franjo Josip je u doba turbulentnih promjena preuzeo krunu od kojeg monarha?,Ferdinand I. Austrijski,Josip II,Konrad II,Wilhelm III,Ferdinand I. Austrijski,history
-Portret Doriana Graya djelo je kojeg od ovih pisaca?,Edgar Alan Poe,Oscar Wilde,Mark Twain,Charles Dickenson,Oscar Wilde,art
-Kroz koji od ovih glavnih gradova Dunav ne protječe?,Bratislava,Beč,Budimpešta,Bukurešt,Bukurešt,geography
-Glavni atenski trg zove se...,Fraza,Sintagma,Frazem,Simbol,Sintagma,geography
-Koja je država prva na svijetu imala ženu na čelu vlade?,Pakistan,Šri Lanka,Bangladeš,Indija,Šri Lanka,geography
-Tko je naslikao golu Maju?,Goya,Dali,Rafael,Tizian,Goya,art
-Vrt zemaljske naslade naslikao je...,Tizian,Paul Klee,Hieronymus Bosch,Salvador Dali,Hieronymus Bosch,art
-Koliko olimpijskih zlata ima Nadia Comaneci?,2,4,5,7,sport
-Koja od ovih čarolija Harry Potter koristi za obranu od dementora?,Patronus,Cruciatus,Imperio,Wingardium Leviosa,Patronus,art
-Majicu koje boje nosi vodeći u utrci Giro d'Italia?,Žutu,Crnu,Rozu,Plavu,Rozu,sport
-Nadimak austrougarskog feldmaršala Svetozara Borojevića bio je...,Tigar sa Soče,Vuk sa Soče,Lav sa Soče,Lisica sa Soče,Lav sa Soče,history
-Drugi najveći grčki otok zove se...,Lezbos,Eubeja,Patmos,Tilos,Eubeja,geography
-Prodajom čega se bavi fikcionalna tvrka Dunder Mifflin?,Računala,Papira,Vrata,Posuđa,Papira,art
-Kako se zove zmaj iz drugog dijela serijala o Hobitu?,Drogon,Smaug,Viserion,Daenerys,Smaug,art
-Koju povijesnu ličnost je opjevao Boney M.?,Hitlera,Columba,Teslu,Rasputina,Rasputina,art
-Koji je modni dodatak Isadoru Duncan došao glave?,šešir,torba,ogrlica,šal,šal,history
-Sloboda vodi narod je slavno remek-djelo romantizma kojeg francuskog slikara?,Delacroixa,Maneta,Moneta,Renoira,Delacroixa,art
-Koliko stihova ima najduži stih tradicionalnih haiku pjesama?,4,5,6,7,7,art
-Tko ima dress code:crno odijelo, crna kravata i bijela košulja?,Dobri momci,Oceanovih 11,Psi iz rezervoara,Nemilosrdni gadovi,Psi iz rezervoara,art
-Koji glumac je osvojio Oscare za glavnog glumca u filmovima Nemilosrdni gadovi i Odbjegli Django?,Brad Pitt,Jamie Foxx,Christoph Waltz,Kevin Spacey,Christoph Waltz,art
-Koji je mitološki bračni par popio čudotvorni napitak i zaboravio sve brige?,Helena i Menelaj,Zeus i Hera,Agamemnon i Klitemnestra,Odisej i Penelopa,Helena i Menelaj,art
-Koji dio Grčke treba posjetiti da biste vidjeli središte slavne mikenske kulture?,Atiku,Kretu,Peloponez,Eubeju,Peloponez,history
-Kako se zove princeza koja postaje Shrekova supruga?,Frida,Fiona,Nora,Xena,Fiona,art
-Biserka Perman je slavna hrvatska...,plivačica,odbojkašica,kuglačica,klizačica,kuglačica,sport
-Slavno remek-djelo Las Meninas djelo je kojeg slikara?,Renoir,Rubens,Tizian,Velasquez,Velasquez,art
-Jedan od najviših vrhova koje županije je 345 m visok Cimermanov brijeg?,Krapinsko-zagorske,Međimurske,Zagrebačke,Sisačko-moslovačke,Međimurske,geography
-Koji se glumac od 1985. do 1990. 3 puta vraćao u budućnost?,Tom Cruise,Leslie Nielsen,Jamie Foxx,Michael J. Fox,Michael J. Fox,art
-Gdje su se nalazila 3 od 7 svjetskih čuda starog vijeka?,u Africi,u Aziji,u Europi,u Australiji,u Aziji,history
-Koji je američki pjevač već s 11 godina sklopio ugovor s diskografskom kućom Motown?,Ray Charles,Roy Orbison,Stevie Wonder,Elvis Presley,Stevie Wonder,art
-Po kojoj su životinji ime dobile ukrštene grede koje priječe prolazak tenkovima?,jež,lisica,vuk,zec,jež,history
-Koji mitologijski ljepotan se svako proljeće vraća Afroditi?,Hipolit,Heraklo,Tezej,Adonis,Adonis,art
-Koji su klub splitski Žuti dvije godine zaredom pobjedili u europskom kupu prvaka?,Real Madrid,Barcelonu,CSKA,Efes Pilsen,Barcelonu,sport
-U kojem je gradu bilo sjedište Informbiroa do 1948. godine?,Prag,Varšava,Beograd,Sofija,Beograd,history
-Tri kilometra južno od kojeg našeg otoka se nalazi otok Šćedro?,Brač,Vis,Mljet,Hvar,Hvar,geography
-U kojoj se državi nalazi južni dio gibratalarskih vrata?,Tunis,Maroko,Alžir,Libija,Maroko,geography
-Koji je laburist bio britanski premijer između 2 Churcillova mandata?,Atley,Chamberlain,Mayor,Blair,Atley,history
-Uz kojeg stripovskog lika vezujemo pitanje "Why so serious?"?,Batman,Spiderman,Joker,Superman,Joker,art
-Kvintal je jedinica mjere za masu i iznosi...,10kg,25kg,40kg,100kg,100kg,science
-Koji strip su stvorili Max Bunker i Magnus?,Zagor,Alan Ford,Dylan Dog,Batman,Alan Ford,art
-Kako se zove papiga Broja 1 iz stripa Alan Ford?,Grunf,Klodovik,Prudy,Pellicus,Klodovik,art
-Poznati hiphondar iz stripa Alan Ford zove se...,Sir Oliver,Grunf,Bob Rock,Jeremija,Jeremija,art
-Koji glumac je utjelovio zloglasnog Hansa Landu u filmu Nemilosrdni gadovi?,Christoph Waltz,Til Schweiger,Daniel Bruhl,B.J. Novak,Christoph Waltz,art
-Gdje se nalazi sjedište Grupe TNT iz stripa Alan Ford?,U cvjećarnici,U pekari,U pogrebnom poduzeću,U teretani,U cvjećarnici,art
-Nadomak kojeg grada je Šervudska šuma?,Blackpoola,Nottinghama,Liverpoola,Worcestera,Nottinghama,geography
-Tko je napisao roman Sto godina samoće?,Charles Dickens,Gabriel Garcia Marquez,Oscar Wilde,George Orwell,Gabriel Garcia Marquez,art
-Koji se naš grad vidi u spotu pjesme Up&Up grupe Coldplay?,Dubrovnik,Split,Rovinj,Makarska,Makarska,art
-Gdje je završio Marty Mcfly u zadnjem dijelu "Povratka u budućnost"?,u Prvom svjetskom ratu,na Divljem zapadu,u Velikoj depresiji,U antičkom Egiptu,na Divljem zapadu,art
-Koje se naselje nalazi u središtu istarskog ipsilona?,Kanfanar,Galižana,Galižana,Motovun,Kanfanar,geography
-Koji je bio prvotni naziv slavnog Manetova platna "Doručak na travi"?,Pecanje,Kupanje,Uživanje,Ležanje,Kupanje,art
-U kojem je sportu "ruski medvjed" Aleksandar Kareljin bio neporažen 13 godina?,u dizanju utega,u džudu,u hrvanju,u kuglanju,u hrvanju,sport
-Kome je grčki filozof rekao da mu se makne sa Sunca?,Aleksandru Velikom,Sokratu,Aristotelu,Platonu,Aleksandru Velikom,history
-Koja se Meštrovićeva skupltura nalazi ispred zagrebačkog HNK?,Zdenac života,Ljubav,Povijest Hrvata,Indijanci u Chicagu,Zdenac života,art
-Kako se zove prvi intendant splitskog HNK?,Gajo Bulat,Ivo Tijardović,Josip Hatze,Zdravko Krstulović,Ivo Tijardović,art
-Tko je naslikao monumentalna fresku "Atenska škola"?,Tizian,Gioto,Velasquez,Rafael,Rafael,art
-Tehniku kjaroskuro vezujemo uz...,slikarstvo,arhitekturu,kiparstvo,glazbu,slikarstvo,art
-Slika "Bolesni mladi Bakho" djelo je kojeg slikara?,El Greco,Rafael,Leonardo da Vinci,Caravaggio,Caravaggio,art
-Tko su “Nedodirljivi” - kasta smatrana nedostojnima života u zajednici zbog poslova koje su obavljali?,kšatrije,vajšije,šudre,parije,parije,history
-Koje autoceste čine istarski ipsilon?,A5 i A6,A7 i A8,A8 i A9,A9 i A10,A8 i A9,geography
-Najpoznatiji skladatelj glazbe za westerne je...,Ramin Djawadi,Ennio Morricone,Hans Zimmer,John Williams,Ennio Morricone,art
-Koju glumicu je John Hinckley Jr. pokušao impresionirati atentatom na američkog predsjednika Reagana?,Sharon Stone,Jodie Foster,Lindu Hamilton,Helenu Bonham Carter,Jodie Foster,history
-Njegovo ime je Travis Bickle, a njegovo zanimanje je...,prodavač,konobar,pekar,taksist,taksist,art
-Patuljak Tirion član je koje kuće u serijalu "Game of Thrones"?,Lannister,Targaryen,Bolton,Stark,Lannister,art
-Princ miješane krvi iz serijala knjiga "Harry Potter" zapravo je...,Albus Dumbledore,Sirius Black,Voldemort,Severus Snape,Severus Snape,art
-Koji otok od Cresa dijeli samo uzak kanal kod Osora?,Rab,Krk,Pag,Lošinj,Lošinj,geography
-Za koji filmski hit je napravljenja pjesma "You could be mine" Guns n' Rosesa?,Robocop,Batman returns,Rambo,Terminator 2,Terminator 2,art
-Kako se zvao glavni vokal i jedan od tekstopisaca u sastavu AC/DC koji je umro predoziravši se alkoholom?,Bon Scott,Malcolm Young,Angus Young,Neil Smith,Bon Scott,art
-Kako se zove istraživač koji je plovio na splavu Kon-Tiki?,Thor Heyerdahl,Roald Amundsen,Leif Ericsson,Fridtjof Nansen,Thor Heyerdahl,history
-Što proučava veksikologija?,zastave,mikroorganizme,kultivirane biljke,gljive,zastave
-Moai kipove vezujemo uz...,Kiribate,Djevičanske otoke,Kostariku,Uskršnji otok,Uskršnje otok,history
-Koji je istraživač otkrio Uskršnji otok?,Erich von Daniken,Jakob Roggeveen,Thor Heyerdahl,Fridtjof Nansen,Jakob Roggeveen,geography
-Nogometni stadion Arena Filip II. nalazi se u...,Tirani,Ateni,Skopju,Sofiji,sport
-Što od ovoga nije programski jezik?,FORTRAN,Java,BASIC,Atari,Atari,science
-Kako se zove najveći Saturnov prirodni satelit?,Hiperion,Ganimed,Titan,Mimas,Titan,science
-Kako se zove najveći Jupiterov prirodni satelit?,Hiperion,Ganimed,Titan,Mimas,Ganimed,science
-Koji je sloj atmosfere najbliži površini Zemlje?,Stratosfera,Troposfera,Termosfera,Egzosfera,Troposfera,science
-Koji sloj atmosfere sadrži najviše ozona?,Stratosfera,Troposfera,Termosfera,Egzosfera,Stratosfera,science
-Kako se zove tjelešce u stanici u kojem se razgrađuju hranjive tvari i oslobađa energija?,Ribosom,Mitohondrij,Citoplazma,Vakuola,Mitohondrij,science
-Tko je ubio Martina Luthera Kinga?,Felix Yusupov,James Earl Ray,John Hinckley,Nathuram Godse,James Earl Ray,history
-Tko je ubio Yitzhaka Rabina?,Sirhan Sirhan,Mark David Chapman,Yigal Amir,Khalid Islambouli,Yigal Amir,history
-Robert F. Kennedy stradao je od ruke kojeg atentatora?,Lee Harvey Oswald,Sirhan Sirhan,Mark David Chapman,Nathuram Godse,Sirhan Sirhan,history
-Koje je računalo 1997. pobijedilo Garija Kasparova u šahu?,Deep Blue,Deep Red,Deep Yellow,Deep Green,Deep Blue,sport
-FIDE organizaciju vezujemo uz koji sport?,Badminton,Curling,Šah,Kuglanje,Šah,sport
-Što je u prošlosti razdvajao Offin obrambeni zid?,Rusiju od Finske,Španjolsku od Portugala,Englesku od Walesa,Švedsku od Norveške,Englesku od Walesa,history
-Tko je sagradio Mannerheimovu liniju?,Nizozemci,Austrijanci,Švicarci,Finci,Finci,history
-Kako se zove prvi pobjednik olimpijskog maratona?,Spiros Samaras,Antonis Nikopolidis,Angelos Haristeas,Spiridon Louis,Spiridon Louis,sport
-Gdje su održane 2. moderne olimpijske igre?,London,Pariz,Berlin,Madrid,Pariz,sport
-Koliko su dugo trajale 2. moderne olimpijske igre?,1 mjesec,3 mjeseca,5 i pol mjeseci, 8 i pol mjeseci,5 i pol mjeseci,sport
-Tko je tvorac poznatog filmskog računala HAL9000?,George Lucas,Arthur C. Clarke,Carl Sagan,Isaac Asimov,Arthur C. Clarke,art
-Koja država nije ujedno i rijeka?,Senegal,Eritreja,Niger,Paragvaj,Eritreja,geography
-Uz što vežemo Merkurov kaducej s 2 zmije?,Ribarstvo,Trgovinu,Medicinu,Farmaciju,Trgovinu,art
-Tko je bio rimski car u 1. godine naše ere?,Tiberije,Oktavijan,Neron,Kaligula,Oktavijan,history
-Čemu je posvećen muzej u dvorcu Oršić?,Seljačkim bunama,Oružju,Tehnici,Astronomiji,Seljačkim bunama,art
-Koju trakavicu nazivamo ehinokokom?,Goveđu,Svinjsku,Ljudsku,Pasju,Pasju,science
-U filmskom hitu "Uhvati me ako možeš" di Caprio je krivotvoritelj koji se pretvara da je liječnik odvjetnik i...,Policajac,Pilot,Vojnik,Trgovac,Pilot
-Lake Superior je najveće jezero u kojoj kanadskoj pokrajini?,Manitoba,Alberta,Ontario,Quebec,Ontario,geography
-Eksplozija kojeg ratnog broda u Havani je bio povod za špajnolsko-američki rat?,Maine,Lincoln,Washington,Dakota,Maine,history
-Tko prvi upotrebljava termin nihilizam u svom romanu "Očevi i djeca"?,Dostojevski,Tolstoj,Turgenjev,Turgenjev,Turgenjev,art
-Koje godine se odvila bitka kod Kurska?,1941,1942,1943,1944,1943,history
-Tko je 1801. naslikao slavno ulje na platnu "Napoleon prelazi Alpe"?,Jacques-Louis David,Paul Gauguin,Eugene Delacroix,Paul Cezanne,Jacques-Louis David,art
-Tko je naslijedio kralja Joffreya na prijestolju u serijalu "Pjesma leda i vatre"?,Tommen,Jaime,Tirion,Robert,Tommen,art
-Tko je naručio slavno ulje na platnu "Napoleon prelazi alpe"?,George VI.,Karlo IV.,Filip V.,Karlo III.,Karlo IV.,art
-Koji je lik Držić oblikovao prema Plautovu Euklionu?,Škrtac,Dundo Maroje,Pomet,Ugo Tudešak,Škrtac,art
-Kako još nazivamo sinantropa?,Neandretalac,Kromanjonac,Pekinški čovjek,Australopitek,Pekinški čovjek,history
-Koje more oplakuje obale najvećeg sredozemnog otoka?,Tirensko,Alboransko,Ligursko,Jonsko,Tirensko,geography
-Tko je 2017. osvojio turnir u Monte Carlu i postao jedini igrač koji je osvojio neki ATP turnir 10 puta?,Nadal,Đoković,Wawrinka,Federer,Nadal,sport
-Koji je skladatelj skladao poznatu špicu za film 7 veličanstvenih?,Ennio Moricone,Elmer Bernstein,Hans Zimmer,Edvard Grieg,Elmer Bernstein,art
-Tko je simbol antifašističke borbe Hrvata i Slovenaca u Istri?,Vladimir Gortan,Ivan Šubašić,Đuro Đaković,Frano Supilo,Vladimir Gortan,history
-Što je od ovoga zbirka pjesama arsena dedića?,Rim,Padova,Napulj,Firenca,Padova,art
-U kojoj se saveznoj državi SAD-a nalazi nacionalni park Denali?,Kaliforniji,Floridi,Ohiu,Aljasci,Aljasci,geography
-Glavni lik kojeg filma pati od opsesivno kompluzivnog poremećaja?,Django,Avijatičar,Taksist,Maratonac,Avijatičar,art
-Bez koje biljke nema komušine?,bez raži,bez zobi,bez kukuruza,bez pšenice,bez kukuruza,science
-Koji je studijski album snimio Neno Belan 2012.?,Vode strasti,Oceani ljubavi,Jezera sreće,Rijeke snova,Oceani ljubavi,art
-Na kojoj rijeci leži rodni grad Shakespeara?,Temza,Trent,Mersey,Avon,Avon,history
-Kojem je Atrejevu sinu povrijeđen ponos kad mu je oteta supruga Helena?,Agamemnon,Menelaj,Hektor,Kastor,Menelaj,art
-U koji se grad s mora ulazi kroz Kanal sv. Ante?,Zadar,Dubrovnik,Rijeku,Šibenik,Šibenik,geography
-Što je u svom radnom vijeku prodavao Morty otac Jerryja Seinfelda?,Nekretnine,Satove,Cipele,Balonere,Balonere,art
-Kako se zove jedan od 5 osnovnih stilova gradnje u antičkoj arhitekturi?,apulijski,toskanski,tridentski,bolonjski,toskanski,art
-O čemu detaljno svjedoči stripovski serijal "Brončano doba" Erica Shanowera?,O seobi naroda,O Trojanskom ratu,O kugi,O križarskim ratovima,O Trojanskom ratu,art
-Kako se zove Zeusov otac?,Kron,Uran,Pluton,Ares,Kron,art
-Mladog buntovnika Holdena Caufileda vezujemo uz kojeg pisca?,Ambrose Bierce,Jack London,Ernest Hemingway,J.D. Salinger,J.D. Salinger,art
-U kojoj mislji su 1967. poginula 3 NASA-ina astronuauta?,Apollo 1,Apollo 3,Apollo 5,Apollo 7,Apollo 1,history
-Kako se zvao ubojica Johna Lennona?,Mark David Chapman,Jack Ruby,John Hinckley,Sirhan Sirhan,Mark David Chapman,history
-Najviši vrh Rusije s 5633 metra je...,Elbrus,Angara,Selenga,Kolima,Elbrus,geography
-Vrh Kosciusko najviši je vrh koje države?Novog Zelanda,Australije,Indonezije,Laosa,Australije,geography
-U kojoj se državi nalazi Kilimanjaro - najviši vrh Afrike?,Mali,Čad,Nigerija,Tanzanija,Tanzanija,geography
-U kojoj se saveznoj državi nalazi najviši vrh Sjeverne Amerike - Mt. McKinley?,Coloradu,Arizoni,Aljasci,Idahu,Coloradu,geography
-Chogori ili Mount Godwin-Austen zapravo je koji vrh?,Mount Everest,Elbrus,K2,Kilimanjaro,K2,geography
-Qomolangma ili Chomolungma zapravo je koji vrh?,Mount Everest,Elbrus,K2,Kilimanjaro,Mount Everest,geography
-Koji od ovih vrhova se smatra najopasnijim na svijetu obzirom da je gotovo 40% od ukupnog broja penjača skončalo u pokušaju da ga osvoji?,K2,Manaslu,Makalu,Annapurna,Annapurna,geography
-Najvši vrh julijskih Alpi je...,Grossglockner,Wildspitze,Triglav,Dachstein,Triglav,geography
-Koja država ima najrazvedeniju obalu u Europi?,Hrvatska,Grčka,Švedska,Norveška,Norveška,geography
-Lik Melkiora Tresića vezujemo uz kojeg našeg književnika?,Miroslava Krležu,Ranka Marinkovića,Ivu Vojnovića,Janka Leskovara,Ranka Marinkovića,art
-Spoznajnoteorijski pojam "Stvari po sebi" uveo je koji filozof?,Descartes,Kant,de Spinoza,Leibniz,Kant,art
-Koja je stranka upravljala Kinom do pobjede komunista?,Kuomintang,Sungari,Jalung,Qiantang,Kuomintang,history
-Bidermajer je umjetnički stil koji vezujemo uz koje stoljeće?,17.,18.,19.,20.,19.,art
-Koja je kći Ludovika Velikog 1384. postala kraljicom Poljske?,Jadviga,Marija,Elizabeta,Barbara,Jadviga,history
-Pierre de Coubertin ostao je upamćen kao utemeljitelj...,FIFA-e,UEFA-e,UN-a,modernih Olimpijskih igara,modernih Olimpijskih igara,history
-Prirodni proteini kojeg proizvode stanice imunološkog sustava većine kralježnjaka kao zaštitu od virusa zovu se...,Lizozimi,Interferoni,Citokini,Kriptocidini,science
-"Saturn proždire svog sina" poznato je djelo kojeg slikara?,Jacques-Louis Davida,Petera Paula Rubensa,Hieronymusa Boscha,Tiziana,Petera Paula Rubensa,art
+﻿Koji je planet sunčeva sustava najtopliji?;Jupiter;Venera;Mars;Saturn;Venera;science
+Koja je SI mjerna jedinica za otpor?;Amper;Om;Volt;Watt;Om;science
+Koliko zakona termodinamike postoji?;2;3;4;5;3;science
+Uz kojeg psihologa vezujemo id ego i super ego?;Sigmunda Freuda;Ivana Pavlova;Jana Piageta;Erika Eriksona;Sigmunda Freuda;science
+Koji je planet sunčeva sustava veličinom najbliži Zemlji?;Merkur;Mars;Uran;Venera;Venera;science
+Koji je znanstvenik uzviknuo "Eureka!"?;Arhimed;Pitagora;Tales;Empedoklo;Arhimed;science
+Kojim dijelom tijela se bavi nefrologija?;Plućima;Bubrezima;Štitnjačom;Srcem;Plućima;science
+Pozitron je antičestica:;Neutrona;Protona;Elektrona;Neurona;Elektrona;science
+Zakon akcije i reakcije još se naziva i Newtonov:;1. zakon; 2.zakon; 3. zakon; 4. zakon; 3. zakon;science
+Kako se naziva pravac koji krivulju dodiruje u samo jednoj točki?;Hipotenuza;Simetrala;Promjer;Tangenta;Tangenta;science
+Koja je hrana najčešći uzrok salmonele?;Piletina;Jaja;Sladoled;Riba;Piletina;science
+Tko je autor pjesama Ashes to Ashes i Space Oddity?;Elvis Presley;David Bowie;Michael Jackson;Billy Idol;David Bowie;art
+Tko je osnivac benda Led Zeppelin?;Paul Mccartney;Mick Jagger;Jimmy Page;Jim Morrison;Jimmy Page;art
+Kako se zove skladatelj klasicne glazbe Vivaldi?;Enio;Antonio;Hans;Mario;Antonio;art
+Tko je autor najprodavanijeg albuma svih vremena?;Eminem;AC/DC;Rihanna;Michael Jackson;Michael Jackson;art
+Kada su nastali Beatlesi?;1955.;1960.;1967.;1973.;1960.;art
+Po stihovima "Sweet Home Alabama" poznat je koji bend?;Pink Floyd;Rolling Stones;Lynyrd Skynyrd;ZZ Top;Lynyrd Skynyrd;art
+Koje godine je ubijen rapper poznat kao 2Pac?;1992.;1994.;1996.;1998.;1996.;art
+Kada je rodjen Johann Sebastian Bach?;1585.;1685.;1785.;1885.;1685.;art
+Po kojem je instrumentu poznat Frederic Chopin?;Violina;Truba;Klavir;Kontrabas;Klavir;art
+Kako se zove glavni vokal grupe Rolling Stones?;Mick Jagger;Keith Richards;Roger Waters;Brian Johnson;Mick Jagger;art
+Kako se zvala izdavačka kuća koju su osnovali Beatlesi?;Mango;Orange;Peach;Apple;Apple;art
+Koje godine je počela kriza poznata pod nazivom "Velika depresija"?;1926;1929;1931;1932;1929;history
+Koje godine je otkrivena Amerika?;1491.;1492.;1493.;1495.;1492.;history
+Iza kojeg se akronima krije sporazum SAD-a i SSSR-a o redukciji nuklearnog arsenala?;SALT;FAQ;UNIMARC;CARDS;SALT;history
+Pod kojim je još imenom poznat Fordov T model?;Thin Lizzy;Thin Betty;Thin Ann;Thin Jane;Thin Lizzy;history
+Kamikaza u prijevodu znači?;Božji plamen;Božji vjetar;Božji glasnik;Božji ratnik;Božji vjetar;history
+Tko je 1836. patentirao revolver?;Samuel Colt;Horace Smith;John Browning;Daniel Weeson;Samuel Colt;history
+U kojem gradu su održane ljetne olimpijske igre 2000.?;Canberra;Sydney;Melbourne;Brisbane;Sydney;history
+Kalmarska unija je akt o ujedinjenju kojih zemalja?;iberskih;skandinavskih;apeniniskih;levantskih;skandinavskih;history
+Kako se naziva zastava Velike Britanije?;Bull Run;John Bull;Old Glory;Union Jack;Union Jack;history
+Kad su održane zimske olimpijske igre u Sarajevu?;1980.;1984.;1986.;1988.;1984.;history
+Koje godine je osnovan NK Hajduk?;1910.;1911.;1912;1913.;1911.;history
+Koju su povijesnu ličnost svjetski moćnici zvali Uncle Joe?;Molotova;Tita;Staljina;Churcilla;Staljina;history
+Na kojem se kontinentu nalaze Himalaje?;Azija;Europa;Afrika;Australija;Azija;geography
+Koje more ne oplakuje obale Italije?;Jadransko;Alboransko;Ligursko;Tirensko;Alboransko;geography
+Koji je glavni grad Pijemonta?;Torino;Milano;Napulj;Padova;Torino;geography
+Na kojem se kontinentu nalaze Apenini?;Azija;Europa;Afrika;Australija;Europa;geography
+Koje je najdublje jezero na svijetu?;Kaspijsko;Como;Bajkalsko;Balaton;Bajkalsko;geography
+Koji je glavni grad Madagaskara?;Antananarivo;Santiago;Bogota;Kinshasa;Antananarivo;geography
+Abesinija je zastarjeli naziv za:;Saudijsku Arabiju;Siciliju;Libiju;Etiopiju;Etiopiju;geography
+Koji je glavni grad Burkine Fasso?;Bujumbura;Antananarivo;Dodoma;Ouagadougou;Ouagadougou;geography
+Koji je službeni jezik u Surinamu?;portugalski;nizozemski;engleski;kečuanski;nizozemski;geography
+Kako se zvalo ujedinjeno područje španjolskih kolonija a obuhvaćalo je današnje Kolumbije Venezuele Ekvadora i Paname?;Nova Barcelona;Nova Cartagena;Nova Terra ;Nova Granada;Nova Granada;geography
+Kojoj državi pripada Autonomna pokrajina Groenland?;Norveškoj;Danskoj;Kanadi;Islandu;Danskoj;geography
+Koji od navedenih zemljopisnih pojmova nije samostalna država?;Kirgistan;Uzbekistan;Kurdistan;Turkmenistan;Kurdistan;geography
+Što nije britanski zavisni teritorij?;Bermudi;Guam;Kajmansko otočje;Gibraltar;Guam;geography
+Koja od navedenih zemalja prema društveno-političkom uređenju nije kraljevina?;Belgija;Danska;Finska;Norveška;Finska;geography
+Latinska četvrt nalazi se:;Rimu;Milanu;Parizu;Londonu;Parizu;geography
+Koji se grad od  1624. do 1878. zvao Christiania?;Jeruzalem;Warszawa;Napulj;Oslo;Oslo;geography
+Koji grad je Parizu služio kao kažnjenička kolonija?;Libreville;Bamako;Cayenne;Brazzavile;Cayenne;history
+Koje su oružje prvi put u povijesti ratovanja upotrijebili Britanci 1916. u bitci na Sommi?;bacač plamena;mitraljez;tenk;iperit;tenk;history
+Tko je bio na čelu tajne organizacije Ujedinjenje ili smrt?;Milan Nedić;Ilija Garašanin;Svetozar Pribičević;Dragutin Dimitrijević Apis;Dragutin Dimitrijević Apis;history
+Kako se zvao maršal-vrhovni zapovjednik savezničkih trupa 1918. u Francuskoj?;A.Maginot;Joseph Joffre;Ferdinand Foch;Philippe Petain;Ferdinand Foch;history
+Kako glasi pravo ime slavnog Crvenog Baruna - ubojitog njemačkog pilota iz I sv. rata?;W. Kapp;M. A. von Richtchofen;J. von Ribbentrop;E. Hartmann;M. A. von Richtchofen;history
+Koja je hokejaška reprezentacija zabila 104 gola u svoje prve 4 utakmice na Olimpijskim igrama 1924?;Čehoslovačka;Švedska;SAD;Kanada;Kanada;sport
+Od kojeg je tenisača Goran Ivanišević izgubio 2 puta u finalu Wimbledona?;Patrick Rafter;Andre Agassi;Pete Sampras;Boris Becker;Pete Sampras;sport
+Uz jugoslavensko i američko koje još državljanstvo ima Monika Seleš?;Slovačko;Češko;Poljsko;Mađarsko;Mađarsko;sport
+Koliko puta zaredom je Bjorn Borg osvojio Wimbledon?;3;4;5;6;5;sport
+Koliko NBA naslova je osvojio Michael Jordan?;3;4;5;6;7;6;sport
+U kojem je još španjolskom klubu osim Real Madrida igrao Davor Šuker?;Valencia;Atletico Madrid;Sevilla;Cadiz;Sevilla;sport
+Kako se zove stadion nogometnog kluba Real Madrid?;Santiago Bernabeu;San Mames;Ruiz de Lopera;Vincente Calderon;Santiago Bernabeu;sport
+Kako se zove stadion nogometnog kluba Atletico Madrid?;San Mames;Camp Nou;Vincente Calderon;Ruiz de Lopera;Vincente Calderon;sport
+Koja je duljina maratonske utrke?;39 600 m;42 195 m;45 712 m;45 720 m;42 195 m;sport
+Po kojem se istaknutom športskom djelatniku naziva najveće hrvatsko odlikovanje za zasluge u športu?;Matiji Ljubeku;Franji Bučaru;Mati Parlovu;Žarku Dolinaru;Franji Bučaru;sport
+Koje godine su braća Wright izvela prvi let zrakoplovom?;1912.;1895.;1900.;1903.;1903.;history
+Pionir proizvodnje automobila pomoću pokretne trake bio je:;Henry Ford;Gottlieb Deimler;Carl Friedrich Benz;Louis Renault;Henry Ford;history
+Kako se zove znanstvenik koji je dešifrirao egipatske hijeroglife?;C. Levi – Strauss;J-F. Champollion;B. Disraeli;H. C. Rawlinson;J-F. Champollion;history
+Tko je Tursku 1844. nazvao bolesnikom na Bosporu?;Pio VII;Nikola I;Victoria;Metternich;Nikola I;history
+Tko je bio  predsjednik SAD-a nakon G. Washingtona?;T. Jefferson;J. Adams;J. Monroe;A. Jackson;J. Adams;history
+Tko je bio predsjednik SAD-a kada je Panamski kanal otvoren za promet?;W. Wilson;T. Roosevelt;W. McKinley;W. Harding;W. Wilson;history
+Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?;Karl Landesteiner;Severo Ochoa;Alphonse Laveran;Ivan Petrović Pavlov;Karl Landesteiner;science
+Kako se prezivala debela Berta?;Flick;Krupp;Bruckmann;Schacht;Krupp;history
+Koji je iredentist i talijanski književnik 1919. predvodio ulazak talijanskih trupa u Rijeku?;G.D'Annunzio;T.Marinetti;G.Carducci;G.Ungaretti;G.D'Annunzio;history
+Koji se datum smatra završetkom I svjetskog rata?;7. srpnja 1918.;8. kolovoza 1918.;9. rujna 1918.;11. studenog 1918.;11. studenog 1918.;history
+Jedinica za mjerenje jačine magnetnog polja je:;tesla;weber;ohm;vat;tesla;science
+Znanost koja istražuje geografske prilike razdoblja u geološkoj prošlosti Zemlje je…;Geomorfologija;Paleogeografija;Glaciologija;Biogeografija;Paleogeografija;science
+Čvor je mjerna jedinica za brzinu i iznosi…;1.2 km/h;1.314 km/h;1.852 km/h;1.956 km/h;1.852 km/h;science
+Jedna funta - jedinica za mjerenje mase je približno…;0.23 kg;0.45 kg;0.75 kg;1.25 kg;0.45 kg;science
+Negativno nabijena čestica koja se može sastojati od jednog ili više atoma zove se…;anion;ion;kation;neutrin;anion;science
+Jedan jard; jedinica za mjerenje duljine je približno…;0.6 m;0.7 m;0.8 m;0.9 m;0.9 m;science
+Linije kojima se predočava okomita raspodjela slanoće u moru zovu se…:;izolinije;izobare;halobate;izohaline;halobate;science
+Apsolutna nula je po celzijevoj skali…;  0 stupnjeva;-100 stupnjeva;-200 stupnjeva;-273;15 stupnjeva;-273;15 stupnjeva;science
+Zasluga za otkriće tranzistora pripala je Williamu Shockleyu…;1933.;1937.;1942.;1947.;1947.;science
+SI izvedena mjerna jedinica za aktivnost radioaktivnoga izvora (radioaktivnost) je…;Kulon;Grej;Farad;Bekerel;Bekerel;science
+U kojoj državi je rođen fizičar Albert Einstein?;Austrija;SAD;Njemačka;Danska;Njemačka;science
+Jedna stopa - jedinica za mjerenje duljine je približno…;0.3 m;0.4 m;0.5 m;0.6 m;0.3 m;science
+Mjerna jedinica za svjetlosni tok u Međunarodnom sustavu jedinica je…;lumen;grej;kulon;luks;lumen;science
+Polarni dan ili ponoćno sunce na samim polarnim krugovima traje približno...;41 dan;90 dana;122 dana;186 dana;186 dana;science
+Ako jedno tijelo djeluje silom na drugo tada i to drugo tijelo djeluje silom na ono prvo je...;Zakon inercije;Temeljni zakon gibanja;Zakon akcije i reakcije;Zakon očuvanja;Zakon akcije i reakcije;science
+Koji postotak mase Sunčevog solarnog sustava otpada na Sunce?;91%;84%;73%;99%;99%;science
+Rak koštane srži je…;limfom;osteosarkom;leukemija;melanom;leukemija;science
+Težak gubitak apetita čiji su razlozi emocionalne prirode naziva se…;anoreksija;bulimija;makrofilija;satirijaza;anoreksija;science
+Ljudski hormon rasta je…;testosteron;inzulin;somatotropin;adrenalin;somatotropin;science
+Kružnica koja spaja sve točke iste zemljopisne širine na površini Zemlje zove se…;ortodroma;meridijan;paralela;izohipsa;paralela;science
+Koji broj nije prosti broj?;17;27;53;5;27;science
+Uobičajen izraz za poremećaj prepoznavanja boja je...;astigmatizam;miopija;ambliopija;daltonizam;daltonizam;science
+Jedna unca, jedinica za mjerenje mase je približno…;11 g;28 g;56 g;71 g;28 g;science
+Supernova je...;prasak stare zvijezde;sudar dvaju zvijezda;mlada zvijezda;sjajna galaktika;prasak stare zvijezde;science
+Osnova matematičkog infinitezimalnog računa su integrali i…;kompleksni brojevi;logaritmi;interpolacije;derivacije;derivacije;science
+U heksadecimalnom sustavu koriste se znamenke 0-9 te slova A do…;C;D;E;F;F;science
+Binarni broj 100 je dekadni broj…;2;4;8;16;4;science
+Prema rimskom brojevnom sustavu 1000 se piše kao…;C;D;M;X;M;science
+Linija koja spaja dva nesusjedna kuta mnogokuta zove se…;ortodroma;simetrala;visina;dijagonala;dijagonala;science
+Dekadni broj 10 se u binarnom sustavu zapisuje kao...;1000;1100;1010;1001;1010;science
+Statistički pojam koji određuje sredinu distribucije je…;varijanca;klasa;nultočka;medijan;medijan;science
+U matematici skup prirodnih brojeva označava se slovom…;N;Z;P;Q;N;science
+Koji je arheolog 1911. otkrio Machu Picchu - izgubljeni grad Inka skriven u peruanskim Andama?;H.Bingham;H.Carter;H. Schliemann;A.Evans;H.Bingham;history
+Koji je nobelovac 1910. otkrio Rh-faktor i 4 krvne grupe?;Karl Landesteiner;Severo Ochoa;Alphonse Laveran;Ivan Petrović Pavlov;Karl Landesteiner;science
+Što su karijatide?;Posude;Kipovi;Oružje;Oruđe;Kipovi;history
+Nika je grčka božica...;plodnosti;rata;pobjede;ljepote;pobjede;history
+Prijap je grčki bog...;plodnosti;rata;pobjede;ljubavi;plodnosti;history
+Grčka kraljica podzemnog svijeta je...;Cerera;Afrodita;Hera;Perzefona;Perzefona;history
+Koji od ovih gradova se nalazi u Turskoj?;Batman;Robin;Loki;Spiderman;Batman;geography
+Gruzija ima izlaz na koje od ovih mora?;Crno;Azovsko;Crveno;Baltičko;Crno;geography
+S kojom ovih zemalja Kina ne dijeli granicu?;Afganistan;Mongolija;Kazahstan;Iran;Iran;geography
+Najduži od ovih tunela je...;Učka;Mala Kapela;Sv. Rok;Sv. Ilija;Mala Kapela;geography
+Najduži tunel na svijetu nalazi se u...;Švedskoj;Norveškoj;Austriji;Švicarskoj;Švicarskoj;geography
+Kako je umrla Marija Antoaneta?;Na giljotini;Otrovana je;Vješanjem;Prirodnom smrću;Na giljotini;history
+Na kojem otoku je umro Napoleon Bonaparte?;Korzici;Sv. Helena;Sardinija;Sicilija;Sv. Helena;history
+Koja od ovih rijeka ne protječe kroz Karlovac?;Una;Dobra;Mrežnica;Zrmanja;Zrmanja;geography
+Franjo Josip je u doba turbulentnih promjena preuzeo krunu od kojeg monarha?;Ferdinand I. Austrijski;Josip II;Konrad II;Wilhelm III;Ferdinand I. Austrijski;history
+Portret Doriana Graya djelo je kojeg od ovih pisaca?;Edgar Alan Poe;Oscar Wilde;Mark Twain;Charles Dickenson;Oscar Wilde;art
+Kroz koji od ovih glavnih gradova Dunav ne protječe?;Bratislava;Beč;Budimpešta;Bukurešt;Bukurešt;geography
+Glavni atenski trg zove se...;Fraza;Sintagma;Afora;Simbol;Sintagma;geography
+Koja je država prva na svijetu imala ženu na čelu vlade?;Pakistan;Šri Lanka;Bangladeš;Indija;Šri Lanka;geography
+Tko je naslikao golu Maju?;Goya;Dali;Rafael;Tizian;Goya;art
+Vrt zemaljske naslade naslikao je...;Tizian;Paul Klee;Hieronymus Bosch;Salvador Dali;Hieronymus Bosch;art
+Koliko olimpijskih zlata ima Nadia Comaneci?;2;4;5;7;5;sport
+Koja od ovih čarolija Harry Potter koristi za obranu od dementora?;Patronus;Cruciatus;Imperio;Wingardium Leviosa;Patronus;art
+Majicu koje boje nosi vodeći u utrci Giro d'Italia?;Žutu;Crnu;Rozu;Plavu;Rozu;sport
+Nadimak austrougarskog feldmaršala Svetozara Borojevića bio je...;Tigar sa Soče;Vuk sa Soče;Lav sa Soče;Lisica sa Soče;Lav sa Soče;history
+Drugi najveći grčki otok zove se...;Lezbos;Eubeja;Patmos;Tilos;Eubeja;geography
+Prodajom čega se bavi fikcionalna tvrka Dunder Mifflin?;Računala;Papira;Vrata;Posuđa;Papira;art
+Kako se zove zmaj iz drugog dijela serijala o Hobitu?;Drogon;Smaug;Viserion;Daenerys;Smaug;art
+Koju povijesnu ličnost je opjevao Boney M.?;Hitlera;Columba;Teslu;Rasputina;Rasputina;art
+Koji je modni dodatak Isadoru Duncan došao glave?;šešir;torba;ogrlica;šal;šal;history
+Sloboda vodi narod je slavno remek-djelo romantizma kojeg francuskog slikara?;Delacroixa;Maneta;Moneta;Renoira;Delacroixa;art
+Koliko stihova ima najduži stih tradicionalnih haiku pjesama?;4;5;6;7;7;art
+Tko ima dress code:crno odijelo; crna kravata i bijela košulja?;Dobri momci;Oceanovih 11;Psi iz rezervoara;Nemilosrdni gadovi;Psi iz rezervoara;art
+Koji glumac je osvojio Oscare za glavnog glumca u filmovima Nemilosrdni gadovi i Odbjegli Django?;Brad Pitt;Jamie Foxx;Christoph Waltz;Kevin Spacey;Christoph Waltz;art
+Koji je mitološki bračni par popio čudotvorni napitak i zaboravio sve brige?;Helena i Menelaj;Zeus i Hera;Agamemnon i Klitemnestra;Odisej i Penelopa;Helena i Menelaj;art
+Koji dio Grčke treba posjetiti da biste vidjeli središte slavne mikenske kulture?;Atiku;Kretu;Peloponez;Eubeju;Peloponez;history
+Kako se zove princeza koja postaje Shrekova supruga?;Frida;Fiona;Nora;Xena;Fiona;art
+Biserka Perman je slavna hrvatska...;plivačica;odbojkašica;kuglačica;klizačica;kuglačica;sport
+Slavno remek-djelo Las Meninas djelo je kojeg slikara?;Renoir;Rubens;Tizian;Velasquez;Velasquez;art
+Jedan od najviših vrhova koje županije je 345 m visok Cimermanov brijeg?;Krapinsko-zagorske;Međimurske;Zagrebačke;Sisačko-moslovačke;Međimurske;geography
+Koji se glumac od 1985. do 1990. 3 puta vraćao u budućnost?;Tom Cruise;Leslie Nielsen;Jamie Foxx;Michael J. Fox;Michael J. Fox;art
+Gdje su se nalazila 3 od 7 svjetskih čuda starog vijeka?;u Africi;u Aziji;u Europi;u Australiji;u Aziji;history
+Koji je američki pjevač već s 11 godina sklopio ugovor s diskografskom kućom Motown?;Ray Charles;Roy Orbison;Stevie Wonder;Elvis Presley;Stevie Wonder;art
+Po kojoj su životinji ime dobile ukrštene grede koje priječe prolazak tenkovima?;jež;lisica;vuk;zec;jež;history
+Koji mitologijski ljepotan se svako proljeće vraća Afroditi?;Hipolit;Heraklo;Tezej;Adonis;Adonis;art
+Koji su klub splitski Žuti dvije godine zaredom pobjedili u europskom kupu prvaka?;Real Madrid;Barcelonu;CSKA;Efes Pilsen;Barcelonu;sport
+U kojem je gradu bilo sjedište Informbiroa do 1948. godine?;Prag;Varšava;Beograd;Sofija;Beograd;history
+Tri kilometra južno od kojeg našeg otoka se nalazi otok Šćedro?;Brač;Vis;Mljet;Hvar;Hvar;geography
+U kojoj se državi nalazi južni dio gibratalarskih vrata?;Tunis;Maroko;Alžir;Libija;Maroko;geography
+Koji je laburist bio britanski premijer između 2 Churcillova mandata?;Atley;Chamberlain;Mayor;Blair;Atley;history
+Uz kojeg stripovskog lika vezujemo pitanje "Why so serious?"?;Batman;Spiderman;Joker;Superman;Joker;art
+Kvintal je jedinica mjere za masu i iznosi...;10kg;25kg;40kg;100kg;100kg;science
+Koji strip su stvorili Max Bunker i Magnus?;Zagor;Alan Ford;Dylan Dog;Batman;Alan Ford;art
+Kako se zove papiga Broja 1 iz stripa Alan Ford?;Grunf;Klodovik;Prudy;Pellicus;Klodovik;art
+Poznati hiphondar iz stripa Alan Ford zove se...;Sir Oliver;Grunf;Bob Rock;Jeremija;Jeremija;art
+Koji glumac je utjelovio zloglasnog Hansa Landu u filmu Nemilosrdni gadovi?;Christoph Waltz;Til Schweiger;Daniel Bruhl;B.J. Novak;Christoph Waltz;art
+Gdje se nalazi sjedište Grupe TNT iz stripa Alan Ford?;U cvjećarnici;U pekari;U pogrebnom poduzeću;U teretani;U cvjećarnici;art
+Nadomak kojeg grada je Šervudska šuma?;Blackpoola;Nottinghama;Liverpoola;Worcestera;Nottinghama;geography
+Tko je napisao roman "Sto godina samoće"?;Charles Dickens;Gabriel Garcia Marquez;Oscar Wilde;George Orwell;Gabriel Garcia Marquez;art
+Koji se naš grad vidi u spotu pjesme Up&Up grupe Coldplay?;Dubrovnik;Split;Rovinj;Makarska;Makarska;art
+Gdje je završio Marty Mcfly u zadnjem dijelu "Povratka u budućnost"?;u Prvom svjetskom ratu;na Divljem zapadu;u Velikoj depresiji;U antičkom Egiptu;na Divljem zapadu;art
+Koje se naselje nalazi u središtu istarskog ipsilona?;Kanfanar;Galižana;Galižana;Motovun;Kanfanar;geography
+Koji je bio prvotni naziv slavnog Manetova platna "Doručak na travi"?;Pecanje;Kupanje;Uživanje;Ležanje;Kupanje;art
+U kojem je sportu "ruski medvjed" Aleksandar Kareljin bio neporažen 13 godina?;u dizanju utega;u džudu;u hrvanju;u kuglanju;u hrvanju;sport
+Kome je grčki filozof rekao da mu se makne sa Sunca?;Aleksandru Velikom;Sokratu;Aristotelu;Platonu;Aleksandru Velikom;history
+Koja se Meštrovićeva skupltura nalazi ispred zagrebačkog HNK?;Zdenac života;Ljubav;Povijest Hrvata;Indijanci u Chicagu;Zdenac života;art
+Kako se zove prvi intendant splitskog HNK?;Gajo Bulat;Ivo Tijardović;Josip Hatze;Zdravko Krstulović;Ivo Tijardović;art
+Tko je naslikao monumentalna fresku "Atenska škola"?;Tizian;Gioto;Velasquez;Rafael;Rafael;art
+Tehniku kjaroskuro vezujemo uz...;slikarstvo;arhitekturu;kiparstvo;glazbu;slikarstvo;art
+Slika "Bolesni mladi Bakho" djelo je kojeg slikara?;El Greco;Rafael;Leonardo da Vinci;Caravaggio;Caravaggio;art
+Tko su “Nedodirljivi” - kasta smatrana nedostojnima života u zajednici zbog poslova koje su obavljali?;kšatrije;vajšije;šudre;parije;parije;history
+Koje autoceste čine istarski ipsilon?;A5 i A6;A7 i A8;A8 i A9;A9 i A10;A8 i A9;geography
+Najpoznatiji skladatelj glazbe za westerne je...;Ramin Djawadi;Ennio Morricone;Hans Zimmer;John Williams;Ennio Morricone;art
+Koju glumicu je John Hinckley Jr. pokušao impresionirati atentatom na američkog predsjednika Reagana?;Sharon Stone;Jodie Foster;Lindu Hamilton;Helenu Bonham Carter;Jodie Foster;history
+Njegovo ime je Travis Bickle; a njegovo zanimanje je...;prodavač;konobar;pekar;taksist;taksist;art
+Patuljak Tirion član je koje kuće u serijalu "Game of Thrones"?;Lannister;Targaryen;Bolton;Stark;Lannister;art
+Princ miješane krvi iz serijala knjiga "Harry Potter" zapravo je...;Albus Dumbledore;Sirius Black;Voldemort;Severus Snape;Severus Snape;art
+Koji otok od Cresa dijeli samo uzak kanal kod Osora?;Rab;Krk;Pag;Lošinj;Lošinj;geography
+Za koji filmski hit je napravljenja pjesma "You could be mine" Guns n' Rosesa?;Robocop;Batman returns;Rambo;Terminator 2;Terminator 2;art
+Kako se zvao glavni vokal i jedan od tekstopisaca u sastavu AC/DC koji je umro predoziravši se alkoholom?;Bon Scott;Malcolm Young;Angus Young;Neil Smith;Bon Scott;art
+Kako se zove istraživač koji je plovio na splavu Kon-Tiki?;Thor Heyerdahl;Roald Amundsen;Leif Ericsson;Fridtjof Nansen;Thor Heyerdahl;history
+Što proučava veksikologija?;zastave;mikroorganizme;kultivirane biljke;gljive;zastave;science
+Moai kipove vezujemo uz...;Kiribate;Djevičanske otoke;Kostariku;Uskršnji otok;Uskršnje otok;history
+Koji je istraživač otkrio Uskršnji otok?;Erich von Daniken;Jakob Roggeveen;Thor Heyerdahl;Fridtjof Nansen;Jakob Roggeveen;geography
+Nogometni stadion Arena Filip II. nalazi se u...;Tirani;Ateni;Skopju;Sofiji;Skopju;sport
+Što od ovoga nije programski jezik?;FORTRAN;Java;BASIC;Atari;Atari;science
+Kako se zove najveći Saturnov prirodni satelit?;Hiperion;Ganimed;Titan;Mimas;Titan;science
+Kako se zove najveći Jupiterov prirodni satelit?;Hiperion;Ganimed;Titan;Mimas;Ganimed;science
+Koji je sloj atmosfere najbliži površini Zemlje?;Stratosfera;Troposfera;Termosfera;Egzosfera;Troposfera;science
+Koji sloj atmosfere sadrži najviše ozona?;Stratosfera;Troposfera;Termosfera;Egzosfera;Stratosfera;science
+Kako se zove tjelešce u stanici u kojem se razgrađuju hranjive tvari i oslobađa energija?;Ribosom;Mitohondrij;Citoplazma;Vakuola;Mitohondrij;science
+Tko je ubio Martina Luthera Kinga?;Felix Yusupov;James Earl Ray;John Hinckley;Nathuram Godse;James Earl Ray;history
+Tko je ubio Yitzhaka Rabina?;Sirhan Sirhan;Mark David Chapman;Yigal Amir;Khalid Islambouli;Yigal Amir;history
+Robert F. Kennedy stradao je od ruke kojeg atentatora?;Lee Harvey Oswald;Sirhan Sirhan;Mark David Chapman;Nathuram Godse;Sirhan Sirhan;history
+Koje je računalo 1997. pobijedilo Garija Kasparova u šahu?;Deep Blue;Deep Red;Deep Yellow;Deep Green;Deep Blue;sport
+FIDE organizaciju vezujemo uz koji sport?;Badminton;Curling;Šah;Kuglanje;Šah;sport
+Što je u prošlosti razdvajao Offin obrambeni zid?;Rusiju od Finske;Španjolsku od Portugala;Englesku od Walesa;Švedsku od Norveške;Englesku od Walesa;history
+Tko je sagradio Mannerheimovu liniju?;Nizozemci;Austrijanci;Švicarci;Finci;Finci;history
+Kako se zove prvi pobjednik olimpijskog maratona?;Spiros Samaras;Antonis Nikopolidis;Angelos Haristeas;Spiridon Louis;Spiridon Louis;sport
+Gdje su održane 2. moderne olimpijske igre?;London;Pariz;Berlin;Madrid;Pariz;sport
+Koliko su dugo trajale 2. moderne olimpijske igre?;1 mjesec;3 mjeseca;5 i pol mjeseci; 8 i pol mjeseci;5 i pol mjeseci;sport
+Tko je tvorac poznatog filmskog računala HAL9000?;George Lucas;Arthur C. Clarke;Carl Sagan;Isaac Asimov;Arthur C. Clarke;art
+Koja država nije ujedno i rijeka?;Senegal;Eritreja;Niger;Paragvaj;Eritreja;geography
+Uz što vežemo Merkurov kaducej s 2 zmije?;Ribarstvo;Trgovinu;Medicinu;Farmaciju;Trgovinu;art
+Tko je bio rimski car u 1. godine naše ere?;Tiberije;Oktavijan;Neron;Kaligula;Oktavijan;history
+Čemu je posvećen muzej u dvorcu Oršić?;Seljačkim bunama;Oružju;Tehnici;Astronomiji;Seljačkim bunama;art
+Koju trakavicu nazivamo ehinokokom?;Goveđu;Svinjsku;Ljudsku;Pasju;Pasju;science
+U filmskom hitu "Uhvati me ako možeš" di Caprio je krivotvoritelj koji se pretvara da je liječnik, odvjetnik i...;Policajac;Pilot;Vojnik;Trgovac;Pilot;art
+Lake Superior je najveće jezero u kojoj kanadskoj pokrajini?;Manitoba;Alberta;Ontario;Quebec;Ontario;geography
+Eksplozija kojeg ratnog broda u Havani je bio povod za špajnolsko-američki rat?;Maine;Lincoln;Washington;Dakota;Maine;history
+Tko prvi upotrebljava termin nihilizam u svom romanu "Očevi i djeca"?;Dostojevski;Tolstoj;Turgenjev;Gogolj;Turgenjev;art
+Koje godine se odvila bitka kod Kurska?;1941.;1942.;1943.;1944.;1943.;history
+Tko je 1801. naslikao slavno ulje na platnu "Napoleon prelazi Alpe"?;Jacques-Louis David;Paul Gauguin;Eugene Delacroix;Paul Cezanne;Jacques-Louis David;art
+Tko je naslijedio kralja Joffreya na prijestolju u serijalu "Pjesma leda i vatre"?;Tommen;Jaime;Tirion;Robert;Tommen;art
+Tko je naručio slavno ulje na platnu "Napoleon prelazi alpe"?;George VI.;Karlo IV.;Filip V.;Karlo III.;Karlo IV.;art
+Koji je lik Držić oblikovao prema Plautovu Euklionu?;Škrtac;Dundo Maroje;Pomet;Ugo Tudešak;Škrtac;art
+Kako još nazivamo sinantropa?;Neandretalac;Kromanjonac;Pekinški čovjek;Australopitek;Pekinški čovjek;history
+Koje more oplakuje obale najvećeg sredozemnog otoka?;Tirensko;Alboransko;Ligursko;Jonsko;Tirensko;geography
+Tko je 2017. osvojio turnir u Monte Carlu i postao jedini igrač koji je osvojio neki ATP turnir 10 puta?;Nadal;Đoković;Wawrinka;Federer;Nadal;sport
+Koji je skladatelj skladao poznatu špicu za film 7 veličanstvenih?;Ennio Moricone;Elmer Bernstein;Hans Zimmer;Edvard Grieg;Elmer Bernstein;art
+Tko je simbol antifašističke borbe Hrvata i Slovenaca u Istri?;Vladimir Gortan;Ivan Šubašić;Đuro Đaković;Frano Supilo;Vladimir Gortan;history
+Što je od ovoga zbirka pjesama Arsena Dedića?;Rim;Padova;Napulj;Firenca;Padova;art
+U kojoj se saveznoj državi SAD-a nalazi nacionalni park Denali?;Kaliforniji;Floridi;Ohiu;Aljasci;Aljasci;geography
+Glavni lik kojeg filma pati od opsesivno kompluzivnog poremećaja?;Django;Avijatičar;Taksist;Maratonac;Avijatičar;art
+Bez koje biljke nema komušine?;bez raži;bez zobi;bez kukuruza;bez pšenice;bez kukuruza;science
+Koji je studijski album snimio Neno Belan 2012.?;Vode strasti;Oceani ljubavi;Jezera sreće;Rijeke snova;Oceani ljubavi;art
+Na kojoj rijeci leži rodni grad Shakespeara?;Temza;Trent;Mersey;Avon;Avon;history
+Kojem je Atrejevu sinu povrijeđen ponos kad mu je oteta supruga Helena?;Agamemnon;Menelaj;Hektor;Kastor;Menelaj;art
+U koji se grad s mora ulazi kroz Kanal sv. Ante?;Zadar;Dubrovnik;Rijeku;Šibenik;Šibenik;geography
+Što je u svom radnom vijeku prodavao Morty - otac Jerryja Seinfelda?;Nekretnine;Satove;Cipele;Balonere;Balonere;art
+Kako se zove jedan od 5 osnovnih stilova gradnje u antičkoj arhitekturi?;apulijski;toskanski;tridentski;bolonjski;toskanski;art
+O čemu detaljno svjedoči stripovski serijal "Brončano doba" Erica Shanowera?;O seobi naroda;O Trojanskom ratu;O kugi;O križarskim ratovima;O Trojanskom ratu;art
+Kako se zove Zeusov otac?;Kron;Uran;Pluton;Ares;Kron;art
+Mladog buntovnika Holdena Caufileda vezujemo uz kojeg pisca?;Ambrose Bierce;Jack London;Ernest Hemingway;J.D. Salinger;J.D. Salinger;art
+U kojoj mislji su 1967. poginula 3 NASA-ina astronuauta?;Apollo 1;Apollo 3;Apollo 5;Apollo 7;Apollo 1;history
+Kako se zvao ubojica Johna Lennona?;Mark David Chapman;Jack Ruby;John Hinckley;Sirhan Sirhan;Mark David Chapman;history
+Najviši vrh Rusije s 5633 metra je...;Elbrus;Angara;Selenga;Kolima;Elbrus;geography
+Vrh Kosciusko najviši je vrh koje države?;Novog Zelanda;Australije;Indonezije;Laosa;Australije;geography
+U kojoj se državi nalazi Kilimanjaro - najviši vrh Afrike?;Mali;Čad;Nigerija;Tanzanija;Tanzanija;geography
+U kojoj se saveznoj državi nalazi najviši vrh Sjeverne Amerike - Mt. McKinley?;Coloradu;Arizoni;Aljasci;Idahu;Coloradu;geography
+Chogori ili Mount Godwin-Austen zapravo je koji vrh?;Mount Everest;Elbrus;K2;Kilimanjaro;K2;geography
+Qomolangma ili Chomolungma zapravo je koji vrh?;Mount Everest;Elbrus;K2;Kilimanjaro;Mount Everest;geography
+Koji od ovih vrhova se smatra najopasnijim na svijetu obzirom da je gotovo 40% od ukupnog broja penjača skončalo u pokušaju da ga osvoji?;K2;Manaslu;Makalu;Annapurna;Annapurna;geography
+Najvši vrh julijskih Alpi je...;Grossglockner;Wildspitze;Triglav;Dachstein;Triglav;geography
+Koja država ima najrazvedeniju obalu u Europi?;Hrvatska;Grčka;Švedska;Norveška;Norveška;geography
+Lik Melkiora Tresića vezujemo uz kojeg našeg književnika?;Miroslava Krležu;Ranka Marinkovića;Ivu Vojnovića;Janka Leskovara;Ranka Marinkovića;art
+Spoznajnoteorijski pojam "Stvari po sebi" uveo je koji filozof?;Descartes;Kant;de Spinoza;Leibniz;Kant;art
+Koja je stranka upravljala Kinom do pobjede komunista?;Kuomintang;Sungari;Jalung;Qiantang;Kuomintang;history
+Bidermajer je umjetnički stil koji vezujemo uz koje stoljeće?;17.;18.;19.;20.;19.;art
+Koja je kći Ludovika Velikog 1384. postala kraljicom Poljske?;Jadviga;Marija;Elizabeta;Barbara;Jadviga;history
+Pierre de Coubertin ostao je upamćen kao utemeljitelj...;FIFA-e;UEFA-e;UN-a;modernih Olimpijskih igara;modernih Olimpijskih igara;history
+Prirodni proteini kojeg proizvode stanice imunološkog sustava većine kralježnjaka kao zaštitu od virusa zovu se...;Lizozimi;Interferoni;Citokini;Kriptocidini;Iterferoni;science
+"Saturn proždire svog sina" poznato je djelo kojeg slikara?;Jacques-Louis Davida;Petera Paula Rubensa;Hieronymusa Boscha;Tiziana;Petera Paula Rubensa;art
+Kolika je sila teža Mjeseca u odnosu na silu teže Zemlje?;manja 2 puta;manja 3 puta;manja 5 puta;manja 6 puta;manja 6 puta;science
+Po kojem su gradu prve traperice dobile ime?;Milanu;Genovi;Firenci;Pescari;Genovi;history
+William Frederick Cody zapravo je...;Jesse James;Buffalo Bill;Elfego Baca;Billy the Kid;Buffalo Bill;history
+Lea Henricusa Baekelanda pamtimo po izumu...;čelika;plastike;tenka;automatske puške;plastike;history
+Iako je konkvistadorima dao punu ćeliju zlata njegovo carstvo je srušeno a on osuđen na smrt. Tko je on?;Huascar;Atahualpa;Huayna Capac;Cusco;Atahualpa;history
+Najviši svjetski vodopad koji pada sa visine od preko 950 metara nalazi se u...;Ekvadoru;Kanadi;Venezueli;Zambiji;Venezueli;geography
+Čiji se portret nalazi na prvoj poštanskoj marki?;Elizabetin;Napoleonov;Columbov;Viktorijin;Viktorijin;history
+Najkrvavija plaža Bitke za Normandiju je...;Juno;Sword;Omaha;Utah;Omaha;history
+Uz koji pravac u slikarstvu najviše vežemo Kazimira Maljevića?;Fovizam;Suprematizam;Realizam;Impresionizam;Suprematizam;art
+Uz koji pravac u slikarstvu najviše vežemo Mikhaila Vrubela?;Fovizam;Suprematizam;Realizam;Simbolizam;Simbolizam;art
+Tko je s Kandinskim osnovao umjetnički pokret "Plavi jahač"?;Pierre-Auguste Renoir;Franz Marc;Max Ernst;Kazimir Maljević;Franz Marc;art
+Tko je bio prvi indijski premijer?;Morarji Desai;Charan Singh;Rajiv Gandhi;Jawaharlal Nehru;Jawaharlal Nehru;history
+Kako je Cook prvotno nazvao Havajsko otočje?;Potato islands;Apple islands;Tomato islands;Sandwich islands;Sandwich islands;history
+Kako se zove najviši od 5 vulkana na otoku Hawaii?;Mauna Loa;Mauna Kea;Kilauea;Lua Hou;Mauna Kea;geography
+O čemu govore pjesme "Delilah" Toma Jonesa i "Hey Joe" Jimija Hendrixa?;o pljački;o prometnim nesrećama;o ubojstvima;o drogama;o ubojstvima;art
+Što u okrugu Madison radi lik kojeg glumi Clint Eastwood?;obnavlja mostove;minira mostove;fotografira mostove;mjeri mostove;fotografira mostove;art
+Koji rat je počeo nakon sabora u Clermontu 1905.?;Stogodišnji rat;Prvi križarski rat;Tridesetogodišnji rat;rat ruža;Prvi križarski rat;history
+Peloton vezujemo uz koji sport?;Golf;Hokej na ledu;Biciklizam;Bejzbol;Biciklizam;sport
+Prukljansko jezero spada u donji tok koje rijeke?;Zrmanje;Cetine;Neretve;Krke;Krke;geography
+Kako se zvao Hitlerov komandos koji je bez ispaljenog metka oslobodio Mussolinija iz zatočeništva?;Lothar von Rendulitz;Karl Dönitz;Erich Ludendorff;Otto Skorzeny;Otto Skorzeny;history
+Na pogrebu koje skladatelja nije bilo cvijeća jer je umro kad i Staljin?;Šoštakovića;Prokofljeva;Musorgskoga;Borodina;Prokofljeva;history
+Tko s francuskim predsjednikom dijeli tron u Andori?;car;biskup;premijer;kralj;biskup;history
+U kojem je ratu 1941. poražena Jugoslavija?;siječanjskom;travanjskom;srpanjskom;rujanskom;travanjskom;history
+Učenje peripatetičke škole temeljilo se na djelu kojeg filozofa?;Platona;Sokrata;Aristotela;Demostena;Aristotela;art
+Koji je prvi nogometni klub iz istočne Europe postao prvak Europe?;Crvena Zvezda;Honved;Partizan;Steaua;Steaua;sport
+Gdje je u "revoluciji tulipana" 2005. s vlasti zbačen predsjednik Askar Akajev?;u Armeniji;u Kazahstanu;u Kirgistanu;u Gruziji;U Kirgistanu;history
+Divlji Bill Hicok ubijen je s leđa dok je u ruci držao 4 karte. Ta kombinacija se od tada zove Mrtvačeva ruka i sadrži...;2 crna asa i 2 crne osmice;2 crna asa i 2 crne sedmice;2 crna asa i 2 crne šestice;2 crna asa i 2 crne petice;2 crna asa i 2 crne osmice;history
+Poznat i kao "Čovjek koji je spasio svijet" - jedini član posade ruske podmornice B-59 koji nije dao zeleno svijetlo za lansiranje nuklearne bombe na SAD zvao se...;Andrei Grechko;Nikolai Zateyev;Vasili Alexandrovich Arkhipov;Nikolai Ryzhkov;Vasili Alexandrovich Arkhipov;history
+U kojem se gradu nalazi poznati arhitektonski spomenik - Taj Mahal?;Delhi;Mumbai;Bangalor;Agra;Agra;geography
+Uz koju državu najviše vezujemo poldere - plodne isušene površine?;Belgiju;Irsku;Nizozemsku;Njemačku;Nizozemsku;geography
+Kakav je onaj kojeg je zahvatila oblomovština?;amoralan i raskalašen;nagao i nepromišljen;neodlučan i pasivan;tužan i depresivan;neodlučan i pasivan;art
+Najveseliji židovski blagdan sličan karnevalu zove se...;Hanuka;Purim;Sukot;Pasha;Purim;history
+Koji se narod u 4. stoljeću zbog invazije Huna podijelio na 2 grupe?;Filistejci;Etrušćani;Goti;Avari;Goti;history
+Čija je kraljica bila majka francuske kraljice Marije Antoanete?;engleska;pruska;ugarsko-hrvatska;ruska;ugarsko-hrvatska;history
+Zamboni najviše povezujemo s kojim sportom?;golfom;američkim nogometom;hokejom na ledu;tenisom;hokejom na ledu;sport
+U kojem se sportu održava Thomas Cup - natjecanje koje je Indonezija osvojila rekordnih 13 puta?;u badmintonu;u kriketu;u polu;u hokeju na travi;u badmintonu;sport
+Površina kojeg je mora zimi gotovo u potpunosti zaleđena?;Norveškog;Irskog;Azovskog;Crnog;Azovskog;geography
+Tko su u grčkoj mitologiji napeje, drijade i pegeje?;danaide;nimfe;sirene;valkire;nimfe;art
+Za vrijeme kojeg se rata odvija radnje filma "Greben spašenih" Mela Gibsona?;Drugog svjetskog;Vijetnamskog;Korejskog;Zaljevskog;Drugog svjetskog;art
+Predsjednik koje države ima rezidenciju u Plavoj kući?;Brazila;Argentine;Južne Koreje;Turske;Južne Koreje;geography
+Lišaj je simbiotska zajednica između...;alge i gljive;gljive i paprati;paprati i mahovine;paprati i alge;alge i gljive;science
+Tko je napisao Propast Venecije?;Ulderiko Donadini;Dinko Šimunović;August Šenoa;Veljko Barbieri;August Šenoa;art
+Koji je talijanski pisac prozvan "odvjetnikom ljudske bijede"?;Italo Calvino;Giovani Verga;Fulvio Tomizza;Alberto Moravia;Giovani Verga;art
+Pod kojim je imenom bio poznat Carlo Broschi - jedan od najpoznatijih italijanskih soprana kastrata iz 18. stoljeća?;Farinelli;Vitali;Ferri;Velluti;Farinelli;art
+Na kojoj rijeci leži njemački grad Bremen?;Rajna;Odra;Weser;Laba;Weser;geography
+Koju bolest uzrokuje pomanjkanje vitamina C?;tifus;brucelozu;skorbut;salmonelu;skorbut;science
+Kojom je paralelom 1954. na mirovnoj konferenciji u Ženevi Vijetnam podijeljen na sjeverni i južni dio?;11.;15.;17.;21.;17.;history
+Picassove Gospođice iz Avignona u biti su prostitutke iz ulice Avignon u...;Madridu;Nantesu;Barceloni;Parizu;Barceloni;art
+Koja paralela i danas siječe Koreijski poluotok na 2 dijela?;32;38;40;42;38;history
+Tko je 1993. napisao Oscarom nagrađenu skladbu "Streets of Philadelphia"?;Bryan Adams;Bruce Springsteen;Roy Orbinson;Top Petty;Bruce Springsteen;art
+Tko je naslikao "Noćnu stražu"?;Francisco Goya;Rembrandt van Rijn;El Greco;Tizian;Rembrandt van Rijn;art
+Koji je francuski pisac podario ime vrsti posebno pripremljenog goveđeg odreska?;Zola;Baudelaire;Chateaubriand;Mallarme;Chateaubriand;history
+Tko je postao predsjednik Weimarske republike 1925. godine?;Adolf Hitler;Karl Kautsky;Paul von Hindenburg;Franz von Papen;Paul von Hindenburg;history
+Koja bolest je bila poznata kao francuska bolest?;mumps;tuberkoloza;sifilis;šarlah;sifilis;history
+Kakve su noći u naslovu kratkog sentimentalnog romana Fjodora Mihajloviča Dostojevskog?;bijele;usamljene;vrele;prazne;bijele;art
+Koja je životinja službena maskota Linux kernela?;Patka;Pingvin;Pas;Mačka;Pingvin;science
+Woody Allen u većini svojih filmova prikazuje nesređen život svojih junaka. U kojem je gradu smještena radnja većine njegovih filmova?;U Chicagu;U Detroitu;U Denveru;U New Yorku;U New Yorku;art
+Osim Biblije jedna od najutjecajnijih knjiga svih vremena je zasigurno i Marxov...;Alkemičar;Odvjetnik;Kapital;Poreznik;Kapital;history
+Koji od braće Marx glumi lik koji stalno šuti a emocije izražava stiskanjem male automobilske sirene?;Harpo;Chico;Groucho;Zeppo;Harpo;art
+Koja velika sila nikad nije bila članica Lige naroda osnovane 1919. godine?;Njemačka;Velika Britanija;Japan;SAD;SAD;history
+Tko je skladao balet "Đavo u selu"?;Fran Lhotka;Jakov Gotovac;Krsto Odak;Josip Slavenski;Fran Lhotka;art
+Koji je ovih slikara jedan od najznačajnijih predstavnika secesije?;Joan Miro;Kazimir Maljević;Gustav Klimt;August Renoir;Gustav Klimt;art
+Kojeg od ovih umjetnika smatramo začetnikom neoplasticizma?;Gustava Klimta;Pieta Mondriana;Paula Gaugina;Paula Signaca;Pieta Mondriana;art
+U kojem ste gradu ako šećete Nevskim prospektom?;u Moskvi;u Hamburgu;u Minsku;u Sankt Peterburgu;u Sankt Peterburgu;geography
+U kojoj se londonskoj ulici na broju 221B nalazi ured Sherlocka Holmesa?;Cannon Street;Abbey Road;Sloane Street;Baker Street;Baker Street;art
+Kako se zove junak Verneova romana "Put oko svijeta u 80 dana"?;Ned Land;Phileas Fogg;Pierre Arronax;Otto Lidenbrock;Phielas Fogg;art
+Na kojoj rijeci leži grad Dusseldorf - jedno od najznačajnijih njemačkih industrijskih središta?;Odra;Laba;Rajna;Weser;Rajna;geography
+Koga je još osim Jude i Bruta Dante smjestio u Luciferova usta u devetom krugu pakla?;Nerona;Kasija;Atilu;Pilata;Kasija;art
+Kako se zvao poljski sindikat poljskih radnika koji su se pobunili protiv monopola komunističke vlasti?;Pravda;Borba;San;Solidarnost;Solidarnost;history
+Kako nazivamo ceremoniju koja je započinjala procesijama, nastavljala se svečanim izricanjem kazne, a završavala izvršenjem osude inkvizicije?;Opus Dei;a posteriori;deja vu;auto da fe;auto da fe;history
+Iz kojeg su se crkvenog reda uglavnom regrutirali inkvizitori?;dominikanci;trapisti;isusovci;kartuzijanci;dominikanci;history
+Kako se zvao Staljinov šef NKVD-a koji je odigrao presudnu ulogu u čistkama? Zapamćen je po inkvizicijskim metodama i iznuđivanju priznanja?;Sergej Kirov;Karl Radek;Aleksej Rikov;Lavrentij Berija;Lavrentij Berija;history
+Koja žlijezda luči hormon adrenalin?;gušterača;hipofiza;nadbubrežna žlijezda;štitna žlijezda;nadbubrežna žlijezda;science
+Koja žlijezda luči hormon inzulin?;gušterača;hipofiza;nadbubrežna žlijezda;štitna žlijezda;gušterača;science
+Koja žlijezda luči hormon tirokosin?;gušterača;hipofiza;nadbubrežna žlijezda;štitna žlijezda;štitna žlijezda;science
+Osim inzulina, gušterača još luči i...;Prolaktin;Aldosteron;Glukagon;Kortizol;Glukagon;science
+Tko je stojeći na lomači uzviknuo: "O blažena gluposti", ugledavši neku staricu kako prinosi cjepanicu vatri?;Thomas Cranmer;Giordano Bruno;Jan Hus;Miguel Servet;Jan Hus;history
+U kojem je nacističkom logoru umrla Anna Frank?;Bergen-Belsen;Neuengamme;Mathausen;Auschwitz;Bergen-Belsen;history
+Kako se u psihoanalizi naziva želja sina da ubije vlastitu majku?;Kreontov kompleks;Edipov kompleks;Kserksov kompleks;Orestov kompleks;Orestov kompleks;science
+Tko je u crkvi sv. Marije na Škrilinama u Istri naslikao zidne slike "Mrtvački ples" i "Kolo sreće"?;Radovan;Andrija Aleši;Vincent iz Kastva;Nikola Božidarević;Vincent iz Kastva;art
+Kako se zove stadion na kojem je 29. svibnja 1985. poginulo 38 ljudi zbog sukoba navijača Liverpoola i Juventusa?;Anfield;Heysel;Highbury;Old Trafford;Heysel;sport
+Koji je trener s NK Dinamom 1982. osvojio naslov prvaka Jugoslavije?;Ivica Osim;Otto Barić;Tomislav Ivić;Miroslav Ćiro Blažević;Miroslav Ćiro Blažević;sport
+Tko je autor romana 1984.?;John Barth;Henry Miller;George Orwell;Roland Barthes;George Orwell;art
+Istočno do raja, Plodovi gnjeva, O miševima i ljudima... Koji je nobelovac autor navedenih romana?;John Steinbeck;Thomas Wolfe;Toni Morisson;Sinclair Lewis;John Steinback;art
+Kako se zove glavni lik Orwellovog romana o totalitarnoj državi, 1984.?;Guy Montag;Bernard Marx;Arthur Dent;Winston Smith;Winston Smith;art
+Kako se zove teološko djelo dvojice dominkanaca koje je utjecalo na stvaranje masovne histerije protiv opasnosti od vještica?;Mač za vještice;Malj za vještice;Giljotina za vještice;Koplje za vještice;Malj za vještice;history
+Između kojih zemalja se vodio rat za Chaco - 1932/1935?;Bolivije i Urugvaja;Kolumbije i Venezuele;Perua i Čilea;Bolivije i Paragvaja;Bolivije i Paragvaja;history
+U kojoj se državi nalazi jezero Maracaibo?;u Brazilu;u Meksiku;u Ekvadoru;u Venezueli;u Venezueli;geography
+Tko je otac hidrogenske bombe napravljene 1952.?;Edward Teller;Victor Hess;Enrico Fermi;Leslie Groves;Edward Teller;history
+Koji su rat 1969. vodili Hondoras i Salvador?;kofeinski rat;opijumski rat;nogometni rat;mrtvi rat;nogometni rat;history
+U koju zemlju su pobjegli Butch Casidy i Sundance Kid?;u Gvajanu;u Ekvador;u Čile;u Boliviju;u Boliviju;history
+Venezuela je ime dobila prema...;imenu španjolske kraljice;gradu Veneciji;planetu Veneri;venama;gradu Veneciji;history
+Davno prije bronce s Hrvatskom, Miroslav Blažević je bio izbornik koje od ovih reprezentacija?;Austrija;Mađarska;Švicarska;Portugal;Švicarska;sport
+Uz koji naš otok ponajviše vezujemo Morešku - srednjovjekovni viteški bojevni ples?;Brač;Hvar;Cres;Korčulu;Korčulu;art
+Kratak oblik jednostavne i duhovito izrečene tvrdnje ili sažete misli, sa svojstvima paradoksa naziva se...;aforizam;litota;sinegdoha;eufemizam;art
+Ublažavanje ili zamjenjivanje nepristojnih riječi blažim izrazima vezujemo uz koju stilsku figuru?;eufemizam;litotu;poredbu;sinegdohu;eufemizam;art
+Kako u književnosti nazivamo nizanje veznika bez gramatičke potrebe?;gradacija;singedoha;antiteza;polisindeton;polisindeton;art
+Kako u književnost nazivamo stilsku figuru umanjivanja?;metonimija;elipsa;inverzija;litota;litota;art
+Izraz "drveno željezo" klasičan je primjer koje stilske figure?;oksimorona;elipse;eufemizma;inverzije;oksimorona;art
+Stilska figura u kojoj se dio uzima kao zamjena za veću cjelinu naziva se...;antiteza;sinegdoha;litota;gradacija;sinegdoha;art
+Madame Tussauds - poznati muzej voštanih figura nalazi se u...;Parizu;Beču;Berlinu;Londonu;Londonu;art
+Plutofobija je strah od...;smrti;bakterija;bogatstva;drveća;bogatstva;science
+Akrofobija je strah od...;pauka;smrti;drveća;visine;visine;science
+Koji glumac je tumačio lik Rhetta Butlera u filmu "Zameo ih vjetar"?;Clark Gable;Charles Laughton;Franchot Tone;Walter Connolly;Clark Gable;art
