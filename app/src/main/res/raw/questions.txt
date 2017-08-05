@@ -352,7 +352,7 @@ U koju zemlju su pobjegli Butch Casidy i Sundance Kid?;u Gvajanu;u Ekvador;u Či
 Venezuela je ime dobila prema...;imenu španjolske kraljice;gradu Veneciji;planetu Veneri;venama;gradu Veneciji;history
 Davno prije bronce s Hrvatskom, Miroslav Blažević je bio izbornik koje od ovih reprezentacija?;Austrija;Mađarska;Švicarska;Portugal;Švicarska;sport
 Uz koji naš otok ponajviše vezujemo Morešku - srednjovjekovni viteški bojevni ples?;Brač;Hvar;Cres;Korčulu;Korčulu;art
-Kratak oblik jednostavne i duhovito izrečene tvrdnje ili sažete misli, sa svojstvima paradoksa naziva se...;aforizam;litota;sinegdoha;eufemizam;art
+Kratak oblik jednostavne i duhovito izrečene tvrdnje ili sažete misli, sa svojstvima paradoksa naziva se...;aforizam;litota;sinegdoha;eufemizam;aforizam;art
 Ublažavanje ili zamjenjivanje nepristojnih riječi blažim izrazima vezujemo uz koju stilsku figuru?;eufemizam;litotu;poredbu;sinegdohu;eufemizam;art
 Kako u književnosti nazivamo nizanje veznika bez gramatičke potrebe?;gradacija;singedoha;antiteza;polisindeton;polisindeton;art
 Kako u književnost nazivamo stilsku figuru umanjivanja?;metonimija;elipsa;inverzija;litota;litota;art
@@ -362,3 +362,25 @@ Madame Tussauds - poznati muzej voštanih figura nalazi se u...;Parizu;Beču;Ber
 Plutofobija je strah od...;smrti;bakterija;bogatstva;drveća;bogatstva;science
 Akrofobija je strah od...;pauka;smrti;drveća;visine;visine;science
 Koji glumac je tumačio lik Rhetta Butlera u filmu "Zameo ih vjetar"?;Clark Gable;Charles Laughton;Franchot Tone;Walter Connolly;Clark Gable;art
+Po kojem drvu se zvala operacija oslobađanja Benita Mussolinija iz hotela Campo Imperatore?;Maslina;Smokva;Hrast;Vrba;Hrast;history
+Kojem likovnom pravcu pripada opus austrijskog slikara Oscara Kokoschke?;realizmu;nadrealizmu;fovizmu;ekspresionizmu;ekspresionizmu;art
+Tko je 1889. u Saint-Remyju naslikao znamenitu "Zvjezdanu noć"?;Auguste Renoir;Paul Cezanne;Vincent van Gogh;Oscar Kokoschka;Vincent van Gogh;art
+Tko je napisao psihološku dramu "Bez trećega"?;Milan Begović;Ivo Vojnović;Marijan Matković;Miroslav Krleža;Milan Begović;art
+Tko 1919. osniva Bauhaus, prvu modernu visoku školu za gradnju i umjetničko oblikovanje?;Otto Dix;Paul Klee;Walter Gropius;Lyonel Feininger;Walter Gropius;art
+Roman "Ono" djelo je kojeg autora?;Georga Orwella;Stephena Kinga;Harolda Robbinsa;Enida Blytona;Stephena Kinga;art
+Koji se grad smjestio između Koprivnice i Virovitice?;Valpovo;Pitomača;Belišće;Donji Miholjac;Pitomača;geography
+Boston, glavni grad savezne države Massachusetts, poznat je po čajanci, maratonu ali i po bostonskom...;koljaču;davitelju;silovatelju;piromanu;davitelju;history
+S kakvom vrstom glazbe povezujemo "Motown sound"?;s discom;s hard rockom;s jazzom;sa soulom;sa soulom;art
+Koji mađarski grad nazivaju kalvinistički Rim?;Pečuh;Miskolc;Debrecen;Szeged;Debrecen;geography
+Na ušću koje rijeke se smjestio Liverpool?;Trent;Temze;Clyde;Mersey;Mersey;geography
+Kojem je američkom gradu nadimak Motown?;Dallasu;Denveru;Detroitu;Chicagu;Detroitu;geography
+Koji američki grad se krije iza imena Big Easy?;Houston;Miami;New Orleans;San Diego;New Orleans;geography
+U kojem se njemačkom gradu nalaze industrijski divovi Bayer i Agfa?;Leverkusenu;Kasselu;Berlinu;Regensburgu;Leverkusenu;geography
+U kojem su gradu 1952. održane Olimpijske igre?;u Bernu;u Rimu;u Helsinkiju;u Londonu;u Helsinkiju;sport
+Koji se grad prije zvao Edo?;Beijing;Seoul;Singapore;Agra;Tokyo;Tokyo;geography
+Koji se grad naziva Atenom sjevera?;Moskva;Oslo;Hamburg;Edinburgh;Edinburgh;geography
+Što su Potemkinova sela?;pakao u slavenskoj mitologiji;ruska naftna postrojenja;prividna sela u južnoj Rusiji;sinonim za sovjetske gulage;prividna sela u južnoj Rusiji;history
+Što znači izraz "ići u Canossu";poniziti se;odlaziti u sigurnu smrt;utjerivati dugove;okretati se za vjetrom;poniziti se;history
+Najveći stadion na svijetu s kapacitetom od 220 000 gledatelja nalazi se u...;Rio de Janeiru;Pragu;Londonu;Sao Paolu;Pragu;sport
+Koji je sociolog skovao termin "Globalno selo"?;Marshall McLuhlan;George Ritzer;Michel Foucalt;Anthony Giddens;Marshall McLuhlan;geography
+S čime asociramo "Otok tri milje"?;s najvećim teleskom na svijetu;s godišnjim polaganjem jaja ugroženih velikih kornjača;s istjecanjem radioaktivnih tvari iz tamošnje nuklearke;s havarijom naftnog tankera;s istjecanjem radioaktivnih tvari iz tamošnje nuklearke;history
