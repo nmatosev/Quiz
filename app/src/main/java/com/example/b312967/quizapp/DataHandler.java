@@ -4,12 +4,11 @@ package com.example.b312967.quizapp;
 import android.util.Log;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.net.FileNameMap;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -18,7 +17,9 @@ import java.util.List;
 public class DataHandler {
 
     List<String> list = new ArrayList<String>(); // lista stringova
-    List<Category> quesList = new ArrayList<Category>(); // lista stringova
+    List<Question> quesList = new ArrayList<Question>(); // lista stringova
+    HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
+
 
     //GETERI SETERI, stvaraj nove objekte koji se spremaju u tablice
     public void addQuestions() {
@@ -29,9 +30,8 @@ public class DataHandler {
         for (int i=0; i<questionlist.size(); i++) {
             separated = questionlist.get(i).split(";");
             try {
-                Log.w("q raw", separated[0] + separated[1] + separated[2] + separated[3] + separated[4] + separated[5]+separated[6]);
-                Category c = new Category(separated[0], separated[1], separated[2], separated[3], separated[4], separated[5], separated[6]);
-                quesList.add(c);
+                Log.w("q raw", separated[0] + separated[1] + separated[2] + separated[3] + separated[4] + separated[5]+ separated[6]);
+                fillQuestionMap(separated);
             }catch(Exception e) {
                 Log.d("Neispravan format " , questionlist.get(i));
             }
@@ -45,7 +45,6 @@ public class DataHandler {
         String str; // string u kojem je pitanje (linija text filea)
         try {
             while ((str = reader.readLine()) != null) {
-                Log.w("dodani string", str);
                 list.add(str);
             }
         } catch (IOException e) {
@@ -53,16 +52,22 @@ public class DataHandler {
         }
         return list;
     }
-
-
-    public List<Category> getAllQuestions() {
-        //String selectQuery = "SELECT  * FROM " + TABLE_IT;
-        return  quesList;
+    public void fillQuestionMap(String[] separated){
+        if(questionMap.containsKey(separated[6])){
+            Question question = new Question(separated[0], separated[1], separated[2], separated[3], separated[4], separated[5], separated[6]);
+            questionMap.get(separated[6]).add(question);
+            //bladeStatsMap.get(blade).add(cudbStats);
+        }
+        else{
+            List<Question> questionList = new ArrayList<Question>();
+            Question question = new Question(separated[0], separated[1], separated[2], separated[3], separated[4], separated[5], separated[6]);
+            questionList.add(question);
+            questionMap.put(separated[6],questionList);
+        }
     }
 
-    public List<String> getAllQuestions1() {
-        return list;
+    public HashMap<String, List<Question>> getQuestionMap() {
+        return questionMap;
     }
-
 
 }

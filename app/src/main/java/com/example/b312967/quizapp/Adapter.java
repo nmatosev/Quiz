@@ -44,7 +44,7 @@ public class Adapter extends BaseAdapter{
 
         final TextView ime = (TextView) convertView.findViewById(R.id.name);
         final ImageView imageTmb = (ImageView) convertView.findViewById(R.id.image_tmb);
-        final Kategorija kategorija = DataStorage.listViewData.get(position);
+        final Category kategorija = DataStorage.listViewData.get(position);
         Log.d("Scroll", String.valueOf(position));
         ime.setText(kategorija.getIme());
         imageTmb.setImageResource(kategorija.getTmbImageId(mContext));
