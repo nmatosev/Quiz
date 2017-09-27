@@ -4,7 +4,7 @@ Koliko zakona termodinamike postoji?;2;3;4;5;3;science
 Uz kojeg psihologa vezujemo id ego i super ego?;Sigmunda Freuda;Ivana Pavlova;Jana Piageta;Erika Eriksona;Sigmunda Freuda;science
 Koji je planet sunčeva sustava veličinom najbliži Zemlji?;Merkur;Mars;Uran;Venera;Venera;science
 Koji je znanstvenik uzviknuo "Eureka!"?;Arhimed;Pitagora;Tales;Empedoklo;Arhimed;science
-Kojim dijelom tijela se bavi nefrologija?;Plućima;Bubrezima;Štitnjačom;Srcem;Plućima;science
+Kojim dijelom tijela se bavi nefrologija?;Plućima;Bubrezima;Štitnjačom;Srcem;Bubrezima;science
 Pozitron je antičestica:;Neutrona;Protona;Elektrona;Neurona;Elektrona;science
 Zakon akcije i reakcije još se naziva i Newtonov:;1. zakon; 2.zakon; 3. zakon; 4. zakon; 3. zakon;science
 Kako se naziva pravac koji krivulju dodiruje u samo jednoj točki?;Hipotenuza;Simetrala;Promjer;Tangenta;Tangenta;science
@@ -34,7 +34,6 @@ Koju su povijesnu ličnost svjetski moćnici zvali Uncle Joe?;Molotova;Tita;Stal
 Na kojem se kontinentu nalaze Himalaje?;Azija;Europa;Afrika;Australija;Azija;geography
 Koje more ne oplakuje obale Italije?;Jadransko;Alboransko;Ligursko;Tirensko;Alboransko;geography
 Koji je glavni grad Pijemonta?;Torino;Milano;Napulj;Padova;Torino;geography
-Na kojem se kontinentu nalaze Apenini?;Azija;Europa;Afrika;Australija;Europa;geography
 Koje je najdublje jezero na svijetu?;Kaspijsko;Como;Bajkalsko;Balaton;Bajkalsko;geography
 Koji je glavni grad Madagaskara?;Antananarivo;Santiago;Bogota;Kinshasa;Antananarivo;geography
 Abesinija je zastarjeli naziv za:;Saudijsku Arabiju;Siciliju;Libiju;Etiopiju;Etiopiju;geography
@@ -470,7 +469,7 @@ Za kakvu je noć Francois Truffaut nagrađen Oscarom za najbolji strani film 197
 Koji je knez prozvan najgorim knezom Hrvata?;Trpimir;Mislav;Domagoj;Branimir;Domagoj;history
 U kojem stilu gradnje su izgrađene crkve svete Trojice u Splitu i sveti Donat u Zadru?;predromaničkom;gotičkom;baroknom;romaničkom;predromaničkom;history
 U kojem je gradu osnovano prvo sveučilište u Europi?;u Parizu;u Londonu;u Bologni;u Milanu;u Bologni;history
-U kojem se našem primorskom gradu sakrio Bela IV. pred navalom Tatara?;u Ninu;u Šibeniku;u Trogiru;u Zadru;U Trogiru;history
+U kojem se našem primorskom gradu sakrio Bela IV. pred navalom Tatara?;u Ninu;u Šibeniku;u Trogiru;u Zadru;u Trogiru;history
 Što je bio leprozorij?;mjesto izolacije za bolesnike;učionica;sudnica;zatvor;mjesto izolacije za bolesnike;history
 Na kojem je otoku pronađena baščanska ploča?;Na Cresu;na Lošinju;na Krku;na Pag;na Krku;history
 Preseljenje Muhameda i njegovih sljedbenika iz Meke u Medinu poznato je pod nazivom...;hidžra;zekat;ćaba;kiraet;hidžra;history
@@ -531,3 +530,110 @@ Gdje je djelovala Academia del Cimento?;u Veneciji;u Firenci;u Torinu;u Milanu;u
 Koji kralj je ugušio pobunu Petra Zrinskog i Frana Krste Frankopana te uništio njihove obitelji?;Ferdinand I.;Karlo IV.;Leopold I.;Josip I.;Leopold I.;history
 Što je lapidarij?;botanički vrt;zbirka radova u kamenu;feudalni posjed;zbirka kovanica;zbirka radova u kamenu;art
 Tko je vodio hvarsku bunu 1510. godine?;Nikola Jurišić;Matija Ivanić;Juraj Drašković;Andrija Budčić;Matija Ivanić;history
+Koji je glavni grad Hondurasa?;Managua;Belmopan;Tegucigalpa;Paramaribo;Tegucigalpa;geography
+Koji je glavni grad Surinama?;Managua;Belmopan;Tegucigalpa;Paramaribo;Paramaribo;geography
+Koji je glavni grad Nikaragve?;Managua;Belmopan;Tegucigalpa;Paramaribo;Managua;geography
+Koji je glavni grad Belizea?;Managua;Belmopan;Tegucigalpa;Paramaribo;Belmopan;geography
+Što je to arboretum?;zbirka kovanica;botanički vrt;zbirka radova u kamenu;crkveni sabor;botanički vrt;art
+Tko je autor romana "Ubiti pticu rugalicu"?;Stephen King;Virginia Wolf;Harper Lee;James Joyce;Harper Lee;art
+Poznat i kao egipatski križ, ankh je zapravo simbol...;besmrtnosti i života;sunca i mjeseca;sreće;mira;besmrtnosti i života;history
+Koji je glavni grad Čada?;Bamako;Niamey;N'Djamena;Nouakchott;N'Djamena;geography
+Koji je glavni grad afričke države Mali?;Bamako;Niamey;N'Djamena;Nouakchott;Bamako;geography
+Koji je glavni grad Mauritanije?;Bamako;Niamey;N'Djamena;Nouakchott;Nouakchott;geography
+Koji je glavni grad afričke države Niger?;Bamako;Niamey;N'Djamena;Nouakchott;Niamey;geography
+Koji je glavni grad Mozambika?;Bamako;Niamey;N'Djamena;Maputo;Maputo;geography
+Koji je glavni grad Nigerije?;Bamako;Abuja;N'Djamena;Maputo;Abuja;geography
+Koji je glavni grad Obale Bjelokosti?;Bamako;Abuja;Yamoussoukro;Maputo;Yamoussoukro;geography
+Koji je glavni grad Senegala?;Dakar;Abuja;Yamoussoukro;Maputo;Dakar;geography
+Koji je glavni grad Kameruna?;Dakar;Yaounde;Yamoussoukro;Maputo;Yaounde;geography
+Koji je glavni grad Gabona?;Dakar;Yaounde;Yamoussoukro;Libreville;Libreville;geography
+Crkva sv. Katarine podignuta u isusovačkom kompleksu na Gornjem gradu u Zagrebu primjer je...;barokne gradnje;gotičke gradnje;romaničke gradnje;predromaničke gradnje;barokne gradnje;art
+Koliko dana traje židovski blagdan Hanuka?;6;8;10;12;8;history
+Tko je početkom 2017. osvojio afrički kup nacija?;Gana;Kamerun;Egipat;Maroko;Kamerun;sport
+Na koji datum 1722. je nizozemski moreplovac Jacob Roggeveen otkrio otok Rapa Nui?;5. travnja;5. svibnja;5. lipnja;5. srpnja;5. travnja;history
+Koji naš grad su Mlečani osvojili 1202. uz pomoć križara?;Nin;Split;Dubrovnik;Zadar;Zadar;history
+U kojem gradu na jugu Čilea živi najviše hrvatskih doseljenika?;Punta Arenas;Arica;Talca;Temuco;Punta Arenas;geography
+Na berlinskom Tempelhofu su do 2008. prometovali...;Brodovi;Vlakovi;Zrakoplovi;Autobusi;Zrakoplovi;geography
+Čija jaja su otkrila zlu čud snahe iz "Šume Striborove"?;pačja;kokošja;guščja;svračja;svračja;art
+Koja od ovih drama nije Krležina?;Golgota;Glorija;Galicija;Vučjak;Glorija;art
+Tko je junak našeg doba iz Ljermonotovog romana?;Pečorin;Bazarin;Aleksandar;Vladimir;Pečorin;art
+U kojem se režnju mozga nalazi središte za vid i pohranu vidnog pamćenja?;čeonom;tjemenom;slijepo-očnom;zatiljnom;zatiljnom;science
+U kojem se režnju mozga nalazi središte osobnosti i planiranja budućnosti?;čeonom;tjemenom;slijepo-očnom;zatiljnom;čeonom;science
+U kojem se režnju mozga nalazi središte za osjet dodira?;čeonom;tjemenom;slijepo-očnom;zatiljnom;tjemenom;science
+U kojem se režnju mozga nalazi središte za zvuk i koordinaciju zvuka s slikom?;čeonom;tjemenom;slijepo-očnom;zatiljnom;slijepo-očnom;science
+Koji odjevni predmet na godinu dana dobiva pobjednik golfskog turnira US Mastersa?;Plavu kapu;Crvenu majicu;Zeleni sako;Žute hlače;Zeleni sako;sport
+Kojeg kemijskog elementa ima 46.6% u Zemljinoj kori?;željeza;kisika;dušika;silicija;kisika;science
+Koliko kilometara ima tunel ispod kanala La Manche?;25;50;75;100;50;geography
+Na obali kojeg jezera se nalazi grad Chicago?;Superior;Michigan;Ontario;Huron;Michigan;geography
+Koji klub je osvojio nizozemsko prvenstvo 2017. poslije 18 posnih sezona?;PSV;Twente;Feynoord;Sneek;Feynoord;sport
+Na kojem se našem otoku nalazi najviša hrid visoka 161 metar?;Lošinj;Cres;Krk;Dugi otok;Dugi otok;geography
+Na kojoj se našoj planini nalazi najviše naselje Begovo Razdolje?;na Biokovu;na Bjelolasici;na Velebitu;na Dinari;na Bjelolasici;geography
+U kojem se našem parku prirode nalazi dvorac Tikveš?;na Lonjskom polju;na Telašćici;na Biokovu;u Kopačkom Ritu;u Kopačkom Ritu;geography
+Ako je majka Peg, djeca Kelly i Bud, onda je otac?;Hal;Jack;Danny;Al;Al;art
+Kojoj je državi najveća luka Klapeida?;Finskoj;Latviji;Litvi;Estoniji;Litvi;geography
+Koji su grad Mlećani zvali Caput Histriae?;Trst;Pazin;Motovun;Koper;Koper;geography
+Koji se legendarni glazbenik pojavljuje u četvrtom nastavku filmskog serijala Rocky?;Frank Sinatra;Michael Jackson;James Brown;John Denver;James Brown;art
+Tko je skladao njemačku himnu?;Ludwig van Beethoven;Wolfgang Amadeus Mozart;Joseph Haydn;Richard Strauss;Joseph Haydn;art
+Slogan kojeg filma je: "Bori se i nikad nećeš pobijediti ... Bježi i nikad nećeš pobjeći";Božji grad;Izgubljeni grad Z;Uhvati me ako možeš;Django;Božji grad;art
+Tko je uz Hama i Jafeta treći Noin sin?;Šem;Zebulun;Ašer;Jisakar;Šem;art
+Što nas boli ako nas boli lakrimalna kost?;stopalo;dlan;lakat;glava;glava;science
+S kojim klubom je Bill Russell osvojio 11 prstenova?;Los Angeles Lakersima;Utah Jazzom;Boston Celticsima;New York Knicksima;Boston Celticsima
+Što se određuje aerometrom i piknometrom?;tlak;gustoća;volumen;duljina;gustoća;science
+Tko je bio suparnik Ferdinandu Habsburškom u borbi za hrvatsko-ugarsko prijestolje?;Ivan Zapolja;Ludovik I.;Žigmund Luksemburški;Ladislav Napuljski;Ivan Zapolja;history
+U kojem je gradu nastao kalvinizam?;u Ženevi;u Parizu;u Nantesu;u Beču;u Ženevi;history
+Za "Let it be" zaslužni su Beatlesi, dok su Rolling Stonesi stvorili...;Let it bleed;Let it bowl;Let it roll;Let it burn;Let it bleed;
+Koga Turci nazivaju Arnautima?;Hrvate;Bošnjake;Srbe;Albance;Albance;history
+Kojim se imenom Marty McFly predstavio svojim sugrađanima u 3. dijelu triologije "Back to the Future"?;John Wayne;Clint Eastwood;Al Pacino;Marlon Brando;Clint Eastwood;art
+Arahnofobija je strah od...;muha;leta;mački;pauka;pauka;science
+Kako se zove glavni lik i svizac u komediji "Beskrajan dan"?;Hal;John,Phil;Dan,Phil;art
+U kojem filmu je Rade Šerbedžija glumio Borisa "The Blade" Jurinova?;Snatch;Space Cowboys;Mission: Impossible;Mighty Joe Young;Snatch;art
+Kako se zvao klaun iz Kingovog romana "Ono"?;Pennywise;Dudley;Sirius;Cedric;Pennywise;art
+Protiv koga je pokrenut montirani Friedjungov proces?;Ante Trumbića;Frana Supila;Ivana Šubašića;Vladka Mačeka;Frana Supila;art
+Koji film sa Scarlett Johansson je adaptacija japanske mange i animea?;Duh u boci;Duh u zrcalu;Duh u oklopu;Duh u močvari;Duh u oklopu;art
+Cinabarit je ruda...;žive;zlata;srebra;bakra;žive;science
+Riječ Popocatepetl prevedena s astečkog znači...;brijeg koji se ruši;brijeg koji se suši;brijeg koji se puši;brijeg koji gori;brijeg koji se puši;geography
+Hit "Too shy" je djelo koje britanske grupe?;Rolling Stones;Beatles;Kajagoogoo;Led Zeppelin;Kajagoogoo;art
+Koji nogometni velikan nikada nije igrao u Realu iz Madrida?;David Beckham;Claude Makelele;Sergio Ramos;Michel Platini;Michel Platini;sport
+Kojem je kemijskom elementu simbol jedno slovo?;bromu;kloru;kositru;vanadiju;vanadiju;science
+Koji američki reper je glumio s Dinom Dvornikom u filmu "Ta divna splitska noć"?;Fat Joe;Ice Cube;50 Cent;Coolio;Coolio;art
+U kojem se gradu nalazi kraljevska biblioteka Crni dijamant?;Amsterdamu;Kopenhagenu;Oslu;Berlinu;Kopenhagenu;art
+Potkraj kojeg stoljeća je Žigmund Luksemburški sazvao krvavi križevački sabor?;13.;14.;15.;16.;14.;history
+Koji rimski kralj je izdao Corpus Iuris Civilis (hrvatski: zbir građanskih prava), drugu i zadnja kodifikaciju rimskoga prava?;Hadrijan;Trajan;Justinijan;Konstantin;Justinijan;history
+Što su međuostalim Manhattan, Bronx, Queens, Brooklyn i Staten Island?;kokteli;šeširi;cipele;vina;kokteli;geography
+U američkom nogometu, koliko svaka ekipa ima igrača na terenu?;10;11;12;13;11;sport
+Koja nogometna reprezentacija je osvojila Europsko prvenstvo u nogometu 1992. nakon što je bila pozvana da zamijeni Jugoslaviju?;Švedska;Norveška;Danska;Nizozemska;Danska;sport
+Koji se grad u doba Istočne Njemačke zvao Karl-Marx-Stadt?;Chemnitz;Dresden;Leipzig;Hamburg;Chemnitz;geography
+Nehrđajući čelik ili korozijski postojani čelik je slitina željeza i najmanje 12 %...;srebra;kositra;bakra;kroma;kroma;science
+Bronce su bakrene slitine kojima se najčešće dodaje...;krom;željezo;kositar;volfram;kositar;science
+Mjed je slitina bakra i...;paladija;cinka;nikla;srebra;cinka;science
+Tko je bio Tezejev najbolji prijatelj, s kojim je čak zajedno tražio i suprugu?;Menelaj;Hektor;Pirit;Hipolit;Pirit;art
+Tko je uoči bitke u Egiptu rekao svojim vojnicima da s piramida u njih gleda 40 stoljeća povijesti?;Atila;Napoleon I.;Julije Cezar;Marko Antonije;Napoleon I.;history
+Nakon pobune na brodu Bounty, koji otok su pobunjenici naselili?;Borneo;Nova Gvineja;Tahiti;Madagaskar;Tahiti;geography
+S kojim se rimskim vođom borio Vercingetoriks, vođa ujedinjenih galskih plemena?;Julijem Cezarom;Kaligulom;Neronom;Trajanom;Julijem Cezarom;history
+Koji je negativac iz Trojanskog rata ubio Prijama i njegove potomke i Andromahu odveo u ropstvo?;Patroklo;Neoptolem;Menelaj;Ahilej;Neoptolem;art
+Što je smješteno na nekadašnjoj Darienskoj prevlaci?;Panama;Sinaj;Laos;Senegal;Panama;geography
+Tko "Zapise iz podzemlja" počinje riječima:"Bolestan sam čovjek... Pakostan sam čovjek."?;Turgenjev;Dostojevski;Gogolj;Tolstoj;Dostojevski;art
+Tko u pjesmi Parnog valjka priča da rinta u nekoj lijevoj firmi da pomalo posustaje, na smrt se dosađuje...?;Ana;Neda;Marija;Tina;Neda;art
+Koga je Amenofil IV. proglasio jedinim bogom u namjeri da uvede monoteizam?;Atona;Ra;Ozirisa;Serapisa;Atona;history
+Plod koje biljke dozrijeva ispod površine tla?;grašak;kikiriki;badem;rajčica;kikiriki;science
+"Posjednji čovjek na Zemlji nije sam". Koji je film u pitanju?;Ja sam legenda;Ja sam sam;Ja sam broj 4;Ja sam Gabriel;Ja sam legenda;art
+Koja je švicarska obitelj iz Basela iznjedrila nekoliko fizičara i znanstvenika?;Pascal;Bernoulli;Euler;Gauss;Bernoulli;science
+Na klupi kojeg kluba je Miroslav Blažević počeo domaću trenersku karijeru?;Dinamo;Varteks;Rijeka;Osijek;Rijeka;sport
+Koja se reperska grupa prži na "Vrućini gradskog asfalta"?;Tram 11;Bolesna braća;Elemental;Dječaci;Tram 11;art
+Kako su se posprdno zvali odani birokrati Bachova apsolutizma?;Bachovi panduri;Bachovi banditi;Bachovi husari;Bachovi hajduci;history
+Koja je jedina zmija otrovnica iz porodice ljutica u sjevernoj Europi?;riđovka;poskok;siktavica;kravosas;riđovka;science
+Koji je vratar jedini osvojio Zlatnu loptu France Footbala?;Oliver Kahn;Lav Jašin;Gianluigi Buffon;Edwin van der Sar;Lav Jašin;sport
+U kojem se gradu nalazi najveća zgrada parlamenta na svijetu?;U Parizu;U Bukureštu,U Moskvi;U Varšavi;U Bukureštu;geography
+Koji je poluotok mamuza talijanske čizme?;Burano;Gargano;Murano;Merino;Gargano;geography
+U crnoj knjižici kojeg su stripovskog lika zapisani svačiji grijesi iz prošlosti?;Zagora;Dylana Doga;Mistera Noa;Broja Jedan;Broja Jedan;art
+Tko je u zelenoj knjizi spajao tradiciju islama s idejama socijalizma?;Moamer Gadafi;Jawaharlal Nehru;Saddam Hussein;Gamal Abdel Naser;Moamer Gadafi;history
+Zeus je u braku s Herom, Jupiter s Junonom, a Perun s...?;s Moranom;s Mokoš;s Ladom;s Navom;s Mokoš;art
+Kojem Perunovu neprijatelju je Mokoš odlazila svakih 6 mjeseci u kraljevstvo mrtvih?;Rodu;Svarogu;Triglavu;Velesu;Velesu;art
+Što su međusobno pura - jelo i pura - životinja?;toponimi;sinonimi;antonimi;homonimi;art
+Koji su europski glavni grad saveznici najprije oslobodili?;Beograd;Pariz;Rim;Prag;Rim;history
+Koja pličina u Sjevernom moru je posebno važno ribolovno područje gdje se lovi bakalar i sleđ?;Dogger Bank;Moselle;Meuse;Sauer;Dogger Bank;geography
+Riječ bećarac turskog je podrijetla i znači...;veseljak;plesač;neženja;igrač;neženja;art
+Koji je popularni naziv za zgradu kraljevske opere u Londonu?;Covent Garden;Crystal Palace;Golden Palace;Blue Garden;Covent Garden;art
+Glavni grad države u kojoj se nalazi najsuša pustinja na svijetu je...;Abuja;Santiago;Asuncion;Ulan Bator;Santiago;geography
+Glavni grad Paragvaja je...;Asuncion;Maputo;Abuja;Paramaribo;Asuncion;geography
+Sjedište izvršne vlasti i predsjednika Argentinske Republike je...;Plava kuća;Roza kuća;Žuta kuća;Zelena kuća;Roza kuća;geography

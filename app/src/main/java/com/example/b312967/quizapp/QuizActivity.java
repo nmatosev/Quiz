@@ -77,21 +77,16 @@ public class QuizActivity extends Activity {
                 RadioButton answer=(RadioButton)findViewById(grp.getCheckedRadioButtonId());
 
                 try {
-                    if (pozicija == 0) {
+                    if (pozicija == 0)
                         validateAnswerAndGoToNext(answer.getText().toString(), grp, "history");
-                    }
-                    else if (pozicija == 1) {
+                    else if (pozicija == 1)
                         validateAnswerAndGoToNext(answer.getText().toString(), grp, "sport");
-                    }
-                    else if (pozicija == 2) {
+                    else if (pozicija == 2)
                         validateAnswerAndGoToNext(answer.getText().toString(), grp, "geography");
-                    }
-                    else if (pozicija == 3) {
+                    else if (pozicija == 3)
                         validateAnswerAndGoToNext(answer.getText().toString(), grp, "science");
-                    }
-                    else if (pozicija == 4) {
+                    else if (pozicija == 4)
                         validateAnswerAndGoToNext(answer.getText().toString(), grp, "art");
-                    }
                 }
                 catch (NullPointerException e) {
                     Toast.makeText(getApplicationContext(),"Odgovor nije označen!",Toast.LENGTH_SHORT).show();
