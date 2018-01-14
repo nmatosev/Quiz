@@ -28,6 +28,8 @@ Kad su održane zimske olimpijske igre u Sarajevu?;1980.;1984.;1986.;1988.;1984.
 Koju su povijesnu ličnost svjetski moćnici zvali Uncle Joe?;Molotova;Tita;Staljina;Churcilla;Staljina;history
 Koje more ne oplakuje obale Italije?;Jadransko;Alboransko;Ligursko;Tirensko;Alboransko;geography
 Koji je glavni grad Pijemonta?;Torino;Milano;Napulj;Padova;Torino;geography
+Tko je od navedenih sportaša bio srebrni maratonac na Olimpijskim igrama 1956. godine održanima u Melbourneu?;Ivan Grubijan;Franjo Mihalić;Minski Fabris;Vlado Lisjak;Franjo Mihalić;sport
+Kojim se sportom uspješno bavio Marijan Beneš?;veslanjem;šahom;jahanjem;boksom;boksom;sport
 Gdje se nalazi Willis Tower koji je izgrađen 1973. postao je najviši neboder na svijetu prešavši do tada najviši "Svjetski trgovački centar" u New York Cityu?;u Los Angelesu;u Chicagu;u Bostonu;u Miamiu;u Chicagu;geography
 U kojem filmu ne glumi Marlon Brando?;Na dokovima New Yorka;Dvoboj na Missouriju;Grofica iz Hong Konga;Dama iz Šangaja;Dama iz Šangaja;art
 Iz rock-grupe Velvet Underground poniknut će autor hitova "Perfect Day" i "Way on the Wild Side". Tko je taj glazbenik?;John Cale;Lou Reed;J. J. Cale;Adam Ant;Lou Reed;art
@@ -790,6 +792,8 @@ Istina i metoda jedno je od najvećih djela kojeg filozofa?;Immanuela Kanta;Davi
 Vodonoša iz Seville (špa. El aguador de Sevilla) slavno je ulje na platnu kojeg slikara?;Francisca Goye;Salvador Dalia;Diega Velazqueza;El Greca;Diega Velazqueza;art
 Tractatus logico-philosophicus je djelo kojeg poznatog filozofa?;Gottfrieda Leibniza;Ludwiga Wittgensteina;Immanuela Kanta;Francisa Bacona;Ludwiga Wittgensteina;art
 Kako je Stevie Ray Vaughn zvao svoju gitaru?;Penny;Lenny;Zenny;Benny;Lenny;art
+Gambija je s kopnenene strane potpuno okružena teritorijem koje države?;Obale Bjelokosti;Senegala;Mauritanije;Gvineje;Senegala;art
+Koji je slavni bejzbolaš bio devet mjeseci u braku s Marilyn Monroe;Ty Cobb;Lou Gehrig;Joe Di'Maggio;Mickey Mantle;Loe Di'Maggio;sport
 Koliko zvijezda čini asterizam Velika kola u Velikom medvjedu (lat: Ursa major)?;5;7;9;11;7;science
 Tko je igrao J. R. Ewinga u TV-seriji Dallas?;Steve Kanaly;Howard Keel;Larry Hagman;Dack Rambo;Larry Hagman;art
 U kojoj se dražvi nalazi Point Noire aerodrom?;Keniji;Maroku;Kongu;Namibiji;Kongu;geography
@@ -819,3 +823,28 @@ Koliko romana čini Sagu o Forsyteima?;2,3,5,7;3;art
 Koji se američki predsjednik pojavljuje na novačanici od 20 dolara?;George Washington;Andrew Jackson;Abraham Lincoln;Thomas Jefferson;Andrew Jackson;history
 Koji se američki predsjednik pojavljuje na novačanici od 2 dolara?;George Washington;Andrew Jackson;Abraham Lincoln;Thomas Jefferson;Thomas Jefferson;history
 Koji se američki predsjednik pojavljuje na novačanici od 50 dolara?;Ulysses S. Grant;Andrew Jackson;Abraham Lincoln;Thomas Jefferson;Ulysses S. Grant;history
+Legendarni stolnotenisački par bio je...;Dragaš - Smoljanović;Šurbek - Stipančić;Ljubek - Nišović;Celent - Mrduljaš;Dragaš - Smoljanović;sport
+Giuseppe Giergia, Damir Šolman, Rato Tvrdić; Nikola Plećaš bavili su se istim sportom kao i...;Dubravko Šimenc;Davor Šuker;Patrik Ćavar;Toni Kukoč;Toni Kukoč;sport
+Danira Nakić se profesionalno bavila...;kuglanjem;biciklizmom;košarkom;rukometom;košarkom;sport
+Tko je bio inicijator prvog Svjetskog nogometnog prvenstva?;Pierre de Coubertin;Jules Rimet;Lennart Johansson;Ottorino Barassi;Jules Rimet;sport
+Tko je bio autor Diskobola?;Fidija;Kalamis;Miron;Lizip;Miron;art
+Đurđica Bjedov svoje je plivačke olimpijske medalje (zlatnu na 100 m prsno i srebrnu na 200 m prsno) zaslužila u...;Meksiku;Australiji;Japanu;Njemačku;Meksiku;sport
+Iza kojega se akronima skriva organizacija protestantskih studenata sa sjedištem u Ženevi, a poznata je po lancu hostela diljem svijeta?;IRCA;ZEPA;PINA;YMCA;YMCA;history
+Tko je stvorio strip-junaka Corta Maltesea?;Gallieno Ferri;Angelo Stano;Hugo Pratt;Aurelio Galleppini;Hugo Pratt;art
+Kako nazivamo neorealistički smjer nakon 1950. koji su obilježili Michelangelo Antonioni i Federico Fellini?;neorealizam srca;neorealizam snova;neorealizam ljubavi;neorealizam duše;neorealizam duše;art
+Što je "nesvjesno" nastalo družine "Camerate fiorentine"?;burza;mafija;banka;opera;opera;history
+Kako se zove komičar koji je najčešće vodio dodjelu filmse nagrade Oscar?;Johnny Carson;Bob Hope;Danny Kaye;Jerry Lewis;Bob Hope;art
+Kako se zove godišnja filmska nagrada koja se dodjeljuje na Danima hrvatskog filma?;Oliver;Orson;Oktavijan;Osvald;Oktavijan;art
+Koja je pjevačica 1987. dobila Oscara za glavnu žensku ulogu u filmu "Opčinjena mjesecom"?;Whitney Houston;Cher;Barbara Streisand;Madonna;Cher;art
+Tko je dvaput, jedrilicama HIR 3 i Hrvatska čigra, obišao zloglasni Rt Horn?;Damir Miloš;Mladen Šutej;Niko Pulić;Ivan Visin;Mladen Šutej;art
+Tko je 1862. u Pragu osnovao pokret za promociju tjelesnog odgoja Sokol? Dalekosežni cilj pokreta bio je pripremiti generacije Čeha za otpor austrijskoj vlasti.;Miroslav Tyrš;Leoš Janaček;Jan Žižka;Konstantin Jireček;Miroslav Tyrš;art
+Tko je roman "Obojena ptica", stravične priče s autobiografskom elementima o židovskom dječaku koji Drugi svjetski rat provodi sam, daleko od roditelja, boreći se za vlastiti život u okrutnom svijetu seljaka.;Jiri Šotola;Stefan Zweig;Jerzy Kosinsky;Elias Canetti;Jerzy Kosinsky;art
+Koji je jazz glazbenik bio poznat i kao Bird?;Louis Armstrong;Kid Ory;Miles Davis;Charlie Parker;Charlie Parker;art
+Koju je od navedenih knjiga napisala Erica Jong?;Zatvorska ptičica;Ubiti pticu rugalicu;Orlovi rano lete;Strah od letenja;Strah od letenja;art
+Tko je napisao Let iznad kukavičjeg gnijezda, roman o zdravom čovjeku u ludnici koji je završio na lobotomiji?;Anthony Burgess;Howard Phillips Lovecraft;Ken Kesey;Horace Walpole;Ken Kesey;art
+Tko je autor pjesme Galeb i ja (poznatije pod naslovom Moj galebe)?;Đorđe Novković;Đelo Jusić;Zdenko Runjić;Alfi Kabiljo;Zdenko Runjić;art
+Kako glasi naslov znamenitog Euklidovog djela?;Elementi;Polinomi;Skupovi;Paralele;Elementi;science
+Kojem likovnom pravcu pripada opus austrijskog slikara Oskara Kokoschke?;realizmu;ekspresionizmu;nadrealizmu;fovizmu;ekspresionizmu;art
+Koja je ptica bila kobna za mornare u poznatoj pjesmi Samuela Taylora Coleridgea - Pjesma o starom mornaru?;feniks;kondor;albatros;harpija;albatros;art
+Tko je naslikao suprematističko djelo "Crni kvadrat na bijeloj podlozi"?;Giorgio de Chirico;Vasilij Kandinski;Jackson Pollock;Kazimir Maljevič;Kazimir Maljevič;art
+Koji je mislilac u Euklidovoj geometriji pronašao formu za predstavljanje vlastitoga filozofskog sustava (Rasprava o metodi)?;Thomas Hobbes;Rene Descartes;David Hume;John Locke;Rene Descartes;art
