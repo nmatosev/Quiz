@@ -848,3 +848,65 @@ Kojem likovnom pravcu pripada opus austrijskog slikara Oskara Kokoschke?;realizm
 Koja je ptica bila kobna za mornare u poznatoj pjesmi Samuela Taylora Coleridgea - Pjesma o starom mornaru?;feniks;kondor;albatros;harpija;albatros;art
 Tko je naslikao suprematističko djelo "Crni kvadrat na bijeloj podlozi"?;Giorgio de Chirico;Vasilij Kandinski;Jackson Pollock;Kazimir Maljevič;Kazimir Maljevič;art
 Koji je mislilac u Euklidovoj geometriji pronašao formu za predstavljanje vlastitoga filozofskog sustava (Rasprava o metodi)?;Thomas Hobbes;Rene Descartes;David Hume;John Locke;Rene Descartes;art
+Kojem pjevaču je pravo ime McKinley Morganfield?;Davidu Bowieu;Johnu Lennonu;Ericu Claptonu;Muddyju Watersu;Muddyju Watersu;art
+Tko je autor književne serije Percy Jackson i Olimpijci?;Rick Riordan;E. L. James;J. K. Rowling;C. S. Lewis;Rick Riordan;art
+Tko je autor serije romana Narnijske kronike?;Rick Riordan;E. L. James;J. K. Rowling;C. S. Lewis;C. S. Lewis;art
+Tko je napisao roman Malteški sokol?;C. S. Lewis;Dashiell Hammett;E. L. James;Daniel Defoe;Dashiell Hammett;art
+Koji planet je šesti po udaljenosti od Sunca u Sunčevom sustavu?;Mars;Jupiter;Saturn;Uran;Saturn;science
+Po kojem od ovih arhitektonskih ostvarenja je ostao upamćen Joern Utzon?;Sydneyska opera;Toronto CN Tower;Milanska La Scala;Royal Ontario Muzej;Sydneyska opera;art
+Za koju državu vezujemo Jamajka koaliciju i Kenija-savez?;Francusku;Španjolsku;Njemačku;Italija;Njemačka;history
+Kojem redu kukaca pripadaju paličnjaci?;nakaznicima,rugobnicima,spodobnicima,ružincima;nakaznicima;science
+Titan, Encelad, Mimas i Diona su prirodni sateliti kojeg planeta?;Saturna;Jupitera;Urana;Neptuna;Saturna;science
+Europa, Ganimed, Ija i Kalista su prirodni sateliti kojeg planeta?;Saturna;Jupitera;Urana;Neptuna;Jupitera;science
+Titanija, Miranda, Umbriel i Ariel su prirodni sateliti kojeg planeta?;Marsa;Jupitera;Urana;Neptuna;Urana;science
+Triton, Nereida, Protej i Despina su prirodni sateliti kojeg planeta?;Saturna;Marsa;Urana;Neptuna;Neptuna;science
+Fobos i Deimos su prirodni sateliti kojeg planeta?;Marsa;Jupitera;Urana;Neptuna;Marsa;science
+Koja je kreacija Joška Marušića bila maskota Pjesme eurovizije u Zagrebu?;Eurodog;Eurobear;Eurocat;Eurolion;Eurocat;art
+Koji nacionalni park "sjedi" na vrhu super vulkana;Yellowstone;Everglades;Olympic;Yosemite;Yellowstone;geography	
+Koji je biblijski lik u srednjem vijeku bio zaštitnik gubavaca pa su po njemu nazvane mnoge ustanove za smještaj okuženih?;Lazar;Zakej;Job;Ezav;Lazar;art
+Junakinja Flashdancea noću radi kao egzotična plesačica. Kamo odlazi u rano ujutro?;u čeličanu;u rudnik;na gradilište;u školu;u čeličanu;art
+Tko je probleme rješavao vodeći se krilaticom "Plata o plomo", odnosno "srebro ili olovo"?;Juan Pablo Duarte;Pablo Escobar;Emiliano Zapata;Che Guevara;Pablo Escobar;history
+Koji je najtočniji opis radnje Verneova "Puta u središte Zemlje";od špilje do špilje;od gejzira do gejzira;od vulkana do vulkana;od mora do mora;od vulkana do vulkana;art
+Koji su  bend osnovala tri brata, njihov bratić i njhov prijatelj?;The Doobie Brothers;The Beach Boys;AC/DC;Nirvana;The Beach Boys;art   
+Koji svoj film je Steven Spielberg prijavio kao diplomski rad 2002. godine?;Ralje;Jurski park;Schindlerova lista;Poltergeist;Schindlerova lista;art
+Napoleonov je Marengo, Aleksandrov je Bukefal, kako se zove Kaligulin?;Incitat;Tardus;Spissus;Piger;Incitat;history
+Koji je naš nacionalni park dobio taj status nedugo nakon Plitvičkih jezera, 1949. godine?;Risnjak;Paklenica;Brijuni;Mljet;Paklenica;history
+Koji se grad na jadranskoj obali jedno vrijeme zvao i Porto Tolero?;Bari;Ancona;Ploče;Budva;Ploče;history 
+U kojoj se zemlji nalazi najveći broj govornika sjevernokurdskog jezika?;Armenija;Turska;Afganistan;Irak;Turska;history
+Kojeg su mitološkog lika ubile Menade zbog čega su im se bogovi osvetili tako što su ih pretvorili u nijemo drveće?;Adonisa;Tezeja;Orfeja;Herakla;Orfeja;art
+Koja se Shakespearova drama u podnaslovu naziva "Uzvišenom i tugaljivom tragedijom"?;Hamlet;Otelo;Romeo i Julija;Kralj Lear;Romeo i Julija;art
+Tko je kao 21-godišnjak igrao za francuskog niželigaša i radio kao automehaničar?;Ivica Mornar;Milan Rapaić;Dado Pršo;Igor Jarni;Dado Pršo;sport
+Tko čini većinu stanovništva u selima Živa Voda-Kruč, Stifilić i Mundimitar?;gradišćanski Hrvati;karaševski Hrvati;moliški Hrvati;Bunjevci;moliški Hrvati;geography 
+Tko je pred odlučujuću bitku poručio svojim ljudima: "Očekujem da svaki čovjek izvrši svoju dužnost"?;Cromwell;Montgomery;Nelson;Custer;Nelson;history
+S registracijskom oznakom kojeg našeg grada dijeli ime latinski naziv za kost?;s Dubrovnikom;s Osijekom;s Rijekom;s Vukovarom;s Osijekom;science
+Svojedobna preteča carinarnice, mjesto na ulazu u određeno područje, posjed ili grad na kojem se ubirala taksa za ulazak robe ili osobe, u našem jeziku dijeli ime s kojom otočnom državom?;Grenada;Malta;Cipar;Barbados;Malta;history
+Koliko medalja srebrnog sjaja sa Zimskih olimpijskih igara imaju skupa Janica i Ivica Kostelić?;4;5;6;7;6;sport
+Kojem su škotskom rock bendu osnovanom 1968. najveći hitovi “Hair of the Dog” i “Love Hurts”?;Betlehem;Nazareth;Jerusalem;Damask;Nazareth;art
+Koja neglazbena kratica povezuje ABBA-u, Rihannu i Indilu?;KPI;ASAP;SOS;BOD;SOS;art
+Tko je rođen u gradu Aracataci, za koji se vjeruje kako je poslužio kao inspiracija za fiktivni grad Macondo?;Miguel Delibes;Gabriel Garcia Marquez;Vicente Segrelles;Vicente Aleixandre;Gabriel Garcia Marquez;art
+Koji je renesansni umjetnik autor vatikanskih freski Atenska škola, Sveti razgovori i Poetika?;Leonardo;Tizian;Rafael;Botticelli;Rafael;art
+Učo, Ljutko, Glupko, Stidljivko, Kihavko, Pospanko. Tko nedostaje kako bismo kompletirali ovu Snjeguljičinu ekipu?;Veselko;Srećko;Ratko;Mirko;Srećko;art
+S preko 100 milijuna prodanih primjeraka u izvedbi originalnog izvođača te više od 50 milijuna u raznim prepjevima, koja je pjesma, prvi put izvedena krajem 1941., najprodavaniji singl svih vremena?;The Beatles - Hey Jude;Queen - Another One Bites The Dust;Los del Rio - Macarena;Bing Crosby - White Christmas;Bing Crosby - White Christmas;art
+Što na proštenju kupuje i poklanja momak djevojci u baletu Krešimira Baranovića praizvedenom 1924. u Zagrebu?;zaručnički prsten;licitarsko srce;žuti balon;crvenu ružu;licitarsko srce;art
+Koji su band 1971. osnovali braća Schenker?;Sex Pistols;The Clash;Scorpions;ZZ Top;Scorpions;art
+Koji Afrički grad je tijekom kolonijalnih vremena bio poznat kao Leopoldville?;Yaounde;Kinhasa;Bamako;Niamey;Kinhasa;art
+Tko je bio zadnji vladar Egipta prije rimskog osvajanja?;Kleopatra VII.;Menkaura;Ptolemej XII.;Artakserkso III.;Kleopatra VII.;history
+Kojem vladaru je nadimak bio "ujak Europe"?;Edwardu VII.;Charlesu I.;Henkriku VIII.;Georgu III.;Edwardu VII.;history
+Koja je najduža Kanadska rijeka?;Saint Lawrence;Mackenzie;Niagara;Columbia;Mackenzie;art
+Koji je bio glavni grad Konfederacije Američkih Država tijekom američkog građanskog rata?;Richmond;Montgomery;Louisville;Little Rock;Richmond;art
+Tko je napisao poznati roman "Malteški sokol"?;Dashiell Hammett;Anthony Burgess;George Orwell;Erich Fromm;Dashiell Hammett;art
+Tko je igrao ulogu Normana Stansfielda u filmu "Leon: The Professional"?;Johnny Depp;Gary Oldman;Michael Fassbender;Kit Harington;Gary Oldman;art
+"Život se mora živjeti unaprijed, no može se razumjeti samo unatrag?" izreka je kojeg poznatog filozofa?;Søren Kierkegaard;Roger Bacon;Baruch de Spinoza;Gottfried Wilhelm Leibniz;Søren Kierkegaard;art
+Lik iz biblijske Knjige o sucima. Filistejka u koju se zaljubio izraelski sudac Samson. Simbol izdajničke žene zavodnice. Njeno ime je?;Sara;Dondurma;Rahela;Dalila;Dalila;art
+Irski grad originalnog imena Baile Atha Cliath je...;Cork;Limerick;Cavan;Dublin;Dublin;geography
+Bivša prijestolnica Tanzanije. Najnaseljeniji tanzanijski grad i važno ekonomsko središte. Jedan od najbrže rastućih gradova u svijetu. O kojem se gradu radi?;Dodoma;Tabora;Kigoma;Dar Es Salaam;Dar Es Salam;geography
+Prezime moćnog fiktivnog čarobnjaka i ravnatelja Hogwartsa Albusa iz serijala o Harryju Potteru je...;Snape;Dumbledore;Black;Granger;Dumbledore;art
+Koji se naš otok još naziva i Faustov otok?;Zlarin;Prvić;Krapanj;Tijat;Prvić;geography
+Tko je autor knjige "Kad jaganjci utihnu"?;Stephen King;Thomas Harris;John Galsworthy;Eugene O'Neill;Thomas Harris;art
+Tko je autor romana "Grimizno slovo"?;Nathaniel Hawthorne;Thomas Harris;Henry Miller;Eugene O'Neill;Nathaniel Hawthorne;art
+Tko je autor slike "Brod luđaka"?;Hieronymus Bosch;Francisco Goya;Rembrandt van Rijn;El Greco;Hieronymus Bosch;art
+Koja Shakespearova drama se još naziva i "Škotska predstava"?;Kralj Lear;Macbeth;Hamlet;Othello;Macbeth;art
+Koji se američki grad još naziva i "Music city"?;New Orleans;Memphis;Nashville;Denver;Nashville;geography
+Histologija je medicinska znanost o...;stanicama;tkivu;organima;ogranskim sustavima;science
+Mješavina koja 2 plina daje plin praskavac?;vodika i kisika;vodika i klora;klora i kisika;klora i dušika;vodika i kisika;science
+Nagrada koja se dodjeljuje za znanstvene radove komične prirode i sumnjive svrhovitosti, kao parodija Nobelove nagrade naziva se...;Dis Nobel;Un Nobel;Os Nobel;Ig Nobel;Ig Nobel;science

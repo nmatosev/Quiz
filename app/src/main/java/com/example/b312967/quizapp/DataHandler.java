@@ -56,7 +56,6 @@ public class DataHandler {
         if(questionMap.containsKey(separated[6])){
             Question question = new Question(separated[0], separated[1], separated[2], separated[3], separated[4], separated[5], separated[6]);
             questionMap.get(separated[6]).add(question);
-            //bladeStatsMap.get(blade).add(cudbStats);
         }
         else{
             List<Question> questionList = new ArrayList<Question>();

@@ -2,6 +2,10 @@ package com.example.b312967.quizapp;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.ColorFilter;
+import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -21,7 +25,7 @@ import java.util.Map;
  */
 public class QuizActivity extends Activity {
 
-    List<Question> quesList;
+    //List<Question> quesList;
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
     int score=0;
     int questionCounter = 1;
@@ -118,8 +122,9 @@ public class QuizActivity extends Activity {
             score++;
             showToastCorrect();
         }
-        else
+        else{
             showToastIncorrect();
+        }
         //GO TO NEXT ONE
         if (questionCounter < 5) {
             grp.clearCheck();
