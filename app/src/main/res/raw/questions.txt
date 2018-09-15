@@ -1,4 +1,4 @@
-﻿﻿Koji je planet sunčeva sustava najtopliji?;Jupiter;Venera;Mars;Saturn;Venera;science
+﻿Koji je planet sunčeva sustava najtopliji?;Jupiter;Venera;Mars;Saturn;Venera;science
 Koja je SI mjerna jedinica za otpor?;Amper;Om;Volt;Watt;Om;science
 Uz kojeg psihologa vezujemo id ego i super ego?;Sigmunda Freuda;Ivana Pavlova;Jana Piageta;Erika Eriksona;Sigmunda Freuda;science
 Koji je planet sunčeva sustava veličinom najbliži Zemlji?;Merkur;Mars;Uran;Venera;Venera;science
@@ -484,7 +484,7 @@ Tko je boginja pamćenja u starogrčkoj mitologiji?;Mnemozina;Atena;Psiha;Kasand
 Tko je bila zaštitnica mnogih slobodoumnih mislilaca (Voltairea, Diderota, Rosseaua)?;kraljica Marija Antoaneta;markiza Pompadour;markiza Montespan;Marija od Engleske;markiza Pompadour;history
 Koji je talijanski pisac autor postmodernističkog romana "Ako jedne zimske noći neki putnik"?;Primo Levi;Italo Calvin;Dario Fo;Luigi Pirandello;Italo Calvino;art
 Vladavina Luja XV.(1715.-1774.) u francuskoj likovnoj umjetnosti obilježilo je razdoblje...;romantizma;baroka;klasicizma;rokokoa;rokokoa;art
-Kojem je književnom liku Dulcinea bila ideal ženske ljepote?;Casanovi;Cidu;Don Quijoteu;Faustu;Don Quijoteu;art 
+Kojem je književnom liku Dulcinea bila ideal ženske ljepote?;Casanovi;Cidu;Don Quijoteu;Faustu;Don Quijoteu;art
 Pjesnici koje su nadahnule Laura i Beatrice će najaviti...;reformaciju;manirizam;renesansu;janseizam;renesansu;art
 Gala je bila muza...;Fidije;Salvadora Dalija;Oskara Kokoschke;Michelangela Buanrrotija;Salvadora Dalija;art
 Koji je pjesnik bio poznat pod nadimkom šepavi Apolon?;William Blake;John Keats;William Wordsworth;George Gordon Byron;George Gordon Byron;art
@@ -581,15 +581,15 @@ Tko je skladao njemačku himnu?;Ludwig van Beethoven;Wolfgang Amadeus Mozart;Jos
 Slogan kojeg filma je: "Bori se i nikad nećeš pobijediti ... Bježi i nikad nećeš pobjeći";Božji grad;Izgubljeni grad Z;Uhvati me ako možeš;Django;Božji grad;art
 Tko je uz Hama i Jafeta treći Noin sin?;Šem;Zebulun;Ašer;Jisakar;Šem;art
 Što nas boli ako nas boli lakrimalna kost?;stopalo;dlan;lakat;glava;glava;science
-S kojim klubom je Bill Russell osvojio 11 prstenova?;Los Angeles Lakersima;Utah Jazzom;Boston Celticsima;New York Knicksima;Boston Celticsima
+S kojim klubom je Bill Russell osvojio 11 prstenova?;Los Angeles Lakersima;Utah Jazzom;Boston Celticsima;New York Knicksima;Boston Celticsima;sport
 Što se određuje aerometrom i piknometrom?;tlak;gustoća;volumen;duljina;gustoća;science
 Tko je bio suparnik Ferdinandu Habsburškom u borbi za hrvatsko-ugarsko prijestolje?;Ivan Zapolja;Ludovik I.;Žigmund Luksemburški;Ladislav Napuljski;Ivan Zapolja;history
 U kojem je gradu nastao kalvinizam?;u Ženevi;u Parizu;u Nantesu;u Beču;u Ženevi;history
-Za "Let it be" zaslužni su Beatlesi, dok su Rolling Stonesi stvorili...;Let it bleed;Let it bowl;Let it roll;Let it burn;Let it bleed;
+Za "Let it be" zaslužni su Beatlesi, dok su Rolling Stonesi stvorili...;Let it bleed;Let it bowl;Let it roll;Let it burn;Let it bleed;art
 Koga Turci nazivaju Arnautima?;Hrvate;Bošnjake;Srbe;Albance;Albance;history
 Kojim se imenom Marty McFly predstavio svojim sugrađanima u 3. dijelu triologije "Back to the Future"?;John Wayne;Clint Eastwood;Al Pacino;Marlon Brando;Clint Eastwood;art
 Arahnofobija je strah od...;muha;leta;mački;pauka;pauka;science
-Kako se zove glavni lik i svizac u komediji "Beskrajan dan"?;Hal;John,Phil;Dan,Phil;art
+Kako se zove glavni lik i svizac u komediji "Beskrajan dan"?;Hal;John;Phil;Dan;Phil;art
 U kojem filmu je Rade Šerbedžija glumio Borisa "The Blade" Jurinova?;Snatch;Space Cowboys;Mission Impossible;Mighty Joe Young;Snatch;art
 Kako se zvao klaun iz Kingovog romana "Ono"?;Pennywise;Dudley;Sirius;Cedric;Pennywise;art
 Protiv koga je pokrenut montirani Friedjungov proces?;Ante Trumbića;Frana Supila;Ivana Šubašića;Vladka Mačeka;Frana Supila;art
@@ -624,16 +624,16 @@ Plod koje biljke dozrijeva ispod površine tla?;grašak;kikiriki;badem;rajčica;
 Koja je švicarska obitelj iz Basela iznjedrila nekoliko fizičara i znanstvenika?;Pascal;Bernoulli;Euler;Gauss;Bernoulli;science
 Na klupi kojeg kluba je Miroslav Blažević počeo domaću trenersku karijeru?;Dinamo;Varteks;Rijeka;Osijek;Rijeka;sport
 Koja se reperska grupa prži na "Vrućini gradskog asfalta"?;Tram 11;Bolesna braća;Elemental;Dječaci;Tram 11;art
-Kako su se posprdno zvali odani birokrati Bachova apsolutizma?;Bachovi panduri;Bachovi banditi;Bachovi husari;Bachovi hajduci;history
+Kako su se posprdno zvali odani birokrati Bachova apsolutizma?;Bachovi panduri;Bachovi banditi;Bachovi husari;Bachovi hajduci;Bachovi husari;history
 Koja je jedina zmija otrovnica iz porodice ljutica u sjevernoj Europi?;riđovka;poskok;siktavica;kravosas;riđovka;science
 Koji je vratar jedini osvojio Zlatnu loptu France Footbala?;Oliver Kahn;Lav Jašin;Gianluigi Buffon;Edwin van der Sar;Lav Jašin;sport
-U kojem se gradu nalazi najveća zgrada parlamenta na svijetu?;U Parizu;U Bukureštu,U Moskvi;U Varšavi;U Bukureštu;geography
+U kojem se gradu nalazi najveća zgrada parlamenta na svijetu?;U Parizu;U Bukureštu;U Moskvi;U Varšavi;U Bukureštu;geography
 Koji je poluotok mamuza talijanske čizme?;Burano;Gargano;Murano;Merino;Gargano;geography
 U crnoj knjižici kojeg su stripovskog lika zapisani svačiji grijesi iz prošlosti?;Zagora;Dylana Doga;Mistera Noa;Broja Jedan;Broja Jedan;art
 Tko je u zelenoj knjizi spajao tradiciju islama s idejama socijalizma?;Moamer Gadafi;Jawaharlal Nehru;Saddam Hussein;Gamal Abdel Naser;Moamer Gadafi;history
 Zeus je u braku s Herom, Jupiter s Junonom, a Perun s...?;s Moranom;s Mokoš;s Ladom;s Navom;s Mokoš;art
 Kojem Perunovu neprijatelju je Mokoš odlazila svakih 6 mjeseci u kraljevstvo mrtvih?;Rodu;Svarogu;Triglavu;Velesu;Velesu;art
-Što su međusobno pura - jelo i pura - životinja?;toponimi;sinonimi;antonimi;homonimi;art
+Što su međusobno pura - jelo i pura - životinja?;toponimi;sinonimi;antonimi;homonimi;homonimi;art
 Koji su europski glavni grad saveznici najprije oslobodili?;Beograd;Pariz;Rim;Prag;Rim;history
 Koja pličina u Sjevernom moru je posebno važno ribolovno područje gdje se lovi bakalar i sleđ?;Dogger Bank;Moselle;Meuse;Sauer;Dogger Bank;geography
 Riječ bećarac turskog je podrijetla i znači...;veseljak;plesač;neženja;igrač;neženja;art
@@ -654,7 +654,7 @@ Koji bend poznat po interpretaciji tradicionalnih melodija predvodi Mojmir Novak
 Koji je političar pakistanskog podrijetla 2016. postao gradonačelnik Londona?;Zulfikar Ali Buto;Sadiq Khan;Mamnoon Hussain;Nawaz Sharif;Sadiq Khan;history
 Koja je filmska zvijezda 2012. glumila junaka akcijskih romana Jacka Reachera?;Ben Affleck;Matt Damon;Tom Cruise;Val Kilmer;Tom Cruise;art
 Koji narod je posudio ime pokrajini u kojoj se nalazi Milano?;Ostrogoti;Sasi;Langobardi;Vizigoti;Langobardi;geography
-U kojem se izmišljenom gradu odvija radnja filma Sin City?;Hogsmeade;Cloud City;Basin City;Gotham City;art
+U kojem se izmišljenom gradu odvija radnja filma Sin City?;Hogsmeade;Cloud City;Basin City;Gotham City;Basin City;art
 Kome je Vito Corleone dao ponudu koju ne može odbiti?;Holivudskom producentu;Kazališnom redatelju;TV voditelju;Filmskom glumcu;Holivudskom producentu;art
 Tko je napisao Heineovu i Kafkinu biografiju?;Kurt Wolff;Franz Werfel;Max Brod;Felix Weltsch;Max Brod;art
 Koje slatkovodne životinje svrstavamo u koljeno žarnjaka i razred obrubnjaka?;Batovine;Kanjce;Štrljune;Hidre;Hidre;science
@@ -671,8 +671,8 @@ Kako se zove regija na jugu Italije koja obuhvaća vrh čizme?;Apulija;Kalabrija
 Kako se zove regija koja obuhvaća potpeticu talijanske čizme?;Apulija;Kalabrija;Kampanija;Umbrija;Apulija;geography
 Kako se zove najzapadnija talijanska regija?;Lombardija;Kampanija;Umbrija;Pijemont;Pijemont;geography
 U kojoj se državi nalazi najprometnija europska zračna luka?;Nizozemskoj;Njemačkoj;Velikoj Britaniji;Francuskoj;Velikoj Britaniji;geography
-Tko je pregorki pelin u pjesmi Prljavog Kazališta?;ptica malena,bijeli labud,dunja žuta;zelena jabuka;ptica malena;art
-U kojem gradu Gene Kelly pleše u ulozi slikara Jerryja Mulligana?;Rim;London;Berlin;Pariz;Pariz;art 
+Tko je pregorki pelin u pjesmi Prljavog Kazališta?;ptica malena;bijeli labud;dunja žuta;zelena jabuka;ptica malena;art
+U kojem gradu Gene Kelly pleše u ulozi slikara Jerryja Mulligana?;Rim;London;Berlin;Pariz;Pariz;art
 Koja vrata čine zapadni ulaz u dubrovački stari grad?;Vrata od Ploča;Vrata od Pila;Vrata od Ponte;Vrata od Buže;Vrata od Pila;geography
 Koja vrata čine istočni ulaz u dubrovački stari grad?;Vrata od Ploča;Vrata od Pila;Vrata od Ponte;Vrata od Buže;Vrata od Ploča;geography
 Koji je brazilac osvojio 500 milja Indianapolisa i pobjedu umjesto mlijekom proslavio sokom od naranče?;Nelson Piquet;Ayrton Senna;Emerson Fittipaldi;Pedro Diniz;Emerson Fittipaldi;sport
@@ -720,7 +720,7 @@ Koji je revolucionar napisao motociklističke dnevnike?;Lav Trocki;Che Guevera;F
 U kojem filmu Robert de Niro ne glumi mafijaša?;Bilo jednom u Americi;Analiziraj ovo;Dobri momci;Ulice zla;Ulice zla;art
 Radnja kojeg se filma Franka Capre odvija u božično vrijme u gradu Bedford Fallsu?;Čudesna žena;Divan život;Broadway Bill;Šešir pun čuda;Divan život;art
 "Prozor grli svjetlost plavkastog satena, jutro umiva tvoj vrat...". O kojoj sobi pjevaju Denis i Denis...;22;23;32;33;23;art
-Tko je bio vođa trojanskih snaga u Trojanskom ratu između Ahejaca i Trojanaca?;Eneja;Paris;Hektor;Menelaj;art
+Tko je bio vođa trojanskih snaga u Trojanskom ratu između Ahejaca i Trojanaca?;Eneja;Paris;Hektor;Menelaj;Hektor;art
 Ako je Thelma Geena Davis, tko je Louise?;Susan Sarandon;Angelina Jolie;Julia Roberts;Meg Ryan;Susan Sarandon;art
 Koja nogometna reprezentacija je ostvarila čudo u Bernu 1954. i okitila se titulom svjetskih prvaka?;Mađarska;Zapadna Njemačka;Italija;Francuska;Zapadna Njemačka;sport
 "Primus inter pares" ili "Prvi među jednakima" je pojam koji je uveden pod kojim rimskim carom?;Konstantin;Dioklecijan;August Oktavijan;Kaligula;August Oktavijan;history
@@ -745,7 +745,7 @@ Lenjingrad je za Drugoga svjetskog rata bio 900 dana u njemačkom okruženju. Ko
 Koja je znanstvenica osamnaest godina radila na proučavanju gorila u Ruandi i DR Kongu?;Mary Leakey;Gertrude Bell Elion;Dian Fossey;Annie Jump Cannon;Dian Fossey;science
 Tko je bila Erato France Prešerna, kojoj je posvetio Sonetni vijenac?;Milka Planinc;Mateja Svet;Julija Primicova;Ljubica Cantilli;Julija Primicova;art
 Tko je režirao Ptice, kultni film o neobjašnjivom napadu ptica na ljude?;Howard Hawks;Werner Herzog;John Huston;Alfred Hitchcock;Alfred Hitchcock;art
-Tko kroz lik novinara Garcina izjavljuje: "Pakao - to su drugi"?;Jean Cocteau;Jean Genet;Albert Camus;Jean-Paul Sartre;Jean-Paul Sartre;art 
+Tko kroz lik novinara Garcina izjavljuje: "Pakao - to su drugi"?;Jean Cocteau;Jean Genet;Albert Camus;Jean-Paul Sartre;Jean-Paul Sartre;art
 Tko je autor ruskog književnog djela "Majstor i Margarita"?;Boris Leonidovič Pasternak;Mihail Emanuilovič Šolohov;Mihail Afanasevič Bulgakov;Fjodor Mihajlovič Dostojevski;Mihail Afanasevič Bulgakov;art
 Tko je autor političko-filozofskog spisa "Levijatana"?;Thomas Hobbes;Plotin;John Locke;Hugo Grotius;Thomas Hobbes;art
 Tko od navedenih umjetnika za temu svojih djela nije uzeo motiv Fausta, njemačkog doktora, vračara i pustolova iz 16. stoljeća?;Goethe;Berlioz;Listz;Dante;Dante;art
@@ -762,7 +762,7 @@ Koji je poljski pisac za povijesni roman "Quo vadis" 1905. dobio Nobelovu nagrad
 Koja je bitka iz 1621. potaknula Gundulića da napiše spjev "Osman"?;Bitka kod Marice;Bitka kod Hoćima;Bitka kod Strumice;Bitka kod Mohača;Bitka kod Hoćima;art
 Koji je nobelovac napisao roman "Vatikanski podrumi"?;Andre Gide;Giorgos Seferis;Miguel Angel Asturias;Gerhart Hauptmann;Andre Gide;art
 Što na medicinskim receptima znači skraćenica "QOD"?;Svaki dan;Svaki drugi dan;Svako jutro;Svaku večer;Svaki drugi dan;science
-Kako se zvao švedski premijer ubijen u atentatu 1986. godine?;Fredrik Reinfeldt;Ingvar Carlsson;Tage Erlander;Olof Palme;Olof Palme
+Kako se zvao švedski premijer ubijen u atentatu 1986. godine?;Fredrik Reinfeldt;Ingvar Carlsson;Tage Erlander;Olof Palme;Olof Palme;history
 U kojem od ovih filmova se pojavljuje lik Henryja Hilla?;The Godfather;Goodfellas;Pulp Fiction;Reservoir Dogs;Reservoir Dogs;art
 Jedan od najranijih portreta u europskom slikarstvu - Portret Arnolfinijevih djelo je kojeg od ovih slikara?;Jana van Eycka;Caravaggia;El Greca;Hieronymusa Boscha;Jana van Eycka;art
 The Awakening je jedno od njpoznatijih djela koje od ovih spisateljica?;Kate Chopin;Gertrude Stein;Mercedes de Acosta;Clare Boothe Luce;Kate Chopin;art
@@ -772,7 +772,7 @@ Koji od ovih filmova nije režiran od strane Alfreda Hitchcocka?;Rope;Vertigo;Re
 Koji pilot je prvi samostalno preletio Atlantik?;Chesley Sullenberger;Steve Fossett;Jimmy Doolittle;Charles Lindbergh;Charles Lindbergh;history
 Riječ planet dolazi od grčke riječi planes koja znači...;lutalica;pjesnik;ratar;ribar;lutalica;science
 Kako se zove lik Patricka Swayzea u filmskom hitu "Prljavi ples"?;Johnny Fort;Johnny Castle;Johnny Palace;Johnny Mansion;Johnny Castle;art
-Tko igra glavnu ulogu u filmu "12 majmuna"?;Bruce Willis;Keanu Reeves;Brad Pitt;Matt Damon;Bruce Willis;
+Tko igra glavnu ulogu u filmu "12 majmuna"?;Bruce Willis;Keanu Reeves;Brad Pitt;Matt Damon;Bruce Willis;art
 U kojoj američkoj saveznoj državi je rođen Abraham Lincoln?;Louisiana;Kentucky;Arkansas;Kansas;Kentucky;history
 Koliko je osoba prikazano na Matisseovoj slici "Ples"?;Jedna;Tri;Pet;Sedam;Pet;art
 U kojoj afričkoj državi se nalazi nacionalni park Serengeti?;Namibija;Mozambik;Tanzanija;Senegal;Tanzanija;geography
@@ -819,7 +819,7 @@ Tko je frontmen grupe The Smashing Pumpkins?;Mike Byrne;Jimmy Chamberlin;Billy C
 S kojim filozofskim pokretom najviše povezujemo Alberta Camusa?;s idealizmom;s materijalizmom;s egzistencijalizmom;s racionalizmom;s egzistencijalizmom;art
 U kojem svom filmu Dustin Hoffman izgovara svoj poznati citat "I'm walking here, I'm walking here"?;Rain Man;Little Big Man;Midnight Cowboy;The Graduate;Midnight Cowboy;art
 Uz koji instrument se najviše povezuje Keitha Moona?;gitaru;bas gitaru;bubnjeve;klavijaturu;bubnjeve;art
-Koliko romana čini Sagu o Forsyteima?;2,3,5,7;3;art
+Koliko romana čini Sagu o Forsyteima?;2;3;5;7;3;art
 Koji se američki predsjednik pojavljuje na novačanici od 20 dolara?;George Washington;Andrew Jackson;Abraham Lincoln;Thomas Jefferson;Andrew Jackson;history
 Koji se američki predsjednik pojavljuje na novačanici od 2 dolara?;George Washington;Andrew Jackson;Abraham Lincoln;Thomas Jefferson;Thomas Jefferson;history
 Koji se američki predsjednik pojavljuje na novačanici od 50 dolara?;Ulysses S. Grant;Andrew Jackson;Abraham Lincoln;Thomas Jefferson;Ulysses S. Grant;history
@@ -855,28 +855,28 @@ Tko je napisao roman Malteški sokol?;C. S. Lewis;Dashiell Hammett;E. L. James;D
 Koji planet je šesti po udaljenosti od Sunca u Sunčevom sustavu?;Mars;Jupiter;Saturn;Uran;Saturn;science
 Po kojem od ovih arhitektonskih ostvarenja je ostao upamćen Joern Utzon?;Sydneyska opera;Toronto CN Tower;Milanska La Scala;Royal Ontario Muzej;Sydneyska opera;art
 Za koju državu vezujemo Jamajka koaliciju i Kenija-savez?;Francusku;Španjolsku;Njemačku;Italija;Njemačka;history
-Kojem redu kukaca pripadaju paličnjaci?;nakaznicima,rugobnicima,spodobnicima,ružincima;nakaznicima;science
+Kojem redu kukaca pripadaju paličnjaci?;nakaznicima;rugobnicima;spodobnicima;ružincima;nakaznicima;science
 Titan, Encelad, Mimas i Diona su prirodni sateliti kojeg planeta?;Saturna;Jupitera;Urana;Neptuna;Saturna;science
 Europa, Ganimed, Ija i Kalista su prirodni sateliti kojeg planeta?;Saturna;Jupitera;Urana;Neptuna;Jupitera;science
 Titanija, Miranda, Umbriel i Ariel su prirodni sateliti kojeg planeta?;Marsa;Jupitera;Urana;Neptuna;Urana;science
 Triton, Nereida, Protej i Despina su prirodni sateliti kojeg planeta?;Saturna;Marsa;Urana;Neptuna;Neptuna;science
 Fobos i Deimos su prirodni sateliti kojeg planeta?;Marsa;Jupitera;Urana;Neptuna;Marsa;science
 Koja je kreacija Joška Marušića bila maskota Pjesme eurovizije u Zagrebu?;Eurodog;Eurobear;Eurocat;Eurolion;Eurocat;art
-Koji nacionalni park "sjedi" na vrhu super vulkana;Yellowstone;Everglades;Olympic;Yosemite;Yellowstone;geography	
+Koji nacionalni park "sjedi" na vrhu super vulkana;Yellowstone;Everglades;Olympic;Yosemite;Yellowstone;geography
 Koji je biblijski lik u srednjem vijeku bio zaštitnik gubavaca pa su po njemu nazvane mnoge ustanove za smještaj okuženih?;Lazar;Zakej;Job;Ezav;Lazar;art
 Junakinja Flashdancea noću radi kao egzotična plesačica. Kamo odlazi u rano ujutro?;u čeličanu;u rudnik;na gradilište;u školu;u čeličanu;art
 Tko je probleme rješavao vodeći se krilaticom "Plata o plomo", odnosno "srebro ili olovo"?;Juan Pablo Duarte;Pablo Escobar;Emiliano Zapata;Che Guevara;Pablo Escobar;history
 Koji je najtočniji opis radnje Verneova "Puta u središte Zemlje";od špilje do špilje;od gejzira do gejzira;od vulkana do vulkana;od mora do mora;od vulkana do vulkana;art
-Koji su  bend osnovala tri brata, njihov bratić i njhov prijatelj?;The Doobie Brothers;The Beach Boys;AC/DC;Nirvana;The Beach Boys;art   
+Koji su  bend osnovala tri brata, njihov bratić i njhov prijatelj?;The Doobie Brothers;The Beach Boys;AC/DC;Nirvana;The Beach Boys;art
 Koji svoj film je Steven Spielberg prijavio kao diplomski rad 2002. godine?;Ralje;Jurski park;Schindlerova lista;Poltergeist;Schindlerova lista;art
 Napoleonov je Marengo, Aleksandrov je Bukefal, kako se zove Kaligulin?;Incitat;Tardus;Spissus;Piger;Incitat;history
 Koji je naš nacionalni park dobio taj status nedugo nakon Plitvičkih jezera, 1949. godine?;Risnjak;Paklenica;Brijuni;Mljet;Paklenica;history
-Koji se grad na jadranskoj obali jedno vrijeme zvao i Porto Tolero?;Bari;Ancona;Ploče;Budva;Ploče;history 
+Koji se grad na jadranskoj obali jedno vrijeme zvao i Porto Tolero?;Bari;Ancona;Ploče;Budva;Ploče;history
 U kojoj se zemlji nalazi najveći broj govornika sjevernokurdskog jezika?;Armenija;Turska;Afganistan;Irak;Turska;history
 Kojeg su mitološkog lika ubile Menade zbog čega su im se bogovi osvetili tako što su ih pretvorili u nijemo drveće?;Adonisa;Tezeja;Orfeja;Herakla;Orfeja;art
 Koja se Shakespearova drama u podnaslovu naziva "Uzvišenom i tugaljivom tragedijom"?;Hamlet;Otelo;Romeo i Julija;Kralj Lear;Romeo i Julija;art
 Tko je kao 21-godišnjak igrao za francuskog niželigaša i radio kao automehaničar?;Ivica Mornar;Milan Rapaić;Dado Pršo;Igor Jarni;Dado Pršo;sport
-Tko čini većinu stanovništva u selima Živa Voda-Kruč, Stifilić i Mundimitar?;gradišćanski Hrvati;karaševski Hrvati;moliški Hrvati;Bunjevci;moliški Hrvati;geography 
+Tko čini većinu stanovništva u selima Živa Voda-Kruč, Stifilić i Mundimitar?;gradišćanski Hrvati;karaševski Hrvati;moliški Hrvati;Bunjevci;moliški Hrvati;geography
 Tko je pred odlučujuću bitku poručio svojim ljudima: "Očekujem da svaki čovjek izvrši svoju dužnost"?;Cromwell;Montgomery;Nelson;Custer;Nelson;history
 S registracijskom oznakom kojeg našeg grada dijeli ime latinski naziv za kost?;s Dubrovnikom;s Osijekom;s Rijekom;s Vukovarom;s Osijekom;science
 Svojedobna preteča carinarnice, mjesto na ulazu u određeno područje, posjed ili grad na kojem se ubirala taksa za ulazak robe ili osobe, u našem jeziku dijeli ime s kojom otočnom državom?;Grenada;Malta;Cipar;Barbados;Malta;history
@@ -907,6 +907,25 @@ Tko je autor romana "Grimizno slovo"?;Nathaniel Hawthorne;Thomas Harris;Henry Mi
 Tko je autor slike "Brod luđaka"?;Hieronymus Bosch;Francisco Goya;Rembrandt van Rijn;El Greco;Hieronymus Bosch;art
 Koja Shakespearova drama se još naziva i "Škotska predstava"?;Kralj Lear;Macbeth;Hamlet;Othello;Macbeth;art
 Koji se američki grad još naziva i "Music city"?;New Orleans;Memphis;Nashville;Denver;Nashville;geography
-Histologija je medicinska znanost o...;stanicama;tkivu;organima;ogranskim sustavima;science
+Histologija je medicinska znanost o...;stanicama;tkivu;organima;ogranskim sustavima;tkivu;science
 Mješavina koja 2 plina daje plin praskavac?;vodika i kisika;vodika i klora;klora i kisika;klora i dušika;vodika i kisika;science
 Nagrada koja se dodjeljuje za znanstvene radove komične prirode i sumnjive svrhovitosti, kao parodija Nobelove nagrade naziva se...;Dis Nobel;Un Nobel;Os Nobel;Ig Nobel;Ig Nobel;science
+Zbog Arthura Rimbauda napušta obitelj i odlazi u pustolovnu skitnju po Belgiji i Engleskoj. U Bruxellesu je pripit, pucao u Rimbauda, zbog čega je osuđen na dvije godine tamnice. Kako se zove ovaj francuski pjesnik?;Charles Baudelaire;Stephane Mallarme;Paul Verlaine;Albert Samain;Paul Verlaine;art
+Nakon što je pokazao u tom trenutku završnu verziju Warner Bross predstavnicima, tjedan dana nakon toga, Kubrick je preminuo. O kojem se filmu radi?;Full Metal Jacket;Eyes Wide Shut;The Shining;Barry Lyndon;Eyes Wide Shut;art
+Koja se boja još, osim crne i bijele, pojavljuje u filmu "Schindlerova lista"?;Plava;Crvena;Zelena;Žuta;Crvena;art
+Tko je autor bestselera iz 2000., "Anđeli i demoni"?;Anthony Burgess;Dan Brown;Erich Fromm;Dashiell Hammett;Dan Brown;art
+Koji član ruske moćne gomilice je autor suite za klavir "Slike s izložbe"?;Nikolaj Rimski-Korsakov;Aleksandar Porfirjevič Borodin;Modest Petrovič Musorgski;Cezar Antonovič Kjui;Modest Petrovič Musorgski;art
+Predstavnik venecijanske škole. Autor djela Il Paradiso u glavnoj dvorani Duždeve palače. Kako se zove ovaj talijanski renesansni slikar?;Rafael;Tizian;Tintorreto;Michelangelo;Tintoretto;art
+Autor Centra mira u Hiroshimi i nacrta obnove Skopja nakon potresa 1963. godine. Kako se zove ovaj japanski arhitekt?;Kenzo Tange;Fumihiko Maki;Sou Fujimoto;Kazunari Sakamoto;Kenzo Tange;art
+Što je Kiraet?;post u islamu;hodočašće u Meku;arapski naziv fraze "Allahu Akbar";učenje Kurana;učenje Kurana;history
+Što je Takbir?;post u islamu;hodočašće u Meku;arapski naziv fraze "Allahu Akbar";učenje Kurana;arapski naziv fraze "Allahu Akbar";history
+Proslavio se glazbom skladanom za vesterne. Osvojio je tri Oskara za glazbu za filmove High Noon, The High and Mighty i The Old Man and the Sea. Tko je ovaj američki kompozitor rođen u Rusiji?;Sviatoslav Richter;Dimitri Tiomkin;Mstislav Rostropovič;Sergey Mikhalkov;Dimitri Tiomkin;art
+U kojoj se državi nalaze planinski vrhovi nazvani prema Majakovskom, Karlu Marxu, Lenjinu (danas Aviceni) i Staljinu (danas Ismoilu Somoniju). Posljednji od njih bio je najviši vrh Sovjetskog Saveza i nakon Staljinove smrti nazivao se Vrhom komunizma.;Rusija;Gruzija;Tadžikistan;Kazahstan;Tadžikistan;geography
+Limeno puhačko glazbalo. Poznati su virtuozi na njemu su jazz glazbenici J. J. Johnson, Carl Fontana, Jack Teagarden i Wycliffe Gordon.;tuba;truba;trombon;rog;trombon;art
+Ime joj u prijevodu znači "uđeš, a ne izađeš". Kako se zove ova pustinja?;Taklamakan,Atacama;Kizilkum;Karakum;Taklamakan;geography
+Na njemu se nalazi glavni grad Port of Spain. O kojem se karipskom otoku radi?;Barbados;Dominika;Trindidad;Sveti Vincent i Grenadini;Trinidad;geography
+Koji grčki državnik je izvojevao pobjedu protiv Perzijanaca u Bitci kod Salamine?;Periklo;Solon;Temistoklo;Alkibijad;Temistoklo;history
+Nazvan prema kraljici vila iz Shakespearove drame San ljetne noći, kako se zove najveći Uranov mjesec?;Titania;Reja;Febija;Tetija;Titania;science
+Američki apstraktni ekspresionist (1928. − 2011.). Poznat po kaligrafskim slikama sive boje nalik na grafite. Ciklusi slika Poems to the sea, Three Studies from the Temeraire i serija od osam crteža na kojima piše riječ "VIRGIL".;Charles Alston;Cy Twombly;David Hare;Norris Embry;Cy Twombly;art
+Koja vrsta vozila koja dominira na nekoliko verzija poznate fotografije nastale 5. lipnja 1989. godine, od kojih je vjerojatno najprikazivanija ona Jeffa Widenera.;Tramvaj;Tenk;Autobus;Trolejbus;Tenk;history
+Mjesto prema kojemu su nazvane bitke između Poljske i Litve te Teutonaca 1410. godine; te Njemačke i Rusije 1914. godine. Iako je u slučaju druge bitke traženi lokalitet bio udaljen čak 30 km, von Hindenburg je nakon pobjede bitku nazvao upravo prema tom mjestu kako bi osvetio poraz Teutonaca 500 godina ranije.;Galicija;Tannenberg;Schleswig-Holstein;Saska;Tannenberg;history
