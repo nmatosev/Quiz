@@ -929,3 +929,13 @@ Nazvan prema kraljici vila iz Shakespearove drame San ljetne noći, kako se zove
 Američki apstraktni ekspresionist (1928. − 2011.). Poznat po kaligrafskim slikama sive boje nalik na grafite. Ciklusi slika Poems to the sea, Three Studies from the Temeraire i serija od osam crteža na kojima piše riječ "VIRGIL".;Charles Alston;Cy Twombly;David Hare;Norris Embry;Cy Twombly;art
 Koja vrsta vozila koja dominira na nekoliko verzija poznate fotografije nastale 5. lipnja 1989. godine, od kojih je vjerojatno najprikazivanija ona Jeffa Widenera.;Tramvaj;Tenk;Autobus;Trolejbus;Tenk;history
 Mjesto prema kojemu su nazvane bitke između Poljske i Litve te Teutonaca 1410. godine; te Njemačke i Rusije 1914. godine. Iako je u slučaju druge bitke traženi lokalitet bio udaljen čak 30 km, von Hindenburg je nakon pobjede bitku nazvao upravo prema tom mjestu kako bi osvetio poraz Teutonaca 500 godina ranije.;Galicija;Tannenberg;Schleswig-Holstein;Saska;Tannenberg;history
+Koju su kompaniju, koja je prvotno prodavala i iznajmljivala DVD-ove putem pošte, 1997. osnovali Amerikanci Reed Hastings i Marc Randolph?;Amazon;Netflix;Snapchat;Spotify;Netflix;science
+Tko je tvorac fiktivnog detektiva Auguste Dupina?;Georges Simenon;Edgar Allan Poe;Jo Nesbo;Arthur Conan Doyle;Edgar Allan Poe;art
+Tko je tvorac fiktivnog detektiva Harrya Holea?;Georges Simenon;Edgar Allan Poe;Jo Nesbo;Arthur Conan Doyle;Jo Nesbo;art
+Danas je površinom 25. na svijetu. Koja je država, samostalna od 1810., izgubila više od 50 % od svojih 2417000 km2?;Argentina;Meksiko;Urugvaj;Kolumbija;Kolumbija;geography
+Koji je grad u Ohiju bio dom braći Wright, a u njemu se nalazi i vojna zrakoplovna baza Wright-Patterson?;Cleveland;Dayton;Akron;Columbus;Dayton;history
+Koje ime dijele planinski prijevoj i skijaško područje u Dolomitima te terme u blizini Bergama ako su oboje nazvani po zaštitniku oboljelih od raka i kožnih bolesti?;San Servolo;San Tommaso;San Sebastian;San Pellegrino;San Pellegrino;geography
+Kako se zove prefektura na jugu Honshua čiji je istoimeni glavni grad bio i glavni grad Japana u 8. stoljeću?;Zara;Nara;Fara;Mara;Nara;geography
+Carl Fredricksen kao dječak želio je vidjeti slapove u Južnoj Americi, a želja mu se ispunila 64 godine kasnije. Sa sobom je na putovanje nehotično poveo i malog izviđača Russella. Ovo je premisa kojeg crtića iz 2009.?;Brave;Up;Coco;Incredibles;Up;art
+Tko je 399. pr. Kr. osuđen na smrt zbog bezbožništva te kvarenja mladeži?;Tales;Aristotel;Sokrat;Platon;Sokrat;history
+Koji je sisavac “posudio” svoje ime među ostalim životinjama zmijskom rodu Notechis, letećem insektu Aedes albopictus, ljudožderskoj ribi Galeocerdo cuvier te tobolčaru Thylacinus cynocephalus koji je izumro početkom 20. stoljeća?;Lav;Konj;Pas;Tigar;Tigar;science
