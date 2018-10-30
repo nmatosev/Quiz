@@ -854,7 +854,7 @@ Tko je autor serije romana Narnijske kronike?;Rick Riordan;E. L. James;J. K. Row
 Tko je napisao roman Malteški sokol?;C. S. Lewis;Dashiell Hammett;E. L. James;Daniel Defoe;Dashiell Hammett;art
 Koji planet je šesti po udaljenosti od Sunca u Sunčevom sustavu?;Mars;Jupiter;Saturn;Uran;Saturn;science
 Po kojem od ovih arhitektonskih ostvarenja je ostao upamćen Joern Utzon?;Sydneyska opera;Toronto CN Tower;Milanska La Scala;Royal Ontario Muzej;Sydneyska opera;art
-Za koju državu vezujemo Jamajka koaliciju i Kenija-savez?;Francusku;Španjolsku;Njemačku;Italija;Njemačka;history
+Za koju državu vezujemo Jamajka koaliciju i Kenija-savez?;Francusku;Španjolsku;Njemačku;Italija;Njemačku;history
 Kojem redu kukaca pripadaju paličnjaci?;nakaznicima;rugobnicima;spodobnicima;ružincima;nakaznicima;science
 Titan, Encelad, Mimas i Diona su prirodni sateliti kojeg planeta?;Saturna;Jupitera;Urana;Neptuna;Saturna;science
 Europa, Ganimed, Ija i Kalista su prirodni sateliti kojeg planeta?;Saturna;Jupitera;Urana;Neptuna;Jupitera;science
@@ -938,4 +938,17 @@ Koje ime dijele planinski prijevoj i skijaško područje u Dolomitima te terme u
 Kako se zove prefektura na jugu Honshua čiji je istoimeni glavni grad bio i glavni grad Japana u 8. stoljeću?;Zara;Nara;Fara;Mara;Nara;geography
 Carl Fredricksen kao dječak želio je vidjeti slapove u Južnoj Americi, a želja mu se ispunila 64 godine kasnije. Sa sobom je na putovanje nehotično poveo i malog izviđača Russella. Ovo je premisa kojeg crtića iz 2009.?;Brave;Up;Coco;Incredibles;Up;art
 Tko je 399. pr. Kr. osuđen na smrt zbog bezbožništva te kvarenja mladeži?;Tales;Aristotel;Sokrat;Platon;Sokrat;history
+Kojoj muzi, zaštitnici epskog pjevanja i govorništva, ime doslovno prevedeno sa antičkog grčkog znači "lijepi glas"?;Kalipso;Kaliopa;Klio;Talija;Kaliopa;art
+Koja muza je zaštitnica komedije i bukolike? Atributi su joj komična maska, pastirski štap i bršljanov vijenac.;Melpomena;Kaliopa;Klio;Talija;Talija;art
+Koja muza je zaštitnica zaštitnica tragedije? Atributi su joj tragična maska, koturni, bršljanov vijenac.;Melpomena;Kaliopa;Klio;Talija;Melpomena;art
 Koji je sisavac “posudio” svoje ime među ostalim životinjama zmijskom rodu Notechis, letećem insektu Aedes albopictus, ljudožderskoj ribi Galeocerdo cuvier te tobolčaru Thylacinus cynocephalus koji je izumro početkom 20. stoljeća?;Lav;Konj;Pas;Tigar;Tigar;science
+Vodeni sat. Simbol prolaznosti. Doslovno sa antičkog grčkog: 'onaj koji krade vodu'. Radi se o...;klepsidri;kaposvaru;kaliopi;katarakti;klepsidri;hisotry
+Kako se zove Verdijeva opera iz 1859. koja se bavi tematikom atentata na švedskog kralja Gustava III.?;Krabuljni ples;Nabucco;Atila;Trubadur;Krabuljni ples;art
+Pod kojim nam je imenom poznatije drvo jestivih plodova latinskog naziva Mangifera indica, koje iako se danas uzgaja diljem svijeta originalno potječe iz južne Azije?;Mango;Ananas;Guava;Platana;Mango;geography
+Koji austrijski skakač na skijama je postao svjetski rekorder skokom od 253,5 metara?;Andreas Kofler;Martin Koch;Stefan Kraft;Thomas Diethart;Stefan Kraft;sport
+Deset egipatskih zala naziv je za deset nedaća koje su prema Bibliji snašle Egipćane jer je faraon odbio pustiti Izraelce iz sužanjstva. Čak se četiri zla odnosi na najezdu životinja. Što od ponuđenoga ne pripada tome?;najezda komaraca;najezda obada;najezda skakavaca;najezda zmija;najezda zmija;history
+Oznake P-01, kako je nazvana prva i jedina podmornica u sastavu Hrvatske ratne mornarice, svečano porinuta 16. siječnja 1996.?;Dinara;Biokovo;Velebit;Mosor;Velebit;history
+Kako se zove općina u Karlovačkoj županiji po kojoj ime nosi čvor gdje se spaja autocesta A6 (do Rijeke) s autocestom A1?;Bosiljevo;Jaska;Pisarovina;Erdelj;Bosiljevo;geography
+Kojem gradu od 65000 stanovnika na jugu Mađarske, ime doslovce prevedeno s mađarskog znači 'dvorac s mnogo vrata'?;Pečuh;Debrecen;Kapsovar;Eger;Kaposvar;geography
+Za kojeg nigerijskog glazbenika (1938.-1997.) kažemo da je "otac Afrobeata"?;Fela Kuti;Papa Wemba;Timaya;Davido;Fela Kuti;art
+Opjevali su ga The Beach Boys u filmu Cocktail. O kojem se izmišljenom otoku pored Floride radi (iako postoji otok istog imena na Havajima)?;Kokomo;Curacao;Aruba;Tortuga;Kokomo;art

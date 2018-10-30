@@ -102,9 +102,8 @@ public class QuizActivity extends Activity {
     private void showToastCorrect(){
         Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
     }
-    private void showToastIncorrect(){
-        Toast.makeText(getApplicationContext(), "Netočan odgovor!", Toast.LENGTH_SHORT).show();
-
+    private void showToastIncorrect(String answer){
+        Toast.makeText(getApplicationContext(), "Netočan odgovor! Točan odgovor je " + answer, Toast.LENGTH_SHORT).show();
     }
 
     private void setQuestionView(String category, int brojElementaListe) {
@@ -121,9 +120,8 @@ public class QuizActivity extends Activity {
         if (questionMap.get(category).get(listElementNumber -1).getANSWER().equals(answer)) {
             score++;
             showToastCorrect();
-        }
-        else{
-            showToastIncorrect();
+        }else{
+            showToastIncorrect(questionMap.get(category).get(listElementNumber -1).getANSWER());
         }
         //GO TO NEXT ONE
         if (questionCounter < 5) {
