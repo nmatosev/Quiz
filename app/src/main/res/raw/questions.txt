@@ -952,3 +952,14 @@ Kako se zove općina u Karlovačkoj županiji po kojoj ime nosi čvor gdje se sp
 Kojem gradu od 65000 stanovnika na jugu Mađarske, ime doslovce prevedeno s mađarskog znači 'dvorac s mnogo vrata'?;Pečuh;Debrecen;Kapsovar;Eger;Kaposvar;geography
 Za kojeg nigerijskog glazbenika (1938.-1997.) kažemo da je "otac Afrobeata"?;Fela Kuti;Papa Wemba;Timaya;Davido;Fela Kuti;art
 Opjevali su ga The Beach Boys u filmu Cocktail. O kojem se izmišljenom otoku pored Floride radi (iako postoji otok istog imena na Havajima)?;Kokomo;Curacao;Aruba;Tortuga;Kokomo;art
+Koliko iznosi maksimalna širina nogometnog terena prema pravilima FIFA-e?;60 m;70 m;80 m;90 m;90 m;sport
+Koja je od sljedećih britanskih obavještajnih organizacija za vrijeme 2. svj. rata imala zadatak da „zapali Europu“, odnosno da ubacivanjem svojim agenata na okupirana područja vrši sabotaže, prikuplja informacije te ojačava tamošnje pokrete otpora?;SOW;SOL;SOE;SOF;SOE;history
+Raznim pričama i filmovima, a pogotovo s romanom Drakula i njegovom ekranizacijom, naziv vampir je ušao u pop-kulturu. Po prvi put se javio u Oxfordskom rječniku 1734., vjerojatno izveden iz njemačkog ili francuskog. Nas zanima iz kojeg od navedenih jezika potječe riječ vampir?;Češkog;Srpskog;Talijanskog;Poljskog;Srpskog;art
+Koja je nimfa u grčkoj mitologiji, bila Odisejeva ljubavnica i sedam godina ga držala zatočenog na njenom otoku?;Eho;Tetida;Dafna;Kalipso;Kalipso;art
+Kroz koliko država teče Dunav?;4;6;8;10;10;geography
+Koja je tada tek nadolazeća zvijezda, glumila u seriji "The Darling Buds of May" (1991-1993), u kojoj je jednu od glavnih uloga imao i David Jason, odnosno Delboy iz popularnih Mućki?;Elizabeth Hurley;Nicole Kidman;Catherine Zeta-Jones;Uma Thurman;Catherine Zeta-Jones;art
+Koji je od navedenih pisaca napisao "Mare Liberum", knjigu na latinskom o međunarodnom pravu, izdanu 1609.? U njoj je formulirano novo načelo po kojem je more međunarodni teritorij i sve države ga mogu slobodno koristiti za trgovinu.;Hugo Grotius;Alberico Gentili;Francisco de Vitoria;Niccolo Machiavelli;Hugo Grotius;art
+Koji je naziv stranke koja je pod vodstvom Nigela Faragea bila jedna od najzaslužnijih za Brexit?;UKAP;UKEP;UKOP;UKIP;UKIP;history
+Led Zeppelin, Nirvana, Foo Fighters i Queens Of The Stone Age su veliki bendovi u kojem su svirali članovi ovog rock sastava. O kojem od navedenih je riječ?;Velvet Revolver;Audioslave;Them Crooked Vultures;Kyuss;Them Crooked Vultures;art
+Koja igra je u centru kultnog jugoslavenskog filma Rondo?;Šah;Poker;Bela;Rulet;Šah;art
+Tko je režirao, vjerojatno najbolesniji film s područja Balkana, „Srpski film“?;Srđan Spasojević;Slavko Vorkapić;Mića Popović;Milorad Milinković;Srđan Spasojević;art
