@@ -12,7 +12,8 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * Created by b312967 on 23.12.2015..
+ * Created by neno on 23.12.2015.
+ * Class responsible for parsing questions from file, verifying them and storing them in question map
  */
 public class DataHandler {
 
@@ -20,21 +21,81 @@ public class DataHandler {
     List<Question> quesList = new ArrayList<Question>(); // lista stringova
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
 
-
-    //GETERI SETERI, stvaraj nove objekte koji se spremaju u tablice
+    /**
+     * Creates new questions and stores them in question map
+     * */
     public void addQuestions() {
-        List<String> questionlist = new ArrayList<String>(); // lista pitanja i odgovora
-        questionlist = ParseFile("res/raw/questions.txt");   // ime text filea
-        String[] separated;  // array u kojem ce prvi clan bit pitanje, sljedeca 4 odgovori
+        List<String> questionslist = new ArrayList<String>(); // lista pitanja i odgovora
+        questionslist = ParseFile("res/raw/questions.txt");   // ime text filea
+        String[] question;  // array u kojem ce prvi clan bit pitanje, sljedeca 4 odgovori
 
-        for (int i=0; i<questionlist.size(); i++) {
-            separated = questionlist.get(i).split(";");
+        for (int i=0; i<questionslist.size(); i++) {
+            question = questionslist.get(i).split(";");
             try {
-                Log.w("q raw", separated[0] + separated[1] + separated[2] + separated[3] + separated[4] + separated[5]+ separated[6]);
-                fillQuestionMap(separated);
+                Log.w("question raw: ", question[0] + question[1] + question[2] + question[3] + question[4] + question[5]+ question[6]);
+                verifyQuestion(question);
+                fillQuestionMap(question);
             }catch(Exception e) {
-                Log.d("Neispravan format " , questionlist.get(i));
+                Log.d("Neispravan format " , questionslist.get(i));
             }
+        }
+    }
+
+    /**
+     * Verifies that question has a 4 answers and an question
+     * @param question
+     */
+    private void verifyQuestion(String[] question) {
+        String[] categories = {"geography", "history", "sport", "art", "science"};
+        try {
+            checkNumberOfElementsInList(question);
+            checkIfCategoryIsCorrect(question[6], categories);
+            checkIfCorrectAnswerExists(question);
+        }catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+
+    /**
+     * Checks if there is an correct answer.
+     * @param question
+     */
+    private void checkIfCorrectAnswerExists(String[] question) {
+        boolean isCorrectAnswerFound = false;
+        for(int i=1;i<5;i++){
+            if(question[i].equals(question[5])){
+                isCorrectAnswerFound = true;
+            }
+        }
+        if(!isCorrectAnswerFound){
+            Log.d("Tocnog odgovora nema","Tocnog odgovora nema u " + question[0]);
+        }
+    }
+
+    /**
+     * Check if question array has correct size.
+     * @param question
+     */
+    private void checkNumberOfElementsInList(String[] question) {
+        if(question.length!=7){
+            Log.d("Neispravna velicina", "Neispravna velicina pitanja za " + question[0].toString());
+        }
+    }
+
+    /**
+     * Checks that verified category is parsed.
+     * @param parsedCategory
+     * @param categories
+     */
+    private void checkIfCategoryIsCorrect(String parsedCategory, String[] categories) {
+        boolean isCategoryCorrect = false;
+        for(String category : categories){
+            if(category.equals(parsedCategory)){
+                isCategoryCorrect = true;
+            }
+        }
+        if(!isCategoryCorrect){
+            Log.d("Nepoznata kategorija", "Nepoznata kateogorija " + parsedCategory);
         }
     }
 
@@ -52,6 +113,7 @@ public class DataHandler {
         }
         return list;
     }
+
     public void fillQuestionMap(String[] separated){
         if(questionMap.containsKey(separated[6])){
             Question question = new Question(separated[0], separated[1], separated[2], separated[3], separated[4], separated[5], separated[6]);

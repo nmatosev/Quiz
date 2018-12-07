@@ -21,11 +21,11 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by b312967 on 23.12.2015..
+ * Created by Neno on 23.12.2015..
+ * Main activity where questions are shown and answers verified.
  */
 public class QuizActivity extends Activity {
 
-    //List<Question> quesList;
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
     int score=0;
     int questionCounter = 1;
@@ -53,9 +53,7 @@ public class QuizActivity extends Activity {
 
         butNext=(Button)findViewById(R.id.btnnext);
         Bundle extras = getIntent().getExtras();
-        //String value =extras.getString("pozicija");
         final Integer pozicija=Integer.valueOf(extras.getString("pozicija"));
-        //Log.d("position", pozicija + "");
         switch(pozicija) {
             case 0:
                 setQuestionView("history", 0);
@@ -102,16 +100,17 @@ public class QuizActivity extends Activity {
     private void showToastCorrect(){
         Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
     }
+
     private void showToastIncorrect(String answer){
         Toast.makeText(getApplicationContext(), "Netočan odgovor! Točan odgovor je " + answer, Toast.LENGTH_SHORT).show();
     }
 
-    private void setQuestionView(String category, int brojElementaListe) {
-        txtQuestion.setText(questionMap.get(category).get(brojElementaListe).getQUESTION());
-        rda.setText(questionMap.get(category).get(brojElementaListe).getOPTA());
-        rdb.setText(questionMap.get(category).get(brojElementaListe).getOPTB());
-        rdc.setText(questionMap.get(category).get(brojElementaListe).getOPTC());
-        rdd.setText(questionMap.get(category).get(brojElementaListe).getOPTD());
+    private void setQuestionView(String category, int questionNumber) {
+        txtQuestion.setText(questionMap.get(category).get(questionNumber).getQUESTION());
+        rda.setText(questionMap.get(category).get(questionNumber).getOPTA());
+        rdb.setText(questionMap.get(category).get(questionNumber).getOPTB());
+        rdc.setText(questionMap.get(category).get(questionNumber).getOPTC());
+        rdd.setText(questionMap.get(category).get(questionNumber).getOPTD());
     }
 
     private void validateAnswerAndGoToNext(String answer, RadioGroup grp, String category){

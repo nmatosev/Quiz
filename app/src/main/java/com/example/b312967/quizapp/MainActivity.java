@@ -14,6 +14,9 @@ import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ListView;
 
+/**
+ * Menu activity.
+ */
 public class MainActivity extends AppCompatActivity {
 
 
