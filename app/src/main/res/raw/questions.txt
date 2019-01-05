@@ -1016,3 +1016,10 @@ Koji je bivši nogometaš i trener uz Giovannija Trapattonija jedini trener koji
 Koje se dvije životinje nalaze u naslovu drugog romana iz Danciške (Gdanjske) trilogije Güntera Grassa, objavljenog 1961. godine?;mačka i pas;mačka i miš;vuk i janje;vuk i lisica;mačka i miš;art
 Koja je najveća dubina Jadranskog mora?;628 m;1228 m;2228 m;oko 3228 m;1228 m;geography
 Rostock je najveći grad koje najrjeđe naseljene njemačke savezne pokrajine na sjeveroistoku države?;Saske;Mecklenburg-Vorpommerna;Schleswig-Holsteina;Hessena;Mecklenburg-Vorpommerna;geography
+Kako se naziva optička pojava u atmosferi kada se Sunce ili Mjesec naziru kroz tanak sloj oblaka s kristalićima leda?;halo;paralaksa;korona;glorija;halo;science
+Koji je veliki renesansni umjetnik naslikao "Damu s hermelinom"?;Rafael;Tizian;Leonardo da Vinci;Sandro Botticelli;Leonardo da Vinci;art
+Koji je veliki nizozemski slikar naslikao "Djevojku s bisernom naušnicom "?;Rembrandt van Rijn;Piet Mondrian;Johannes Vermeer;Vincent van Gogh;Johannes Vermeer;art
+Otac starogrčkog vrhovnog boga Zeusa je Kron. Kako mu se zove majka?;Gea;Rea;Fea;Pea;Rea;art
+Redatelj obiteljske komedije iz 1990. - Sam u kući je...;David Yates;Chris Columbus;Mike Newell;Guy Ritchie;Chris Columbus;art
+Darije I. Veliki, perzijski je veliki kralj iz iranske dinastije Ahemenida izgradio je koju veličanstvenu perzijsku prijestolnicu?;Perzepolis;Samarkand;Buhara;Herat;Perzepolis;history
+Papa Ivan Pavao II. prvi je papa koji je ušao u neku džamiju. U kojem se gradu nalazi ta džamija?;Damasku;Istanbulu;Rabatu;Sarajevu;Damasku;history
