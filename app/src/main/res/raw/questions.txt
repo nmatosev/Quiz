@@ -1023,3 +1023,15 @@ Otac starogrčkog vrhovnog boga Zeusa je Kron. Kako mu se zove majka?;Gea;Rea;Fe
 Redatelj obiteljske komedije iz 1990. - Sam u kući je...;David Yates;Chris Columbus;Mike Newell;Guy Ritchie;Chris Columbus;art
 Darije I. Veliki, perzijski je veliki kralj iz iranske dinastije Ahemenida izgradio je koju veličanstvenu perzijsku prijestolnicu?;Perzepolis;Samarkand;Buhara;Herat;Perzepolis;history
 Papa Ivan Pavao II. prvi je papa koji je ušao u neku džamiju. U kojem se gradu nalazi ta džamija?;Damasku;Istanbulu;Rabatu;Sarajevu;Damasku;history
+Kako se zove koktel od likera od jaja s dodanim brendijem i rumom, a poslužuje se vruć u šalici? Pije se u Americi za vrijeme Božića, a osmislio ga je britanski novinar Pierce Egan u 1820-ima.;Mickey Mouse;Pink Panther;Tom and Jerry;Donald the Duck;Tom and Jerry;history
+Američki filmski institut je Audrey Hepburn proglasio 3. najboljom glumicom Zlatnog doba Hollywooda, a njen utjecaj na film je neprocjenjiv. Audrey se rodila 4. svibnja 1929. u državi u kojoj je njen djed s majčine strane bio plemić i političar, te tamo živjela do početka 2. svjetskog rata nakon čega je s obitelji izbjegla u SAD. U kojoj državi je živjela ova filmska ikona?;Rusiji;Portugalu;Španjolskoj;Belgiji;Belgiji;art
+Ruska Amerika je naziv koji se koristio za ruske kolonijalne posjede u sjevernoj Americi od 1733. do 1867., s glavnim gradom Novim Arhangelskom na Aljasci. Ono što je zanimljivo je da je najjužniji ruski posjed u Americi bio Fort Ross u kojoj današnjoj američkoj državi?;Nevadi;Kaliforniji;Teksasu;Arizoni;Kaliforniji;history
+Henri de Toulouse-Lautrec je svjetsku slavu stekao slikajući prizore...;sakralnih objekata;javnih kuća i kavana;sudnica;pejzaža;javnih kuća i kavana;art
+Koje je nebesko tijelo inspiriralo Nikolu Bašića za jedno od njegovih najpoznatijih djela?;Sunce;Mjesec;Zemlja;Venera;Sunce;art
+Ovaj narod čini između 40 i 100 ljudi, a indijska vlada je otok u bengalskom zaljevu na kojem žive proglasila rezervatom i zabranila plovidbu u blizini 4,8 km do obale, a nedavno su privukli pozornost medija i javnosti jer su ubili američkog misionara Johna Allena Chaua koji je ilegalno došao na otok. Kako se zove ovaj otak na kojem živi neki od posljednjih nekontaktiranih svjetskih naroda?;Sentinel;Kalasi;Perka;Mohean;Sentinel;goegraphy
+Glavni grad Zambije je...;Harare;Luanda;Lusaka;Gaborone;Lusaka;geography
+Glavni grad Namibije je...;Harare;Luanda;Lusaka;Windhoek;Windhoek;geography
+Glavni grad Zimbabavea je...;Harare;Luanda;Lusaka;Windhoek;Harare;geography
+Glavni grad Bangladeša je...;Dhaka;Thimphu;Kathmandu;Vientiane;Dhaka;geography
+Glavni grad Butana je...;Dhaka;Thimphu;Kathmandu;Vientiane;Thimphu;geography
+Glavni grad Laosa je...;Dhaka;Thimphu;Kathmandu;Vientiane;Vientiane;geography
