@@ -1035,3 +1035,17 @@ Glavni grad Zimbabavea je...;Harare;Luanda;Lusaka;Windhoek;Harare;geography
 Glavni grad Bangladeša je...;Dhaka;Thimphu;Kathmandu;Vientiane;Dhaka;geography
 Glavni grad Butana je...;Dhaka;Thimphu;Kathmandu;Vientiane;Thimphu;geography
 Glavni grad Laosa je...;Dhaka;Thimphu;Kathmandu;Vientiane;Vientiane;geography
+U trilogiji Gospodar prstenova napredniji i snažniji orci u službi Saurona i Sarumana zovu se...;Uruk Hai;Uruk Mai;Uruk Vai;Uruk Lai;Uruk Hai;art
+Kako se zove pjesma grupe Metallica koja je na tri njihova albuma doživjela tri nastavka?;Fade to Black;The Unforgiven;Nothing Else Matters;The Four Horsemen;The Unforgiven;art
+Kako se zove službeni jezik u Pakistanu vrlo blizak hindiju?;Urdu;Bengalski;Aramejski;Amharski;Urdu;geography
+Kako se zove grad, provincija i rijeka u Peruu? U gornjem toku rijeke nalaze se mnogi značajni lokaliteti iz vremena Inka, poput Machu Picchua.;Parana;La Plata;Orinoco;Urubamba;Urubamba;geography
+Koja od navedenih država na svom jugozapadu ima pravi pravcati kut od 90 stupnjeva?;Libija;Maroko;Tunis;Egipat;Egipat;geography
+Što se nalazi na Kilimandžaru, ako znamo da je to naslov Hemingway-eva romana?;Snovi;Snijegovi;Duhovi;Blago;Snijegovi;art
+U latinskom jeziku, jedan je brachii, drugi femoris, a osnovno ime su dobili po broju mišićnih glava koje imaju. Koji naziv dijele ova dva mišića?;Biceps;Triceps;Kvadriceps;Gluteus;Biceps;science
+Koji je vokalist Black Sabbatha 1985. predvodio Hear n' Aid, kolaboraciju rock i metal glazbenika u svrhu prikupljanja novca za glad u Africi? Prema nekim navodima, projekt je unutar godinu dana prikupio milijun dolara.;Ronnie James Dio;Ozzy Osbourne;Ian Gillian;Tony Iommi;Ronnie James Dio;art
+Što na hrvatskom jeziku znači "Sinn Fein", ime političkog krila IRA-e?;Mi spremni;Mi sami;Mi složni;Mi jaki;Mi sami;history
+Kako se zovu dvije ploče datirane oko 2. i 3. stoljeća nove ere, napisane na grčkom jeziku, a nađene u blizini današnjeg Rostova u Rusiji? Među imenima napisanima na pločama, nalaze se i ona trojice muškaraca: Horoúathos, Horoáthos, i Horóathos. Ova imena učenjaci smatraju antroponimu nazivu Hrvat.;Hermonašanske ploče;Tanajske ploče;Anapske ploče;Meganske ploče;Tanajske ploče;history
+Koji se njemački fizičar, rođen u Gdansku 1686. godine, spominje u megahitu Queen-a "Don't stop me now"?;Fahrenheit;Kepler;Hertz;Weber;Fahrenheit;art
+Ime ovog začina dolazi iz perzijskog i znači 'cvijet sa zlatnim laticama'.  Najskuplji je začin na svijetu, a da bi se proizvelo jedan kilogram začina, potrebno je ubrati oko 80.000 do 150.000 cvjetova na površini od oko 1000 četvornih metara. O kojem je začinu riječ?;cimet;šafran;koromač;klinčić;šafran;geography
+Površinom od skoro 20.000 kilometara kvadratnih, jedan je od najvećih rezervata u Africi. Nalazi se u sjeveroistočnom dijelu Južnoafričke republike, a 1926. postao je prvi južnoafrički nacionalni park. Kako se zove ovaj rezervat s nekih 1.500.000 posjetitelja godišnje?;Luangwa;Kruger;Serengeti;Etosha;Kruger;geography
+Čija je predstava "Mišolovka", koja drži rekord najdužeg prikazivanja u Londonu, s preko 25000 odigranih predstava?;Maria Puzo;Agatha Christie;Jo Nesbo;Edgar Wallace;Agatha Christie;art
