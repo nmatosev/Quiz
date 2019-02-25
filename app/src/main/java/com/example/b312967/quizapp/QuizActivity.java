@@ -27,7 +27,7 @@ import java.util.Map;
 public class QuizActivity extends Activity {
 
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
-    int score=0;
+    int score = 0;
     int questionCounter = 1;
     int listElementNumber = 1;
 
@@ -42,8 +42,9 @@ public class QuizActivity extends Activity {
         DataHandler dataHandler = new DataHandler();
         dataHandler.addQuestions();
         questionMap = dataHandler.getQuestionMap();
-        for(Map.Entry<String, List<Question>> entry:questionMap.entrySet())
+        for(Map.Entry<String, List<Question>> entry : questionMap.entrySet()){
             Collections.shuffle(entry.getValue());
+        }
 
         txtQuestion=(TextView)findViewById(R.id.tv);
         rda=(RadioButton)findViewById(R.id.radioButton);
@@ -53,8 +54,8 @@ public class QuizActivity extends Activity {
 
         butNext=(Button)findViewById(R.id.btnnext);
         Bundle extras = getIntent().getExtras();
-        final Integer pozicija=Integer.valueOf(extras.getString("pozicija"));
-        switch(pozicija) {
+        final Integer position=Integer.valueOf(extras.getString("pozicija"));
+        switch(position) {
             case 0:
                 setQuestionView("history", 0);
                 break;
@@ -70,25 +71,38 @@ public class QuizActivity extends Activity {
             case 4:
                 setQuestionView("art", 0);
                 break;
+            case 5:
+                setQuestionView("music", 0);
+                break;
+            case 6:
+                setQuestionView("movie", 0);
+                break;
         }
 
         butNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                RadioGroup grp=(RadioGroup)findViewById(R.id.radioGroup1);
-                RadioButton answer=(RadioButton)findViewById(grp.getCheckedRadioButtonId());
+                RadioGroup radioGroup = (RadioGroup)findViewById(R.id.radioGroup1);
+                RadioButton answer=(RadioButton)findViewById(radioGroup.getCheckedRadioButtonId());
 
                 try {
-                    if (pozicija == 0)
-                        validateAnswerAndGoToNext(answer.getText().toString(), grp, "history");
-                    else if (pozicija == 1)
-                        validateAnswerAndGoToNext(answer.getText().toString(), grp, "sport");
-                    else if (pozicija == 2)
-                        validateAnswerAndGoToNext(answer.getText().toString(), grp, "geography");
-                    else if (pozicija == 3)
-                        validateAnswerAndGoToNext(answer.getText().toString(), grp, "science");
-                    else if (pozicija == 4)
-                        validateAnswerAndGoToNext(answer.getText().toString(), grp, "art");
+                    if (position == 0)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "history");
+                    else if (position == 1)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "sport");
+                    else if (position == 2)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "geography");
+                    else if (position == 3)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "science");
+                    else if (position == 4)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "art");
+                    else if (position == 5)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "music");
+                    else if (position == 6)
+                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "movie");
+                    //for(int categoryNum = 0; categoryNum < DataStorage.categories.length; categoryNum++){
+                    //    validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, DataStorage.categories[position]);
+                    //}
                 }
                 catch (NullPointerException e) {
                     Toast.makeText(getApplicationContext(),"Odgovor nije označen!",Toast.LENGTH_SHORT).show();
@@ -114,7 +128,7 @@ public class QuizActivity extends Activity {
     }
 
     private void validateAnswerAndGoToNext(String answer, RadioGroup grp, String category){
-        Log.d("odgovor", questionMap.get(category).get(listElementNumber +1).getQUESTION() + " answer " + answer);
+        Log.d("Log Answer", questionMap.get(category).get(listElementNumber +1).getQUESTION() + " answer " + answer);
 
         if (questionMap.get(category).get(listElementNumber -1).getANSWER().equals(answer)) {
             score++;
@@ -122,15 +136,15 @@ public class QuizActivity extends Activity {
         }else{
             showToastIncorrect(questionMap.get(category).get(listElementNumber -1).getANSWER());
         }
-        //GO TO NEXT ONE
+
         if (questionCounter < 5) {
             grp.clearCheck();
             setQuestionView(category, listElementNumber);
         } else {
             Intent intent = new Intent(QuizActivity.this, ResultActivity.class);
             Bundle b = new Bundle();
-            b.putInt("score", score); //Your score
-            intent.putExtras(b); //Put your score to your next Intent
+            b.putInt("score", score);
+            intent.putExtras(b);
             startActivity(intent);
             finish();
         }

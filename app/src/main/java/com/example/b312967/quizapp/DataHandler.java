@@ -18,21 +18,20 @@ import java.util.List;
 public class DataHandler {
 
     List<String> list = new ArrayList<String>(); // lista stringova
-    List<Question> quesList = new ArrayList<Question>(); // lista stringova
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
 
     /**
      * Creates new questions and stores them in question map
      * */
     public void addQuestions() {
-        List<String> questionslist = new ArrayList<String>(); // lista pitanja i odgovora
-        questionslist = ParseFile("res/raw/questions.txt");   // ime text filea
-        String[] question;  // array u kojem ce prvi clan bit pitanje, sljedeca 4 odgovori
+        List<String> questionslist = new ArrayList<String>();
+        questionslist = ParseFile("res/raw/questions.txt");
+        String[] question;
 
         for (int i=0; i<questionslist.size(); i++) {
             question = questionslist.get(i).split(";");
             try {
-                Log.w("question raw: ", question[0] + question[1] + question[2] + question[3] + question[4] + question[5]+ question[6]);
+                Log.w("Question log: ", question[0] + question[1] + question[2] + question[3] + question[4] + question[5]+ question[6]);
                 verifyQuestion(question);
                 fillQuestionMap(question);
             }catch(Exception e) {
@@ -100,19 +99,25 @@ public class DataHandler {
     }
 
 
+    /**
+     * Parses raw file with questions and stores them in a list.
+     * @param filename
+     * @return
+     */
     public List<String> ParseFile(String filename){
         InputStream in = this.getClass().getClassLoader().getResourceAsStream(filename);
         BufferedReader reader = new BufferedReader(new InputStreamReader(in));
-        String str; // string u kojem je pitanje (linija text filea)
+        String lineInFile; // string u kojem je pitanje (linija text filea)
         try {
-            while ((str = reader.readLine()) != null) {
-                list.add(str);
+            while ((lineInFile = reader.readLine()) != null) {
+                list.add(lineInFile);
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
         return list;
     }
+
 
     public void fillQuestionMap(String[] separated){
         if(questionMap.containsKey(separated[6])){

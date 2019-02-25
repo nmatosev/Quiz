@@ -32,8 +32,7 @@ public class Question {
             ANSWER = aNSWER;
             CATEGORY = cATEGORY;
         }
-        public int getID()
-        {
+        public int getID() {
             return ID;
         }
         public String getCATEGORY() {
