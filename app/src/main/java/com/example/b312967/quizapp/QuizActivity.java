@@ -27,6 +27,8 @@ import java.util.Map;
 public class QuizActivity extends Activity {
 
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
+    String[] categories = {"history", "sport", "geography", "science", "art", "music", "movie"};
+
     int score = 0;
     int questionCounter = 1;
     int listElementNumber = 1;
@@ -86,23 +88,11 @@ public class QuizActivity extends Activity {
                 RadioButton answer=(RadioButton)findViewById(radioGroup.getCheckedRadioButtonId());
 
                 try {
-                    if (position == 0)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "history");
-                    else if (position == 1)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "sport");
-                    else if (position == 2)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "geography");
-                    else if (position == 3)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "science");
-                    else if (position == 4)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "art");
-                    else if (position == 5)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "music");
-                    else if (position == 6)
-                        validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, "movie");
-                    //for(int categoryNum = 0; categoryNum < DataStorage.categories.length; categoryNum++){
-                    //    validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, DataStorage.categories[position]);
-                    //}
+                    for(int categoryNum = 0; categoryNum < categories.length; categoryNum++){
+                        if(position == categoryNum){
+                            validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, categories[position]);
+                        }
+                    }
                 }
                 catch (NullPointerException e) {
                     Toast.makeText(getApplicationContext(),"Odgovor nije označen!",Toast.LENGTH_SHORT).show();
