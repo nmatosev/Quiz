@@ -2,10 +2,6 @@ package com.example.b312967.quizapp;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.ColorFilter;
-import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -22,7 +18,7 @@ import java.util.Map;
 
 /**
  * Created by Neno on 23.12.2015..
- * Main activity where questions are shown and answers verified.
+ * Activity where questions are shown and answers verified.
  */
 public class QuizActivity extends Activity {
 
@@ -110,21 +106,21 @@ public class QuizActivity extends Activity {
     }
 
     private void setQuestionView(String category, int questionNumber) {
-        txtQuestion.setText(questionMap.get(category).get(questionNumber).getQUESTION());
-        rda.setText(questionMap.get(category).get(questionNumber).getOPTA());
-        rdb.setText(questionMap.get(category).get(questionNumber).getOPTB());
-        rdc.setText(questionMap.get(category).get(questionNumber).getOPTC());
-        rdd.setText(questionMap.get(category).get(questionNumber).getOPTD());
+        txtQuestion.setText(questionMap.get(category).get(questionNumber).getQuestion());
+        rda.setText(questionMap.get(category).get(questionNumber).getOptionA());
+        rdb.setText(questionMap.get(category).get(questionNumber).getOptionB());
+        rdc.setText(questionMap.get(category).get(questionNumber).getOptionC());
+        rdd.setText(questionMap.get(category).get(questionNumber).getOptionD());
     }
 
     private void validateAnswerAndGoToNext(String answer, RadioGroup grp, String category){
-        Log.d("Log Answer", questionMap.get(category).get(listElementNumber +1).getQUESTION() + " answer " + answer);
+        Log.d("Log Answer", questionMap.get(category).get(listElementNumber +1).getQuestion() + " answer " + answer);
 
-        if (questionMap.get(category).get(listElementNumber -1).getANSWER().equals(answer)) {
+        if (questionMap.get(category).get(listElementNumber -1).getAnswer().equals(answer)) {
             score++;
             showToastCorrect();
         }else{
-            showToastIncorrect(questionMap.get(category).get(listElementNumber -1).getANSWER());
+            showToastIncorrect(questionMap.get(category).get(listElementNumber -1).getAnswer());
         }
 
         if (questionCounter < 5) {

@@ -15,7 +15,7 @@ import android.widget.Button;
 import android.widget.ListView;
 
 /**
- * Menu activity.
+ * Menu activity where user can scroll through categories.
  */
 public class MainActivity extends AppCompatActivity {
 

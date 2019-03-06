@@ -13,11 +13,11 @@ import java.util.List;
 
 /**
  * Created by neno on 23.12.2015.
- * Class responsible for parsing questions from file, verifying them and storing them in question map
+ * Class responsible for parsing questions from file, verifying them and storing them in question map.
  */
 public class DataHandler {
 
-    List<String> list = new ArrayList<String>(); // lista stringova
+    List<String> list = new ArrayList<String>();
     HashMap<String, List<Question>> questionMap = new HashMap<String, List<Question>>();
 
     /**
@@ -25,7 +25,7 @@ public class DataHandler {
      * */
     public void addQuestions() {
         List<String> questionslist = new ArrayList<String>();
-        questionslist = ParseFile("res/raw/questions.txt");
+        questionslist = parseFile("res/raw/questions.txt");
         String[] question;
 
         for (int i=0; i<questionslist.size(); i++) {
@@ -43,9 +43,10 @@ public class DataHandler {
     /**
      * Verifies that question has a 4 answers and an question
      * @param question
+     *        Question instance broken down to array of strings.
      */
     private void verifyQuestion(String[] question) {
-        String[] categories = {"geography", "history", "sport", "art", "science"};
+        String[] categories = {"geography", "history", "sport", "art", "science", "music", "movie"};
         try {
             checkNumberOfElementsInList(question);
             checkIfCategoryIsCorrect(question[6], categories);
@@ -58,6 +59,7 @@ public class DataHandler {
     /**
      * Checks if there is an correct answer.
      * @param question
+     *        Question instance broken down to array of strings.
      */
     private void checkIfCorrectAnswerExists(String[] question) {
         boolean isCorrectAnswerFound = false;
@@ -74,6 +76,7 @@ public class DataHandler {
     /**
      * Check if question array has correct size.
      * @param question
+     *        Question instance broken down to array of strings.
      */
     private void checkNumberOfElementsInList(String[] question) {
         if(question.length!=7){
@@ -104,10 +107,10 @@ public class DataHandler {
      * @param filename
      * @return
      */
-    public List<String> ParseFile(String filename){
+    public List<String> parseFile(String filename){
         InputStream in = this.getClass().getClassLoader().getResourceAsStream(filename);
         BufferedReader reader = new BufferedReader(new InputStreamReader(in));
-        String lineInFile; // string u kojem je pitanje (linija text filea)
+        String lineInFile;
         try {
             while ((lineInFile = reader.readLine()) != null) {
                 list.add(lineInFile);

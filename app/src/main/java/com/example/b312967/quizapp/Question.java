@@ -4,82 +4,87 @@ package com.example.b312967.quizapp;
  * Created by neno on 28.4.2017..
  */
 public class Question {
-        private String CATEGORY;
+        private String category;
         private int ID;
-        private String QUESTION;
-        private String OPTA;
-        private String OPTB;
-        private String OPTC;
-        private String OPTD;
-
-        private String ANSWER;
+        private String question;
+        private String optionA;
+        private String optionB;
+        private String optionC;
+        private String optionD;
+        private String answer;
         public Question() {
             ID=0;
-            QUESTION="";
-            OPTA="";
-            OPTB="";
-            OPTC="";
-            OPTD="";
-            ANSWER="";
-            CATEGORY = "";
+            question ="";
+            optionA ="";
+            optionB ="";
+            optionC ="";
+            optionD ="";
+            answer ="";
+            category = "";
         }
-        public Question(String qUESTION, String oPTA, String oPTB, String oPTC, String oPTD, String aNSWER, String cATEGORY) {
-            QUESTION = qUESTION;
-            OPTA = oPTA;
-            OPTB = oPTB;
-            OPTC = oPTC;
-            OPTD = oPTD;
-            ANSWER = aNSWER;
-            CATEGORY = cATEGORY;
+        public Question(String question, String optionA, String optionB, String optionC, String optionD, String answer, String category) {
+            this.question = question;
+            this.optionA = optionA;
+            this.optionB = optionB;
+            this.optionC = optionC;
+            this.optionD = optionD;
+            this.answer = answer;
+            this.category = category;
         }
         public int getID() {
             return ID;
         }
-        public String getCATEGORY() {
-        return CATEGORY;
-    }
-        public String getQUESTION() {
-            return QUESTION;
+
+        public String getCategory() {
+            return category;
         }
-        public String getOPTA() {
-            return OPTA;
+        public String getQuestion() {
+            return question;
         }
-        public String getOPTB() {
-            return OPTB;
+        public String getOptionA() {
+            return optionA;
         }
-        public String getOPTC() {
-            return OPTC;
+        public String getOptionB() {
+            return optionB;
         }
-        public String getOPTD() {
-            return OPTD;
+        public String getOptionC() {
+            return optionC;
         }
-        public String getANSWER() {
-            return ANSWER;
+        public String getOptionD() {
+            return optionD;
         }
-        public void setID(int id)
-        {
+        public String getAnswer() {
+            return answer;
+        }
+        public void setID(int id) {
             ID=id;
         }
-        public void setQUESTION(String qUESTION) {
-            QUESTION = qUESTION;
-        }
-        public void setOPTA(String oPTA) {
-            OPTA = oPTA;
-        }
-        public void setOPTB(String oPTB) {
-            OPTB = oPTB;
-        }
-        public void setOPTC(String oPTC) {
-            OPTC = oPTC;
-        }
-        public void setOPTD(String oPTD) {
-            OPTD = oPTD;
-        }
-        public void setANSWER(String aNSWER) {
-            ANSWER = aNSWER;
-        }
-        public void setCATEGORY(String cATEGORY) {
-            CATEGORY = cATEGORY;
+
+        public void setQuestion(String question) {
+            this.question = question;
         }
 
+        public void setOptionA(String optionA) {
+            this.optionA = optionA;
+        }
+
+        public void setOptionB(String optionB) {
+            this.optionB = optionB;
+        }
+
+        public void setOptionC(String optionC) {
+            this.optionC = optionC;
+        }
+
+        public void setOptionD(String optionD) {
+            this.optionD = optionD;
+        }
+
+        public void setAnswer(String answer) {
+            this.answer = answer;
+        }
+
+        public void setCategory(String category) {
+            this.category = category;
+        }
 }

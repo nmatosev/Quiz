@@ -10,7 +10,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
- * Created by b312967 on 23.12.2015..
+ * Created by b312967 on 23.12.2015.
+ * Purpose of this adapter is creating list of categories in Main activity.
  */
 public class Adapter extends BaseAdapter{
 
@@ -47,7 +48,7 @@ public class Adapter extends BaseAdapter{
         final ImageView imageTmb = (ImageView) convertView.findViewById(R.id.image_tmb);
         final Category category = DataStorage.listViewData.get(position);
         Log.d("Scroll", String.valueOf(position));
-        ime.setText(category.getIme());
+        ime.setText(category.getCategoryName());
         imageTmb.setImageResource(category.getTmbImageId(mContext));
 
         return convertView;
