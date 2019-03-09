@@ -13,15 +13,15 @@ import android.widget.TextView;
 /**
  * Activity where final result is shown.
  */
-public class ResultActivity extends Activity{
+public class ResultActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.result);
-        TextView textView=(TextView)findViewById(R.id.tvresult);
-        Button returnButton = (Button)findViewById(R.id.returnButton);
+        TextView textView = (TextView) findViewById(R.id.tvresult);
+        Button returnButton = (Button) findViewById(R.id.returnButton);
         Bundle bundle = getIntent().getExtras();
-        int score= bundle.getInt("score");
+        int score = bundle.getInt("score");
         Log.d("Result", "" + score);
         textView.setText("Točno je odgovoreno na " + score + " od 5 pitanja");
 
@@ -33,6 +33,5 @@ public class ResultActivity extends Activity{
             }
         });
     }
-
 }
 

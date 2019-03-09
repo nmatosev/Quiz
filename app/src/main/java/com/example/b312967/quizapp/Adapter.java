@@ -13,7 +13,7 @@ import android.widget.TextView;
  * Created by b312967 on 23.12.2015.
  * Purpose of this adapter is creating list of categories in Main activity.
  */
-public class Adapter extends BaseAdapter{
+public class Adapter extends BaseAdapter {
 
     private Context mContext;
     private LayoutInflater mInflater;
@@ -40,7 +40,7 @@ public class Adapter extends BaseAdapter{
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        if(convertView == null){
+        if (convertView == null) {
             convertView = mInflater.inflate(R.layout.list_view_single_item, parent, false);
         }
 

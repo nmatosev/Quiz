@@ -10,8 +10,8 @@ public class DataStorage {
     public static HashMap<Integer, Category> listViewData = new HashMap<Integer, Category>();
 
     public static void fillData() {
-        for(int i = 0; i < categories.length; i++){
-            Category category = new Category(i , categories[i]);
+        for (int i = 0; i < categories.length; i++) {
+            Category category = new Category(i, categories[i]);
             listViewData.put(i, category);
         }
     }

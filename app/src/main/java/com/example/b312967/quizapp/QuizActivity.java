@@ -30,8 +30,9 @@ public class QuizActivity extends Activity {
     int listElementNumber = 1;
 
     TextView txtQuestion;
-    RadioButton rda, rdb, rdc, rdd;
+    RadioButton radioButtonA, radioButtonB, radioButtonC, radioButtonD;
     Button butNext;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -40,24 +41,24 @@ public class QuizActivity extends Activity {
         DataHandler dataHandler = new DataHandler();
         dataHandler.addQuestions();
         questionMap = dataHandler.getQuestionMap();
-        for(Map.Entry<String, List<Question>> entry : questionMap.entrySet()){
+        for (Map.Entry<String, List<Question>> entry : questionMap.entrySet()) {
             Collections.shuffle(entry.getValue());
         }
 
-        txtQuestion=(TextView)findViewById(R.id.tv);
-        rda=(RadioButton)findViewById(R.id.radioButton);
-        rdb=(RadioButton)findViewById(R.id.radioButton2);
-        rdc=(RadioButton)findViewById(R.id.radioButton3);
-        rdd=(RadioButton)findViewById(R.id.radioButton4);
+        txtQuestion = (TextView) findViewById(R.id.tv);
+        radioButtonA = (RadioButton) findViewById(R.id.radioButton);
+        radioButtonB = (RadioButton) findViewById(R.id.radioButton2);
+        radioButtonC = (RadioButton) findViewById(R.id.radioButton3);
+        radioButtonD = (RadioButton) findViewById(R.id.radioButton4);
 
-        butNext=(Button)findViewById(R.id.btnnext);
+        butNext = (Button) findViewById(R.id.btnnext);
         Bundle extras = getIntent().getExtras();
-        final Integer position=Integer.valueOf(extras.getString("pozicija"));
-        switch(position) {
+        final Integer position = Integer.valueOf(extras.getString("listElement"));
+        switch (position) {
             case 0:
                 setQuestionView("history", 0);
                 break;
-            case  1:
+            case 1:
                 setQuestionView("sport", 0);
                 break;
             case 2:
@@ -80,47 +81,46 @@ public class QuizActivity extends Activity {
         butNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                RadioGroup radioGroup = (RadioGroup)findViewById(R.id.radioGroup1);
-                RadioButton answer=(RadioButton)findViewById(radioGroup.getCheckedRadioButtonId());
+                RadioGroup radioGroup = (RadioGroup) findViewById(R.id.radioGroup1);
+                RadioButton answer = (RadioButton) findViewById(radioGroup.getCheckedRadioButtonId());
 
-                try {
-                    for(int categoryNum = 0; categoryNum < categories.length; categoryNum++){
-                        if(position == categoryNum){
+                if (answer != null) {
+                    for (int categoryNum = 0; categoryNum < categories.length; categoryNum++) {
+                        if (position == categoryNum) {
                             validateAnswerAndGoToNext(answer.getText().toString(), radioGroup, categories[position]);
                         }
                     }
-                }
-                catch (NullPointerException e) {
-                    Toast.makeText(getApplicationContext(),"Odgovor nije označen!",Toast.LENGTH_SHORT).show();
+                } else {
+                    Toast.makeText(getApplicationContext(), "Odgovor nije označen!", Toast.LENGTH_SHORT).show();
                 }
             }
         });
     }
 
-    private void showToastCorrect(){
+    private void showToastForCorrectAnswer() {
         Toast.makeText(getApplicationContext(), "Točan odgovor!", Toast.LENGTH_SHORT).show();
     }
 
-    private void showToastIncorrect(String answer){
+    private void showToastForIncorrectAnswer(String answer) {
         Toast.makeText(getApplicationContext(), "Netočan odgovor! Točan odgovor je " + answer, Toast.LENGTH_SHORT).show();
     }
 
     private void setQuestionView(String category, int questionNumber) {
         txtQuestion.setText(questionMap.get(category).get(questionNumber).getQuestion());
-        rda.setText(questionMap.get(category).get(questionNumber).getOptionA());
-        rdb.setText(questionMap.get(category).get(questionNumber).getOptionB());
-        rdc.setText(questionMap.get(category).get(questionNumber).getOptionC());
-        rdd.setText(questionMap.get(category).get(questionNumber).getOptionD());
+        radioButtonA.setText(questionMap.get(category).get(questionNumber).getOptionA());
+        radioButtonB.setText(questionMap.get(category).get(questionNumber).getOptionB());
+        radioButtonC.setText(questionMap.get(category).get(questionNumber).getOptionC());
+        radioButtonD.setText(questionMap.get(category).get(questionNumber).getOptionD());
     }
 
-    private void validateAnswerAndGoToNext(String answer, RadioGroup grp, String category){
-        Log.d("Log Answer", questionMap.get(category).get(listElementNumber +1).getQuestion() + " answer " + answer);
+    private void validateAnswerAndGoToNext(String answer, RadioGroup grp, String category) {
+        Log.d("Log Answer", questionMap.get(category).get(listElementNumber + 1).getQuestion() + " answer " + answer);
 
-        if (questionMap.get(category).get(listElementNumber -1).getAnswer().equals(answer)) {
+        if (questionMap.get(category).get(listElementNumber - 1).getAnswer().equals(answer)) {
             score++;
-            showToastCorrect();
-        }else{
-            showToastIncorrect(questionMap.get(category).get(listElementNumber -1).getAnswer());
+            showToastForCorrectAnswer();
+        } else {
+            showToastForIncorrectAnswer(questionMap.get(category).get(listElementNumber - 1).getAnswer());
         }
 
         if (questionCounter < 5) {

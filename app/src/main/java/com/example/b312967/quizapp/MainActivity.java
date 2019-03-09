@@ -24,16 +24,16 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ListView myListView = (ListView)findViewById(R.id.myListView);
+        ListView myListView = (ListView) findViewById(R.id.myListView);
         DataStorage.fillData();
         myListView.setAdapter(new Adapter(getApplicationContext()));
 
         myListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-              public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                  Intent intent = new Intent(view.getContext(), QuizActivity.class);
-                  intent.putExtra("pozicija", String.valueOf(i));
-                  startActivity(intent);
-              }
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Intent intent = new Intent(view.getContext(), QuizActivity.class);
+                intent.putExtra("listElement", String.valueOf(i));
+                startActivity(intent);
+            }
         });
     }
 
