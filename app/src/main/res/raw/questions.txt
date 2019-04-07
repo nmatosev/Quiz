@@ -1049,3 +1049,22 @@ Koji se njemački fizičar, rođen u Gdansku 1686. godine, spominje u megahitu Q
 Ime ovog začina dolazi iz perzijskog i znači 'cvijet sa zlatnim laticama'.  Najskuplji je začin na svijetu, a da bi se proizvelo jedan kilogram začina, potrebno je ubrati oko 80.000 do 150.000 cvjetova na površini od oko 1000 četvornih metara. O kojem je začinu riječ?;cimet;šafran;koromač;klinčić;šafran;geography
 Površinom od skoro 20.000 kilometara kvadratnih, jedan je od najvećih rezervata u Africi. Nalazi se u sjeveroistočnom dijelu Južnoafričke republike, a 1926. postao je prvi južnoafrički nacionalni park. Kako se zove ovaj rezervat s nekih 1.500.000 posjetitelja godišnje?;Luangwa;Kruger;Serengeti;Etosha;Kruger;geography
 Čija je predstava "Mišolovka", koja drži rekord najdužeg prikazivanja u Londonu, s preko 25000 odigranih predstava?;Maria Puzo;Agatha Christie;Jo Nesbo;Edgar Wallace;Agatha Christie;art
+Koji se autor može povezati s fiktivnim jezikom Quenya?;J.R.R. Tolkien;George R.R. Martin;Stephen King;C. S. Lewis;J.R.R. Tolkien;art
+Sportaše kojeg elitnog sveučilišta ne možemo pronaći na natjecanju Ivy League, jer se nalazi u Kaliforniji, a ovo natjecanje je rezervirano za 8 sveučilišta sa sjeveroistoka?;Princeton;Stanford;Yale;Harvard;Stanford;geography
+Dong Tao je kokoš koja se uzgaja u Vijetnamu a karakteristična je po svojim:;Vrlo kratkim krilima;Vrlo debelim nogama;Vrlo velikim očima;Vrlo velikom kljunu;Vrlo debelim nogama;geography
+Kako se zove otok na kojem su zatvorenici bili nekadašnja tri predsjednika Južnoafričke Republike – Nelson Mandela, Kgalema Motlanthe i Jacob Zuma?;Robben;Sneijder;Van Persie;Overmars;Robben;history
+Koja se skraćenica koristi za bol ili ukočenost u mišiću koja može trajati danima, čiji simptomi obično nastupaju nakon intenzivnog vježbanja ili nenaviknutosti mišića treningu?;DOMS;DOOM;SOMD;SODS;DOMS;science
+Gdje ćemo se zaputiti ako se poželimo popeti na Dilj?;U Zagorje;U Slavoniju;U Istru;U Liku;U Slavoniju;geography
+Koji fiktivni lik se nalazi na djelu naslikanim uljem na platnu autora Roya Lichtensteina iz 1961.? Ovo djelo se smatra revolucionarnim i u napretku pop arta, ali i moderne umjetnosti.;Bambi;Mickey Mouse;Winnie The Pooh;Popeye;Mickey Mouse;art
+Što je od sljedećeg najteže?;1 jotagram;1 eksagram;1 zetagram;1 teragram;1 jotagram;science
+Koji europski poluotok se nalazi u imenu za starovjekovno gruzijsko kraljevstvo Kartli (4. st. pr. Kr. - 5. st.)?;Apeninija;Iberija;Skandinavija;Balkan;Iberija;history
+"Let’s dance in style, let’s dance for a while", početni je stih pjesme “Forever Young”. Ona zapravo govori o:;Bijegu iz umobolnice;Mrtvom narkomanu;Nuklearnom ratu;Buđenju iz kome;Nuklearnom ratu;music
+Koji se borilački sport još zove i 'umjetnost osam udova' pošto je karakteriziran kombiniranom upotrebom šaka, lakata, koljena i potkoljenica?;Muay Thai;Jiu-Jitsu;Kung Fu;Judo;Muay Thai;sport
+Kako se prezivao japanski ratni premijer koji je 1948. skončao svoj život na vješalima?;Mojo;Jojo;Tojo;Hojo;Tojo;history
+Gdje ćemo se zaputiti ako poželimo vidjeti Brusje?;Na Šoltu;Na Hvar;Na Korčulu;Na Vis;Na Hvar;geography
+Koje je nacionalnosti bio čovjek poznat pod nadimcima Gurudev i Kabiguru, a 1913. je postao prvi neeuropljanin koji je osvojio Nobelovu nagradu za književnost?;Japanske;Iranske;Indijske;Pakistanske;Indijske;art
+Djelo 'La Bateau' kojeg umjetnika od navedenih je visjelo naopako čak 47 dana u Muzeju moderne umjetnosti u New Yorku prije nego je greška zamijećena?;Gustava Courbeta;Henria Matissea;Georges Braque;Joana Miroa;Henria Matissea;art
+U kojoj inačici Zvjezdanih staza brodom Enterprise zapovijeda kapetan Picard?;Next Generation;Deep Space Nine;Voyager;Enterprise;Next Generation;movie
+Ako nekom Poljaku kažete da ste iz države koju oni zovu Wlochy, tada je riječ o kojoj državi?;Francuskoj;Njemačkoj;Italiji;Rumunjskoj;Italiji;art
+U kultnom humorističnom filmu 'Spinal Tap', gitarist istoimenog benda demonstrira pojačalo na kojem volumen može ići od 0 do:;9;10;11;12;11;movie
+U kojoj se državi nalazi selo najpoznatije po otkrićima novih elemenata u 18. i 19. stoljeću? Elementi otkriveni su dobili i imena po mjestu: Itrij, Iterbij, Erbij i Terbij.;U Poljskoj;U Belgiji;U Švedskoj;U Rusiji;U Švedskoj;science
