@@ -1068,3 +1068,20 @@ U kojoj inačici Zvjezdanih staza brodom Enterprise zapovijeda kapetan Picard?;N
 Ako nekom Poljaku kažete da ste iz države koju oni zovu Wlochy, tada je riječ o kojoj državi?;Francuskoj;Njemačkoj;Italiji;Rumunjskoj;Italiji;art
 U kultnom humorističnom filmu 'Spinal Tap', gitarist istoimenog benda demonstrira pojačalo na kojem volumen može ići od 0 do:;9;10;11;12;11;movie
 U kojoj se državi nalazi selo najpoznatije po otkrićima novih elemenata u 18. i 19. stoljeću? Elementi otkriveni su dobili i imena po mjestu: Itrij, Iterbij, Erbij i Terbij.;U Poljskoj;U Belgiji;U Švedskoj;U Rusiji;U Švedskoj;science
+Ako London možemo pronaći u Ohiu, Pariz u Teksasu, Amsterdam u New Yorku, u kojoj saveznoj državi možemo pronaći Oslo, ako znamo da se u toj državi odvijala većina radnje jednog remek-dijela braće Cohen?;Minnesota;Ohio;Michigan;Oregon;Minnesota;movie
+Koliko je dana u životu Ivana Denisoviča opisao roman Aleksandra Solženjicina?;1;10;100;1000;1;art
+Koju je sapunicu opjevao bend Rokeri s Moravu, koji je prašio po bivšoj državi 80-ih?;Santa Barbaru;Dallas;Dinastiju;Marisol;Dinastiju;music
+Koji poznati glumac je maestralno odigrao ulogu dječaka Jamesa Grahama u filmu “Carstvo sunca” iz 1987. godine?;Edward Norton;Christian Bale;Benedict Cumberbatch;Matt Damon;Christian Bale;movie
+Što u ustima ima Jin Chan, žaba s crvenim očima, raširenim nosnicama i samo jednom stražnjom nogom?;novčić;konop;svijet;ribu;novčić;art
+Kako se zvao savez grčkih polisa koji je nastao u 5. stoljeću pr. Kr. te se na njegovom čelu nalazila Atena?;Delski savez;Korintski savez;Peloponeski savez;Mikenski savez;Delski savez;history
+Forest Gump, lik koji je unatoč nedostatku intelekta uspio „pokoriti“ svijet, je imao samo jednu pravu ljubav u svom životu. Kako se ona zvala?;Amber;Elsa;Jenny;Sarah;Jenny;movie
+Kako se zvao utjecajni njemački umjetnički časopis koji izlazio između 1910. godine i 1932. godine? U njemu smo mogli vidjeti ekspresionistička, dadaistička, kubistička i nadrealistička djela, a imao je veliki utjecaj na Antuna Branka Šimića?;Der Drang;Der Sturm;Der Siltz;Der Himmel;Der Sturm;art
+Koliko New Delhi, glavni grad Indije, ima stanovnika?;Otprilike 300 tisuća;Otprilike 3 milijuna;Otprilike 10 milijuna;Otprilike 30 milijuna;Otprilike 300 tisuća;geography
+Koji specijaltet će vam konobar donijeti ako na Sardiniji naručite "Casu Marzu"?;slani sladoled;sir sa crvima;tjesteninu sa šlagom,pohane žabe;sir sa crvima;geography
+Koja je vrsta talijanskog sira dobila ime po istoimenom mjestašcu u Lombardiji udaljenom 20 km od Milana? Pripada među najstarije sireve, a prvi pisani dokazi o njegovom postojanju potječu iz 879. godine.;Gorgonzola;Mozzarella;Mascarpone;Pecorino;Gorgonzola;geography
+Koju ćemo bivšu sovjetsku državu posjetiti ako poželimo vidjeti Nahičevan?;Kirgistan;Gruziju;Azerbajdžan;Kazahstan;Azerbajdžan;geography
+Bob Beamon je toliko rasturio u jednoj disciplini na OI u Mexico City-u 1968. da i danas drži olimpijski rekord u toj disciplini. O kojoj je disciplini riječ?;Brzo hodanje na 20 km;Bacanju diska;Skoku u dalj;maraton;Skok u dalj;sport
+Svi smo je kao djeca sigurno napravili od kolaža ili papira, a može se dobiti tako da se jedna strana pravokutne trake zarotira za 180 stupnjeva i zalijepi sa suprotnom stranom. Dobila je ime po njemačkom matematičaru i astronomu, iako se mogla vidjeti puno ranije u rimskim mozaicima. Koje je njeno ime?;Pfaffova traka;Mobiusova traka;Fiedlerova traka;Gaussova traka;Mobiusova traka;science
+1979. godine je osnovan bend “Šporko šalaporko i njegove žaluzine”, ali članovi ubrzo mijenjaju ime sastava u…;Azra;Film;Prljavo Kazalište;Aerodrom;Film;music
+Ribe imena Pacu, srodne su piranama, no za razliku od njih ne hrane se mesom, nego uglavnom biljkama. Zanimljiva činjenica u vezi ovih riba je to da imaju:;Peraje u obliku ljudskih dlanova;Uši nalik na ljudske;Zube nalik na ljudske;dišu na pluća;Zube nalik na ljudske;science
+Koji element je najzastupljeniji u Zemljinoj kori?;Kisik;Silicij;Kalcij;Aluminij;Kisik;science
