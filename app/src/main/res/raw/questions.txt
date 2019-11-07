@@ -1113,3 +1113,20 @@ Znamo da je narod Han većinski narod u Kini i kad kažemo "Kinezi", mislimo na 
 S atomskim brojem 76, koji je najgušći u prirodi poznati kemijski element, čiji kubni metar ima masu od oko 22,5 tone?;tricij;indij;renij;osmij;osmij;science
 Pierre-Emerick Aubameyang, zvijezda Arsenala, a prije toga Borussije Dortmund i Saint-Étiennea, rođen je u Francuskoj, majka mu je Španjolka i mogao je igrati za bilo koju od tih reprezentacija. Ipak, odlučio se za domovinu svojeg oca i tamo je kapetan i najbolji strijelac u povijesti. U reprezentaciji koje to afričke države?;Gana;Gabon;Uganda;Alžir;Gabon;sport
 U kojoj se zemlji nalazite ako joj je internet domena .dz, pozivni broj +213, a jelo u restoranu ćete platiti dinarima?;Mali;Tunis;Čad;Alžir;Alžir;geography
+U kojem se velegradu nalazi aerodrom nazvan po Antôniju Carlosu Jobimu, autoru pjesme o "visokoj, osunčanoj, mladoj i ljupkoj" djevojci iz elitnog dijela tog grada?;Bogoti;Rio de Janeiru;Buenos Airesu;Mexico Cityju;Rio de Janeiru;geography
+Iz koje države dolaze specijaliteti specijaliteti khao phat i kaeng khiao wan?;Malezija;Vijetnam;Tajland;Kina;Tajland;geography
+Što je Thomas, protagonist ekraniziranih dječjih knjiga britanskog svećenika Wilberta Awdryja?;automobil;motocikl;avion;vlak;vlak;art
+Koji lik iz Igre prijestolja se pojavljuje u najviše epizoda, njih čak 67?;Cersei Lannister;Jon Snow;Tyrion Lannister;Bran Stark;Tyrion Lannister;movie
+Koji prefiks, a u biti kraticu, imaju u imenu brodovi britanske mornarice još od 18. stoljeća?;HRM;HMS;HMR;HRS;HMS;history
+Ovo je jedan od derbija između dva gradska rivala koja su u samom vrhu klubskog nogometa svog kontinenta. Znao se igrati pred 120 000 gledatelja, ali i pred praznim tribinama. Počesto ga zbog pritisaka sude i strani suci. U kojem se gradu igra gradski derbi između Zamaleka i Al Ahlya?;Khartoum;Kairo;Riad;Muscat;Kairo;sport
+Majka ovog nogometaša je toliko cijenila Josipa Broza Tita da je ovom nogometašu dala nadimak “Tito”. O kojem se nogometašu radi?;Didier Drogba;Samuel Eto’o;Jay-Jay Okocha;Yaya Toure;Didier Drogba;sport
+Koji se član obitelji nalazi u imenu prvog hrvatskog SF-a za djecu, a govori o životu djevojčice Une i tom članu obitelji kojeg su oteli vanzemaljci?;dida;mater;baba;ćaća;dida;movie
+Koja od grčkih muza je zaštitnica povijesti i junačkog pjesništva?;Euterpa;Erato;Klio;Melpomena;Klio;history
+Koja od grčkih muza je zaštitnica epskog pjesništva i govorništva?;Kaliopa;Erato;Klio;Melpomena;Kaliopa;history
+Koja od grčkih muza je zaštitnica tragedije? Atributi su joj tragična maska, koturni, bršljanov vijenac. ;Kaliopa;Erato;Klio;Melpomena;Melpomena;history
+Koja od grčkih muza je zaštitnica komedije? Atributi su joj komična maska, pastirski štap, bršljanov vijenac. ;Kaliopa;Erato;Talija;Melpomena;Talija;history
+Koji nadimak za svoje ime nosi otok i arheološki lokalitet u južnom Egiptu, s kojeg je premješten kompleks hramova pod zaštitom UNESCO-a?;Duje;File;Mate;Jale;File;history
+Andros, Mikonos, Siros, Tinos, Santorini,...O kojoj se otočnoj skupini radi?;Dodekanez;Cikladi;Sporadi;Baleari;Cikladi;geography
+Kalki, Giali, Rod, Karpatos, Astipalea. O kojoj se otočnoj skupini radi?;Dodekanez;Cikladi;Sporadi;Baleari;Dodekanez;geography
+Mallorca, Ibiza, Menorca. O kojoj se otočnoj skupini radi?;Dodekanez;Cikladi;Sporadi;Baleari;Baleari;geography
+Flores, Terceira, Pico, Corvo. O kojoj se otočnoj skupini radi?;Azori;Cikladi;Sporadi;Baleari;Azori;geography
