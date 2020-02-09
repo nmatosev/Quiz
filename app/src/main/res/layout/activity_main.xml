@@ -8,7 +8,8 @@
     <ListView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/myListView" android:layout_gravity="left|center_vertical"/>
+        android:id="@+id/myListView"
+        android:layout_gravity="left|center_vertical"/>
 </LinearLayout>
 
 

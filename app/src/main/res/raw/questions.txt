@@ -1130,3 +1130,26 @@ Andros, Mikonos, Siros, Tinos, Santorini,...O kojoj se otočnoj skupini radi?;Do
 Kalki, Giali, Rod, Karpatos, Astipalea. O kojoj se otočnoj skupini radi?;Dodekanez;Cikladi;Sporadi;Baleari;Dodekanez;geography
 Mallorca, Ibiza, Menorca. O kojoj se otočnoj skupini radi?;Dodekanez;Cikladi;Sporadi;Baleari;Baleari;geography
 Flores, Terceira, Pico, Corvo. O kojoj se otočnoj skupini radi?;Azori;Cikladi;Sporadi;Baleari;Azori;geography
+U kojoj filmskoj komediji Hugh Grant ne glumi dobricu?;4 vjenčanja i sprovod;Za tvoje plave oči;Dnevnik Bridget Jones;Ja u ljubav vjerujem;Dnevnik Bridget Jones;movie
+Čija je prva pjesnička zbirka najprije tiskana na ćirilici?;Kranjčevićeva;Ujevićeva;Vidrićeva;Matoševa;Matoševa;art
+Legenda kaže da se "crna kraljica" Barbara Celjska nakon smrti pretvorila u koga?;u Medvjeđu kraljicu;u Vučju kraljicu;u Zmijsku kraljicu;u Žablju kraljicu;u Zmijsku kraljicu;history
+Koju životinju Antoine de Saint-Exupery ne spominje u "Malom princu"?;lisicu;zmiju;mačku;slona;mačku;art
+U kojem je organu smještena arteria renalis?;u mozgu;u bubregu;u jetri;u slezeni;u bubregu;science
+U kojoj bi atletskoj disciplini sjajna bila mitska Atalanta?;u bacanju diska;u trčanju;u skoku u dalj;u skoku uvis;u trčanju;sport
+Koji je umjetni morski kanal najmlađi?;Korintski kanal;Sueski kanal;Kielski kanal;Panamski kanal;Panamski kanal;history
+Tko je Svarožić iz priče o Potjehu koji je tražio istinu?;veseli konjić;plašljivi zečić;podli vražić;blistavi mladić;blistavi mladić;art
+Koji je "starodrevni grad", kako ga opisuje Eugen Kumičić, "od grada Karlovca tri sata hoda put sjeverozapada"?;Nehaj;Klis;Ozalj;Medvedgrad;Ozalj;history
+Nastavite Preradovićev onomatopejski niz!"Zuji, zveči, zvoni, zvuči, šumi, grmi, tutnji...";huči;brenči;zvrči;krči;huči;art
+Koji je film utemljen na dvjema istinskim pričama?;Harold i Maude;Julie i Julia;Melinda i Melinda;Thelma i Louise;Julie i Julia;movie
+Koji je najnaseljeniji otok na svijetu?;Sumatra;Madagaskar;Java;Borneo;Java;geography
+Koja južnoamerička država u nazivu svog glavnog grada koristi kraticu D.C. ('Distrito Capital');Brazil;Argentina;Peru;Kolumbija;Kolumbija;geography
+Groenendael, Malinois, Terevuren ili Laekenois... Iz koje zemlje potječu ove pasmine?;Danske;Belgije;Nizozemske;Norveške;Belgije;geography
+Tko od navedenih nije Zeusovo dijete?;Ares;Perzej;Apolon;Hestija;Hestija;history
+Tko je naslijedio Nixona na mjestu predsjednika SAD-a nakon njegove ostavke 1974.?;Jimmy Carter;Gerald Ford;Lyndon Johnson;Ronald Reagan;Gerald Ford;history
+U kojem sportu postoji zeleni karton koji nakratko isključuje igrača iz igre?;hokej na ledu;hokej na travi;polo;ragbi;hokej na travi;sport
+S kojim američkim predsjednikom povezujemo "Tear down this wall" govor?;Nixonom;Reaganom;Carterom;Fordom;Reaganom;history
+Pod kojim je akronimom poznata njujorška burza?;NYSE;NYSI;NYVE;NYDE;NYSE;geography
+Uz Paola Borsellina, slavi se kao jedan od najvećih boraca protiv mafije. Mafija mu je podmetnula bombu u svibnju 1992. prilikom čega je smrtno stradao. Kako se zvao ovaj talijanski sudac?;Giovanni Falcone;Onorato Damen;Aminatore Farani;Alcide de Gasperi;Giovanni Falcone;history
+CIP-sustav služi određivanju apsolutne konfiguracije kiralnih atoma u organskim spojevima gdje je C - Cahn, a I - Ingold. Što je P?;Pascal;Prelog;Pauling;Pasteur;Prelog;science
+Sudeći po djelomično sačuvanom epitafu, kojem je hrvatskom vladaru 10. stoljeća supruga bila kraljica Jelena Slavna?;Tomislavu;Miroslavu;Mihajlu Krešimiru;Stjepanu Držislavu;Mihajlu Krešimiru;history
+U kojem se gradu u srpnju i kolovozu održava Porcijunkulovo? Neka od događanja daju već prepoznatljivo obilježje manifestacije su susreti Oldtimer-a i koncerti na više pozornica i ulični performansi;Varaždin;Čakovec;Opatija;Pula;Čakovec;geography
