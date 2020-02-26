@@ -1152,4 +1152,10 @@ Pod kojim je akronimom poznata njujorška burza?;NYSE;NYSI;NYVE;NYDE;NYSE;geogra
 Uz Paola Borsellina, slavi se kao jedan od najvećih boraca protiv mafije. Mafija mu je podmetnula bombu u svibnju 1992. prilikom čega je smrtno stradao. Kako se zvao ovaj talijanski sudac?;Giovanni Falcone;Onorato Damen;Aminatore Farani;Alcide de Gasperi;Giovanni Falcone;history
 CIP-sustav služi određivanju apsolutne konfiguracije kiralnih atoma u organskim spojevima gdje je C - Cahn, a I - Ingold. Što je P?;Pascal;Prelog;Pauling;Pasteur;Prelog;science
 Sudeći po djelomično sačuvanom epitafu, kojem je hrvatskom vladaru 10. stoljeća supruga bila kraljica Jelena Slavna?;Tomislavu;Miroslavu;Mihajlu Krešimiru;Stjepanu Držislavu;Mihajlu Krešimiru;history
+U čijoj su kuhinji specijalitet kuhana jaja u mljevenom mesu?;u škotskoj;u franacuskoj;u grčkoj;u mađarskoj;u škotskoj;geography
+Tko je rođen u Duluthu odakle je nekoć počinjala Highway 61 koju je opjevao?;Elvis Presley;Bruce Springsteen;Bob Dylan;Kurt Cobain;Bob Dylan;music
 U kojem se gradu u srpnju i kolovozu održava Porcijunkulovo? Neka od događanja daju već prepoznatljivo obilježje manifestacije su susreti Oldtimer-a i koncerti na više pozornica i ulični performansi;Varaždin;Čakovec;Opatija;Pula;Čakovec;geography
+Koju je operu Giuuseppe Verdi skladao po narudžbi kediva Ismail-paše?;Aidu;La Traviatu;Rigoletta;Nabucco;Aida;art
+Koji je košarkaški trener osvajao prvenstva Hrvatske, Slovenije, Turske, Španjolske, Litve i Izraela?;Aleksandar Petrović;Jasmin Repeša;Neven Spahija;Petar Skansi;Neven Spahija;sport
+Po kome su nazvana 3 najveća australska grada?;po zatvorenicima;po aristokratima;po istraživačima;po znanstvenicima;po aristokratima;geography
+Tko je kućicu u kojoj je živio u svojim poznijim godinama oslikao halucinantnim ciklusom crnih slika?;Goya;Rembrandt;Rubens;El Greco;Goya;art
